@@ -1,7 +1,9 @@
-== Letters L &mdash; LXX
+== Letters 50 &mdash; 70
 
-LETTER L.
+[.letter-heading]
+LETTER 50.
 
+[.signed-section-context-open]
 9th month 1769.
 
 I note what thou sayest of thy inward conflicts.
@@ -45,10 +47,13 @@ and more and more learn this lesson, to cease from man, even the best of men,
 and have our sole dependance on the Lord Almighty,
 who is the primary source and supply of every substantial good.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LI.
+[.letter-heading]
+LETTER 51.
 
+[.signed-section-context-open]
 1st month 1774.
 
 Thou livest in a place distant from the body of friends belonging to the monthly meeting;
@@ -114,10 +119,13 @@ because by persisting in the resolution which I am told thou hast formed in this
 thou wilt, in a great measure, break the bond of fellowship with our religious society,
 and I believe it will not prosper with thee.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LII.
+[.letter-heading]
+LETTER 52.
 
+[.signed-section-context-open]
 6th month 1777.
 
 I note thy desire to be acquainted with true religion, and that thou hast read books,
@@ -170,10 +178,13 @@ nor can be come at by the working of any artificial tool of our imagination;
 but which the great master sends in his own time, "`To revive the spirit of the humble,
 and to revive the heart of the contrite ones.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LIII.
+[.letter-heading]
+LETTER 53.
 
+[.signed-section-context-open]
 12th month 1780.
 
 A personal interview is pleasing,
@@ -210,10 +221,13 @@ and the nearer we shall approach to the highest perfection of our natures,
 the fulfilling the precept of Christ, "`Be ye therefore perfect,
 even as your Father who is in heaven is perfect.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LIV.
+[.letter-heading]
+LETTER 54.
 
+[.signed-section-context-open]
 12th month 1781.
 
 I Like that young men should avow their principles,
@@ -237,10 +251,13 @@ Then the answer of "`Well done! good and faithful servant,`" will be a more joyf
 a more substantial reward, than all the favour and friendship, false praise and honour,
 which this life can bestow.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LV.
+[.letter-heading]
+LETTER 55.
 
+[.signed-section-context-open]
 3rd month 1783.
 
 She is now released from those long infirmities which
@@ -292,11 +309,15 @@ and in his hand be made a blessing to the younger branches of the family,
 assisting to train them up, by example and precept, in the life of religion,
 and in that plainness and simplicity which adorn our holy profession.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LVI.
+[.letter-heading]
+LETTER 56.
 
+[.signed-section-context-open]
 2nd month 1784.
+
 I have repeatedly heard of thy appearances in a few words in public and private opportunities,
 and no doubt, in diffidence and fear.
 I need not tell thee that it is a great and solemn
@@ -324,10 +345,13 @@ and the turning of his holy hand is patiently borne and submitted to,
 he will (I trust) in his own time, "`Bring forth thy righteousness as the light,
 and thy judgment as the noon-day.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LVII.
+[.letter-heading]
+LETTER 57.
 
+[.signed-section-context-open]
 9th month 1784.
 
 It was very pleasing to hear that it proved consistent
@@ -368,10 +392,13 @@ we may lose "`the wise and prudent,`" in the reduction of self,
 and be in a state fit to receive the glorious mysteries of the kingdom,
 "`revealed unto babes`" in Christ.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LVIII.
+[.letter-heading]
+LETTER 58.
 
+[.signed-section-context-open]
 8th month 1791.
 
 Thou knowest upon what grounds, convictions and feelings thou earnest, at the first,
@@ -425,10 +452,13 @@ who gave thee a name and inheritance among his people, and who,
 if the fault be not thy own, will demonstrate that his promises are not yea and nay,
 but yea and Amen, and that his mercy endureth forever.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LIX.
+[.letter-heading]
+LETTER 59.
 
+[.signed-section-context-open]
 5th month 1786.
 
 The national meeting was, I hope, owned in degree in the several sittings of it;
@@ -458,10 +488,13 @@ not too much looking out and musing on what this or that body will say or think,
 but cultivating retiredness of spirit, and attending to the gift which is in thee:
 so be it.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LX.
+[.letter-heading]
+LETTER 60.
 
+[.signed-section-context-open]
 10th month 1786.
 
 Such is the excellent nature of this holy power,
@@ -483,10 +516,13 @@ we shall certainly get enough to keep life and soul together, and as the times g
 we may be very well satisfied with this,
 "`Thou shalt not muzzle the ox which treadeth out the corn.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXI.
+[.letter-heading]
+LETTER 61.
 
+[.signed-section-context-open]
 1st month 1788.
 
 Last night we received thine, of the day preceding,
@@ -537,10 +573,13 @@ But I trust a placid serenity is the covering of thy spirit, and that thou hast 
 and wilt be enabled often to bless, that hand which mercifully giveth,
 and as mercifully and wisely taketh away, at his pleasure.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXII.
+[.letter-heading]
+LETTER 62.
 
+[.signed-section-context-open]
 11th month 1788.
 
 Indeed my heart has been made glad in the house of prayer,
@@ -554,10 +593,13 @@ that so by and through them, under divine protection and direction,
 the continued backsliding of a degenerate people may, in a good measure, be stopped,
 and the Lord may be graciously pleased to return to the many thousands of Israel.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXIII.
+[.letter-heading]
+LETTER 63.
 
+[.signed-section-context-open]
 7th month 1790.
 
 I Have indeed abundant cause of thankfulness to our Almighty Benefactor,
@@ -586,10 +628,13 @@ have taken root downwards, and are shooting vigorously upwards.
 Much depends on their preservation from any annoyance, on their upright growth,
 and bearing each their own kind of fruit in due season.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXIV.
+[.letter-heading]
+LETTER 64.
 
+[.signed-section-context-open]
 11th month 1790.
 
 It is often easier to give advice than to take it: it is easy to recommend resignation,
@@ -611,10 +656,13 @@ wilt have experimentally to testify to the sufficiency of that arm of everlastin
 which could deliver in such sort,
 as to encourage other travellers in like tribulated paths to hold on their way.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-BETTER LXV.
+[.letter-heading]
+LETTER 65.
 
+[.signed-section-context-open]
 3rd month 1791.
 
 People may talk of the weight and influence and respectability of old age;
@@ -631,10 +679,13 @@ tender connections left at home;
 but the ark of the testimony must be taken out of the land of the Philistines,
 out of the hands of the uncircumcised; and blessed will they be with whom it resteth.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXVI.
+[.letter-heading]
+LETTER 66.
 
+[.signed-section-context-open]
 6th month 1791.
 
 The yearly meeting was large and solemn:
@@ -667,10 +718,13 @@ and for the sorrows and perplexities of this world to be turned into heavenly jo
 Nothing short of hearkening and obeying will do; but this will do all for thee,
 and more than thou canst ask or think.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXVII.
+[.letter-heading]
+LETTER 67.
 
+[.signed-section-context-open]
 8th month 1791.
 
 This life is the field of battle,
@@ -692,10 +746,13 @@ as an object of contemplation for themselves,
 and a subject which they are authorized to handle with clean hands,
 and with hallowed lips to communicate to others.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXVIIi.
+[.letter-heading]
+LETTER 68.
 
+[.signed-section-context-open]
 11th month 1791.
 
 I love to see business, the Lord`'s business, going forward,
@@ -711,10 +768,13 @@ that so at the awful day of decision, our spirits, disrobed of this mortal cloth
 may hear the blessed sentence with unspeakable joy,
 and be mercifully separated to eternal felicity.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXIX.
+[.letter-heading]
+LETTER 69.
 
+[.signed-section-context-open]
 7th month 1792.
 
 I think it a pity that he should be so much confined, but perhaps it may be best;
@@ -730,10 +790,13 @@ that distance does not always disunite; there may be a great travail,
 union and communion of spirit, where there is a bodily separation.
 "`He that is joined in spirit to the Lord, is joined to all the living.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXX.
+[.letter-heading]
+LETTER 70.
 
+[.signed-section-context-open]
 2nd month 17th 1791.
 
 On my return from I was saluted with thy kind epistle.
@@ -825,4 +888,5 @@ but have not left myself room to write it down:
 amongst others +++_______+++ (if still on this side of heaven)
 possesses my affectionate remembrance.
 
+[.signed-section-signature]
 Richard Shackleton.
