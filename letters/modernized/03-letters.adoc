@@ -1,7 +1,9 @@
-== Letters XVII &mdash; XXIV
+== Letters 17 &mdash; 24
 
-LETTER XVII.
+[.letter-heading]
+LETTER 17.
 
+[.signed-section-context-open]
 1st month 24th, 1758.
 
 I received your last letter just as I had engaged
@@ -193,9 +195,11 @@ at least as a hired servant, to receive food convenient and sufficient for me;
 for if we are but favoured to be admitted into his house, and service, it is enough,
 the lowest seat and meanest office is worth all we can do and suffer to obtain it.
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER XVIII.
+[.letter-heading]
+LETTER 18.
 
 In the fellowship of true and unfeigned love,
 that unites the hearts of the faithful in a joint communion one with another,
@@ -405,7 +409,8 @@ and so far favour those who have no might of their own,
 as to guard them with his own arm by day and night,
 gently leading those that are with young, bearing them in his arms.
 
-LETTER XIX.
+[.letter-heading]
+LETTER 19.
 
 Though time and strength seem to fail more fully to visit you in the exercise of that
 part of the ministry which the Lord has been pleased graciously to bestow upon me,
@@ -549,7 +554,8 @@ at least of some backsliders, and poor lost sheep:
 so will the church in general be comforted, her afflicted ministers relieved,
 and the Lord over all glorified, who with his Son the Lamb, is worthy forever.
 
-LETTER XX.
+[.letter-heading]
+LETTER 20.
 
 In the spring of immortal love I greet you, wishing your soul`'s welfare in Christ Jesus.
 
@@ -634,8 +640,10 @@ whereby their standing has been dangerous.
 It is the life of religion that is a shelter from the heat, and a covert from the storms,
 and as the shade of a mighty rock in a weary land.
 
-LETTER XXI.
+[.letter-heading]
+LETTER 21.
 
+[.signed-section-context-open]
 10th month 1760.
 
 The relation I stand in to one of your little scholars,
@@ -685,10 +693,13 @@ and ill-nature and stubbornness.
 I have no intention to give you offence by these remarks,
 but am obliged to say thus much in point of duty.
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER XXII.
+[.letter-heading]
+LETTER 22.
 
+[.signed-section-context-open]
 7th month 1757.
 
 It is four years since it pleased the Divine Being
@@ -730,10 +741,13 @@ so that those who are in any degree favoured with an abode here,
 had need to use all diligence to obtain a settlement and establishment,
 that they may go no more out.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXIII.
+[.letter-heading]
+LETTER 23.
 
+[.signed-section-context-open]
 7th month 1752.
 
 Though my ability is weak, my understanding and experience very little,
@@ -776,11 +790,15 @@ of the dispensation antecedent to the coming of Christ,
 namely, The voice of one crying in the wilderness, prepare the way of the Lord,
 make straight his paths, or make straight in the desert a high way for our God.
 
+[.signed-section-signature]
 Richard Shackleton.
 
+[.letter-heading]
 LETTER XXIV.
 
+[.signed-section-context-open]
 8th month 1752.
+
 Many are the visited and called of the Lord, but few are his chosen.
 The reason I believe is,
 because all those who are visited are not faithful
@@ -799,4 +817,5 @@ and as you are faithful herein you will know by degrees
 judgment to be brought forth into victory,
 and you shall in due season feel that peace which passes the understanding.
 
+[.signed-section-signature]
 Richard Shackleton.
