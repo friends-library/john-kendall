@@ -1,7 +1,9 @@
-== Letters XXV &mdash; XLIX
+== Letters 25 &mdash; 49
 
-LETTER XXV.
+[.letter-heading]
+LETTER 25.
 
+[.signed-section-context-open]
 4th month 1755.
 
 We should labour to command our own spirits, which not being properly subjected,
@@ -35,10 +37,13 @@ This is only to be learned of the word,
 which the apostle compares to a sword that can make a division,
 as between the joints and marrow, the soul and spirit.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXVI.
+[.letter-heading]
+LETTER 26.
 
+[.signed-section-context-open]
 1st month 1761.
 
 Surely some people or other, of honest plain and simple hearts,
@@ -66,10 +71,13 @@ I am made thoroughly sensible of my own weakness and worthlessness.
 I wish I could as effectually get released from my failings, as I plainly see them,
 and sometimes heartily lament them.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXVII.
+[.letter-heading]
+LETTER 27.
 
+[.signed-section-context-open]
 5th month 1762.
 
 We have been informed of thy embarking in the uncertain
@@ -115,10 +123,13 @@ which is the criterion of our religious profession,
 thou wilt be in the favour and under the protection of divine Providence,
 and no necessary good thing, spiritual or temporal, will be wanting.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXVIII.
+[.letter-heading]
+LETTER 28.
 
+[.signed-section-context-open]
 8th month 1762.
 
 That crafty enemy with whom we have to contend,
@@ -147,10 +158,13 @@ not only for every day`'s particular service, which it brings along with it,
 while we are in the body,
 but which is absolutely necessary for the preservation of the life of our own souls.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXIX.
+[.letter-heading]
+LETTER 29.
 
+[.signed-section-context-open]
 4th month 1752.
 
 Oh, that I may come to be more and more weaned from the love of the world,
@@ -170,10 +184,13 @@ and not thy bad ones (for such are unknown to me) that makes me so much desire t
 and that those gifts and graces may be kept pure and chaste without any base alloy:
 which I hope and believe they hitherto are.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXX.
+[.letter-heading]
+LETTER 30.
 
+[.signed-section-context-open]
 9th month 1752.
 
 My beloved friend,
@@ -199,11 +216,15 @@ by the malice and bitterness of men.
 It is a kind of balking the devil and his agents; for being already in the valley,
 it is impossible for them to cast us from an eminence.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXI.
+[.letter-heading]
+LETTER 31.
 
+[.signed-section-context-open]
 3rd month 1753.
+
 The sorrows and heaviness which the Lord brings over his people immediately,
 for his own wise purposes, or which are permitted to befall them by adverse accidents,
 or sometimes by means of the wicked, which, (as the psalmist says) are his sword;
@@ -214,11 +235,15 @@ the troubles which we bring on ourselves, through our own unwatchfulness,
 I know by experience, lie with a dead weight upon us;
 and from such I heartily pray that both I, and those whom I love, may be delivered.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXII.
+[.letter-heading]
+LETTER 32.
 
+[.signed-section-context-open]
 8th month 1756.
+
 Thou art hear to us,
 time nor distance have not obliterated the memory of those
 seasons when we have been blended into one spirit by baptism,
@@ -242,10 +267,13 @@ but for want of giving up all,
 and from being wedded to one little lower delight or another,
 move in less exalted orbits.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXIII.
+[.letter-heading]
+LETTER 33.
 
+[.signed-section-context-open]
 2nd month 1761.
 
 Go on, my dear friend, in the diligent exercise of thy gift:
@@ -263,11 +291,15 @@ and how then can we apply them to the work?
 will not the savour of the defilement, (though it be but small) be perceived by the wise,
 to be upon that which we have handled; how then will it prosper?
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXIV.
+[.letter-heading]
+LETTER 34.
 
+[.signed-section-context-open]
 6th Mo 1761.
+
 Thou art now a man of experience,
 and shouldest endeavour for such a growth as the apostle witnessed, who once was a child,
 but afterwards in all stations learned to be content.
@@ -287,11 +319,15 @@ important to ourselves and important by our example to others,) I say,
 may his holy fear be ever so before our eyes, as to preserve us from sinning in thought,
 word, or deed, against him.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXV.
+[.letter-heading]
+LETTER 35.
 
+[.signed-section-context-open]
 10th month 1763.
+
 I Would have thee (for many reasons) to be exemplarily generous in contributing
 to this and all other public expenses relative to the good of the society.
 Let us show that we have its welfare at heart, and that we are willing to act,
@@ -314,11 +350,15 @@ I believe sooner than be at any considerable expense in supporting it,
 they would let the testimony of truth fall to the ground and sink into oblivion,
 as they now trample upon and dishonour it by their lives and conversation.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXVI.
+[.letter-heading]
+LETTER 36.
 
+[.signed-section-context-open]
 12th month 1763.
+
 I Note thy remarks, and acknowledge the justice of them; this wrath of man (of which,
 pride, imperiousness,
 self-will and caprice are branches) neither wills nor works the righteousness of God;
@@ -354,11 +394,15 @@ rather than ambassadors of the first rank from Christ Jesus to his people,
 should be put upon the office of soliciting for money
 from them for the contingent expenses of society.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXVII.
+[.letter-heading]
+LETTER 37.
 
+[.signed-section-context-open]
 3rd month 1766.
+
 I See more and more that I was not cut out to be a man for this world,
 not one of the wise ones and the great ones of the earth;
 nor since my thoughts took a religious turn, did I ever expect, or desire it.
@@ -376,11 +420,15 @@ And I am glad to feel a renewal of this sacred baptism,
 and I trust will preserve our fellowship unbroken to the end,)
 while I thus converse (without any premeditation) with thee.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXVIII.
+[.letter-heading]
+LETTER 38.
 
+[.signed-section-context-open]
 6th month 1771.
+
 I Seem not to have any repository of my own, from whence I might impart any good thing.
 So far from it, I am so exceedingly reduced,
 so complete a bankrupt in my spiritual circumstances, so poor,
@@ -418,11 +466,15 @@ and by the interfering of our own carnal wills and wisdom
 take our bark as it were out of the hands of the good pilot,
 and run it against some rocks, where it might perish forever.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XXXIX.
+[.letter-heading]
+LETTER 39.
 
+[.signed-section-context-open]
 4th month 1787.
+
 Ye have heard no doubt of our dear friend having uncovered his head, his anointed head,
 in the religious assemblies in Dublin.
 My heart was glad when I heard it.
@@ -459,11 +511,16 @@ Let the pure truth and its heavenly wisdom circumscribe
 your desires and designs in all things;
 you will find its government and direction most profitable,
 both as to the life which now is, and that which is to come.
+
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XL.
+[.letter-heading]
+LETTER 40.
 
+[.signed-section-context-open]
 4th month 1769.
+
 It`'s parent`'s affliction for the loss of that dear
 departed youth I doubt not has been very considerable:
 these events are not without the ordering of an all-wise agent,
@@ -496,9 +553,11 @@ instead of growing from strength to strength through faithfulness in the little,
 the soul becomes weaker and weaker, loses its hold of the means of its salvation,
 and is in danger of perishing forever.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLI.
+[.letter-heading]
+LETTER 41.
 
 Thou and I, my dear friend,
 are blessed with beloved consorts and true help-mates agreeable to our wish:
@@ -511,11 +570,15 @@ and help them forward in the right road: not only suffering,
 but earnestly persuading the little children to come unto Christ,
 whose arms are still extended to receive them.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLII.
+[.letter-heading]
+LETTER 42.
 
+[.signed-section-context-open]
 8th month 1775.
+
 Submit we must: our lives, the lives of all we hold dear to us,
 and every comfort we extract from everything,
 are in the hand of omnipotence and under his control;
@@ -533,11 +596,15 @@ and one exercise after another, till our measure of suffering is filled up,
 and our weary spirits are admitted into that holy rest prepared
 for those who through faith have overcome in this dangerous warfare.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLIII.
+[.letter-heading]
+LETTER 43.
 
+[.signed-section-context-open]
 1st month 1787.
+
 At present,
 there is cause for much gratitude on account of the
 day of prosperity which we are favoured with.
@@ -570,10 +637,13 @@ and being faithful to every manifestation of active duty;
 this I believe is the way to draw down the blessing of heaven,
 and perpetuate it among us,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLIV.
+[.letter-heading]
+LETTER 44.
 
+[.signed-section-context-open]
 3rd month 1763.
 
 Infirmities of various kinds are by the appointment
@@ -595,10 +665,13 @@ to release the soul from the fetters of mortality,
 that it may take its flight into the regions of pure joy,
 and unmixed undisturbed felicity.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLV.
+[.letter-heading]
+LETTER 45.
 
+[.signed-section-context-open]
 7th month 1763.
 
 I Read thy last, and attended to the contents with a mind impressed with sorrow,
@@ -625,10 +698,13 @@ I would earnestly recommend them; and as this becomes predominant in the mind,
 it will influence to say and do these things, and these only, which make for peace;
 and it will bear down all before it, and in due time re-possess the gates of its enemies.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLVI.
+[.letter-heading]
+LETTER 46.
 
+[.signed-section-context-open]
 11th month 1766.
 
 I Can conceive by past sorrowful experience the trouble your family must be in,
@@ -678,10 +754,13 @@ yet full of compassion and merciful regard to his
 poor afflicted devoted children and servants,
 who faithfully serve and submissively rely upon him.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLVII.
+[.letter-heading]
+LETTER 47.
 
+[.signed-section-context-open]
 12th month 1766.
 
 I Think I have seen that thy heavenly Father and Merciful Creator,
@@ -706,10 +785,13 @@ My sincere desire is that ye may be so wise in heart, so true to your own best i
 as not to reject the offers of such gracious favour and condescension,
 but thankfully embrace them as your chiefest good.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLVIII.
+[.letter-heading]
+LETTER 48.
 
+[.signed-section-context-open]
 2nd month 1767.
 
 Dear cousins, ye are now joined together, I hope, by the ordering hand of Providence;
@@ -781,10 +863,13 @@ But in all that he throws down, as well as in all he builds up,
 the Lord Almighty (as we rely upon him, and are faithful to his discoveries),
 will be found to do everything right, and for our good every manner of way.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XLIX.
+[.letter-heading]
+LETTER 49.
 
+[.signed-section-context-open]
 2nd month 1769.
 
 I have thought of thee with concern,
@@ -814,4 +899,5 @@ who can bless or blast all thy endeavours;
 and which preclude thee from that frequency of intercourse with thy best friends,
 by whose communion, and good counsel, thou mightest be profited and helped every way.
 
+[.signed-section-signature]
 Richard Shackleton.
