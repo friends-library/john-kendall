@@ -1,6 +1,7 @@
-== Letters LXXXVI &mdash; CXII
+== Letters 86 &mdash; 112
 
-LETTER LXXXVI.
+[.letter-heading]
+LETTER 86.
 
 The religion of some seems to consist in the remembrance of former experience,
 a rational understanding of our principles and the discipline of the church,
@@ -10,13 +11,16 @@ for want of looking and living at home, for want of watching unto prayer,
 and waiting for renewed ability to offer the daily sacrifice on the fresh raised altar,
 insensibility and incapacity gather strength, and leanness enters into our souls.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXVII.
+[.letter-heading]
+LETTER 87.
 
+[.signed-section-context-open]
 16th of 7th month 1782.
 
-I Take very kind, and as a mark of friendship, thy advising me of the removal,
+I take very kind, and as a mark of friendship, thy advising me of the removal,
 as well as the birth of thy first born.
 We naturally look about for those we love to communicate
 with them our joys and our griefs.
@@ -64,10 +68,13 @@ If we can be termed by the Just Judge,
 "`Good and faithful servants,`" we shall enter into the joy of our Lord.
 May we set this prize, and keep it steadily in view, my dear friend.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXVIII.
+[.letter-heading]
+LETTER 88.
 
+[.signed-section-context-open]
 8th of 9th month 1780.
 
 The riches of this world, accumulated even by honest industry,
@@ -114,10 +121,13 @@ dispositions which will much disqualify us for filling
 our several departments in life with propriety,
 and with ease and satisfaction to ourselves and others.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXIX.
+[.letter-heading]
+LETTER 89.
 
+[.signed-section-context-open]
 16th of 4th month 1768.
 
 We lost my dear mother, the day after thou and I parted.
@@ -137,10 +147,13 @@ under every difficulty, is to be had.
 He is like one of the old patriarchs that digged a well,
 and so has water of his own labouring for, to drink of.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XC.
+[.letter-heading]
+LETTER 90.
 
+[.signed-section-context-open]
 4th of 9th month 1768.
 
 My leisure from the duties of necessary business is small, and this leisure is,
@@ -192,10 +205,13 @@ and to the visits of his quickening grace and good spirit.
 May it be the main employment of our lives,
 to seek to dwell under the renewed influence of it!
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCI.
+[.letter-heading]
+LETTER 91.
 
+[.signed-section-context-open]
 30th of 10th month 1768.
 
 I Receive, with much satisfaction, the account of the increase of thy family.
@@ -210,13 +226,16 @@ this day calls for the dedication of all to him who has given us all that is goo
 and is over all, blessed in himself, and the source of all our blessings,
 now and forever.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCII.
+[.letter-heading]
+LETTER 92.
 
+[.signed-section-context-open]
 4th of 4th month 1769.
 
-I Note thy incertitude about settling, and that thy desire is to be directed aright.
+I note thy incertitude about settling, and that thy desire is to be directed aright.
 Human projects and prospects formed by the best share of mere reason are very fallacious:
 and who expects or looks for any better direction in matters of such a nature?
 Too few indeed have a right to expect any better; and yet my belief is,
@@ -250,10 +269,13 @@ as well as mine, may be better than the former part of our lives,
 more steadily feeling after good, more plentifully enjoying it,
 and more diffusely spreading the influence of it!
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCIII.
+[.letter-heading]
+LETTER 93.
 
+[.signed-section-context-open]
 7th month 1769.
 
 By good education and good example they may become very valuable members of society,
@@ -276,10 +298,13 @@ in their place and season.
 Even the heathen poet was sensible of the forcible effect of example on children,
 when he says, "`Maxima debetur pueris reverentia.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCIV.
+[.letter-heading]
+LETTER 94.
 
+[.signed-section-context-open]
 8th month 1769.
 
 I have many warm wishes for some of `'s children; they are near and dear to me.
@@ -292,10 +317,13 @@ who have been happily enamoured of sovereign beauty and excellence,
 and have in their hearts chosen that good pari,
 which I heartily pray may never be taken (by the adversary or his agents) from them.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCV.
+[.letter-heading]
+LETTER 95.
 
+[.signed-section-context-open]
 9th month 1769.
 
 I make no doubt but thou hast had thy head, heart,
@@ -317,10 +345,13 @@ on observing many events of this kind.
 May they all work together for good to our afflicted friends,
 and to us who bear a part in their affliction.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCVI.
+[.letter-heading]
+LETTER 96.
 
+[.signed-section-context-open]
 2nd month 1770.
 
 How my poor mind delights to see the children of the heavenly
@@ -345,10 +376,13 @@ doing all we can, in our little sphere of action, for the truth, and nothing aga
 that so we may obtain the blessing, which alone can sweeten the cup of life,
 and even takes away the bitter from the cup of death.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCVII.
+[.letter-heading]
+LETTER 97.
 
+[.signed-section-context-open]
 3rd month 1770.
 
 I don`'t love dealing in hyperboles when I am about writing sober sense in prose;
@@ -371,10 +405,13 @@ but as empty vines bringing forth fruit to themselves,
 to whom cannot be applied that encouraging expression of the apostle,
 ye have your fruit unto holiness, and the end everlasting life.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCVIII.
+[.letter-heading]
+LETTER 98.
 
+[.signed-section-context-open]
 5th month 1770.
 
 People are too apt to dwell upon the disagreeable part of a character;
@@ -396,13 +433,16 @@ Our ever swerving from it was the original cause of our past errors,
 and the troublesome consequences which attended them.
 On our regaining it depends our present, and the earnest of our future, real happiness.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER XCIX.
+[.letter-heading]
+LETTER 99.
 
+[.signed-section-context-open]
 6th month 1770.
 
-I Was glad to hear that ye got something done with those litigious people
+I was glad to hear that ye got something done with those litigious people
 at +++________+++. Perhaps if the root of bitterness be not entirely eradicated,
 yet what is left may die in the ground.
 Cut a thing often down when it springs up, and it weakens its very root,
@@ -454,13 +494,16 @@ for want of learning the exercise and discipline at home,
 and meeting frequently with their fellows in rank abroad.
 "`Felix quern faciunt aliena pericula cautum.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER C.
+[.letter-heading]
+LETTER 100.
 
+[.signed-section-context-open]
 9th month 1770.
 
-I Feel a nearness which words cannot fully set forth,
+I feel a nearness which words cannot fully set forth,
 and which I believe would not be felt,
 if we were not in measure preserved to be near the truth.
 The Lord grant that it may ever be the bond of our fellowship,
@@ -482,11 +525,15 @@ and labour diligently after obtaining an evidence,
 an earnest of an inheritance everlasting, incorruptible, and full of glory;
 seeing that our stay here is so short, so uncertain, and attended with manifold troubles.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CL
+[.letter-heading]
+LETTER 101.
 
+[.signed-section-context-open]
 10th month 1770.
+
 Health is an invaluable blessing; yet even the want of it has its use.
 By that (or rather for that) we are deeply bound in gratitude
 to the Giver of every good and perfect gift:
@@ -504,10 +551,13 @@ where we are to have so short and uncertain a residence,
 and incite us diligently to seek for an earnest, a well grounded hope,
 an assurance of an inheritance among the saints in light.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CII.
+[.letter-heading]
+LETTER 102.
 
+[.signed-section-context-open]
 11th month 1770.
 
 Since I received thine, I have attended the national meeting,
@@ -554,10 +604,13 @@ by seeing the spreading of the same divine virtue in thy family;
 and those who by the ties of nature and blood are near,
 will be made still nearer and dearer by the bond of a spiritual relationship.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CHI.
+[.letter-heading]
+LETTER 103.
 
+[.signed-section-context-open]
 6th month 1771.
 
 He lies composed at present, often lifts up his hands,
@@ -569,13 +622,16 @@ How long it may please the great Creator,
 that his excellent spirit shall continue in his poor emaciated body, I know not,
 but it looks as if it would not be many days.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CIV.
+[.letter-heading]
+LETTER 104.
 
+[.signed-section-context-open]
 11th month 1771.
 
-I Hope this will find thee safe arrived at home,
+I hope this will find thee safe arrived at home,
 and that home has an agreeable relish after thy long peregrination;
 it is one of the advantages that accrues from travelling,
 that we return with a renovation of keen appetite for our domestic satisfactions.
@@ -594,10 +650,13 @@ and for our preparation to have admission some where, any where,
 within the gates of that kingdom where the wicked cease from troubling,
 and the weary are at rest.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CV.
+[.letter-heading]
+LETTER 105.
 
+[.signed-section-context-open]
 12th month 1771.
 
 Alas! my friend, this is a day of weakness and distress, a day of stripping and famine.
@@ -624,9 +683,11 @@ and shall teach men so, he shall be called the least in the kingdom of heaven;
 but whosoever shall do and teach them (here is conduct and preaching
 united) the same shall be called great in the kingdom of heaven.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CVI.
+[.letter-heading]
+LETTER 106.
 
 Thus one after another we are overtaken by some messenger
 sent to summon us from time to eternity! happy those who,
@@ -642,10 +703,13 @@ which in the end will be found to stand all her votaries
 in best and most effectual stead.
 A friend in need, is a friend indeed.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CVII.
+[.letter-heading]
+LETTER 107.
 
+[.signed-section-context-open]
 10th month 1772.
 
 Indeed we are on manifold accounts debtors to our great Benefactor,
@@ -694,10 +758,13 @@ for indeed in my apprehension,
 the want of patiently learning these first rudiments of religion,
 is the grand cause we have so few good scholars in the school of Christ.
 
+[.signed-section-signature]
 Richard Shackleton,
 
-LETTER CVIII.
+[.letter-heading]
+LETTER 108.
 
+[.signed-section-context-open]
 1st month 1771.
 
 Tis true his (+++_________+++`'s father) uniformly well-spent
@@ -712,10 +779,13 @@ who have given the lie by their conduct and conversation to a high and holy prof
 feel in that day and hour, when they have no oil in their lamps,
 on treasure in store against that pinching time?
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CIX.
+[.letter-heading]
+LETTER 109.
 
+[.signed-section-context-open]
 7th month 1771.
 
 He ( +++_______+++`'s father) lived in watchful fear and circumspection:
@@ -730,10 +800,13 @@ Since his translation, I feel to myself exceedingly weak,
 sometimes greatly affected at this final separation, at other times more cheerful,
 and thankful for the many domestic comforts remaining.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CX.
+[.letter-heading]
+LETTER 110.
 
+[.signed-section-context-open]
 6th month 1772.
 
 I doubt not but some of you wish for his return; but am also of opinion,
@@ -744,10 +817,13 @@ and the uncertainty of instrumental aid,
 I trust ye look with anxious solicitude to him who sees in secret,
 and is the only sure effectual help and supply of his people.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXI.
+[.letter-heading]
+LETTER 111.
 
+[.signed-section-context-open]
 12th month 1771.
 
 Change is the condition of our nature and place;
@@ -792,10 +868,13 @@ clean (no matter how empty) which receives (when it pleases infinite
 wisdom to communicate it) that most excellent treasure,
 the joy of God`'s salvation.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXII.
+[.letter-heading]
+LETTER 112.
 
+[.signed-section-context-open]
 2nd month 1779.
 
 Many changes happen in the course of time.
@@ -808,4 +887,5 @@ to sustain us through the perils and difficulties of this life;
 pilot us safe through the dreadful gulf, terrible to human nature,
 and launch us into that illimitable ocean of happiness which knows no shores.
 
+[.signed-section-signature]
 Richard Shackleton.
