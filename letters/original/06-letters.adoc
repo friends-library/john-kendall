@@ -1,7 +1,9 @@
-== Letters LXXI &mdash; LXXXV
+== Letters 71 &mdash; 85
 
-LETTER LXXI.
+[.letter-heading]
+LETTER 71.
 
+[.signed-section-context-open]
 9th month 4th, 1791.
 
 Remembering that I was in thy epistolary debt,
@@ -79,10 +81,13 @@ I know kindly interest themselves in the welfare of me and mine.
 Be so kind as to inform them,
 that we are generally favoured with health and tranquillity here.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXII.
+[.letter-heading]
+LETTER 72.
 
+[.signed-section-context-open]
 8th month 3rd, 1792.
 
 I doubt not but that our beloved sister acknowledged
@@ -171,9 +176,11 @@ Shall always be obliged by any new material intelligence concerning the affairs 
 on that, or this neighbouring continent.
 Remember me affectionately to my dear friends.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXIII.
+[.letter-heading]
+LETTER 73.
 
 I feel unity with the meeting`'s renewed labour with +++_______+++. O
 what an element is divine love! in this the children of the light,
@@ -213,9 +220,11 @@ thou hast nothing to do but to die; this mortal to put on immortality;
 thy sorrows here to be changed into unmixed everlasting joy;
 and thy example and memorial will live and preach to succeeding generations.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXIV.
+[.letter-heading]
+LETTER 74.
 
 Alas I am a poor weak creature, much more fit to be ministered to,
 than qualified to minister to another:
@@ -240,11 +249,13 @@ are made manifest through the gospel.
 A dispensation of which, I doubt not, is committed to thee, in order to advance,
 according to thy gift and measure, these glorious ends.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXV.
+[.letter-heading]
+LETTER 75.
 
-I Doubt not thou esteemest it a favour from on high to be engaged, in the least degree,
+I doubt not thou esteemest it a favour from on high to be engaged, in the least degree,
 in the Lord`'s service.
 Mayest thou always keep here; low, humble,
 thankful for any scraps which may fall from the altar, about which thou ministers.
@@ -264,9 +275,11 @@ and they are ready and willing to go on his errands;
 they take the message clearly and deliver it clearly;
 it carries conviction along with it, and the work is blessed in their hands.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXVI.
+[.letter-heading]
+LETTER 76.
 
 Notwithstanding the reports of the vessel being wrecked,
 which conveyed our dear friends and +++_________+++ I
@@ -292,10 +305,13 @@ and afford an adequate supply from his inexhaustible treasury!
 He has a remedy competent to every evil,
 and no depth of distress is out of the reach of his merciful relief.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXVII.
+[.letter-heading]
+LETTER 77.
 
+[.signed-section-context-open]
 17th of 10th month 1780.
 
 The near affection, esteem and respect, which I bore to thy late father-in-law,
@@ -381,10 +397,13 @@ and whence they have strayed; be minded to return to their heavenly Father`'s ho
 and experience the arms of mercy stretched forth in great condescension to receive them,
 ere it be too late, and the door be finally shut.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXVIII.
+[.letter-heading]
+LETTER 78.
 
+[.signed-section-context-open]
 19th of 2nd month 1771.
 
 I Confess it looks hardly decent in me to make no return of this
@@ -452,9 +471,11 @@ and the service of the best of masters, will have it said to them individually,
 Excuse this freedom which I have taken on this solemn subject;
 a consciousness of my hearty desires for thy welfare, emboldens me to use it.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXIX.
+[.letter-heading]
+LETTER 79.
 
 By a letter I have just now received from thy nephew, I am informed of thy great loss.
 Want of earlier information renders it difficult for me to attend the solemnity,
@@ -518,9 +539,11 @@ and in his hand be made a blessing to the younger branches of the family,
 assisting to train them up, by example and precept, in the life of religion,
 and in that plainness and simplicity which adorn our holy profession.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXX.
+[.letter-heading]
+LETTER 80.
 
 Our meetings of discipline were held this week at Carlow.
 There seemed to appear some good fruits of the manifold labours taken lately;
@@ -588,9 +611,11 @@ we may be enabled to fill up our several duties here,
 so as to obtain a place of rest and everlasting repose
 for our weary tribulated spirits hereafter.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXI.
+[.letter-heading]
+LETTER 81.
 
 I Received thy last and attended to the contents with a mind impressed with sorrow;
 indeed sorrow and trouble are at times spread before me,
@@ -616,9 +641,11 @@ and predominant in the mind, it will influence to say, and do these things,
 and these only, which make for peace; and I am in the belief, that if patiently kept to,
 it will bear down all before it, and, in due time possess the gates of it`'s enemies.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXII.
+[.letter-heading]
+LETTER 82.
 
 I am glad that thou meetest with that respect and attention which may, in some measure,
 compensate the loss of domestic endearments.
@@ -662,9 +689,11 @@ Well deserving our attention is that saying of our Lord.
 "`Ye are they which justify yourselves before men, but God knoweth your hearts;
 for that which is highly esteemed amongst men, is abomination in the sight of God.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXIII.
+[.letter-heading]
+LETTER 83.
 
 Thou hast been of late so much the companion of my thoughts,
 and the subject of my good desires, that it has weighed with me,
@@ -726,10 +755,13 @@ to the extent of his gracious designs upon them,
 who violate those marks of distinction and respect.
 The Nazarite is known not only by his temperance, but his exterior appearance.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXIV.
+[.letter-heading]
+LETTER 84.
 
+[.signed-section-context-open]
 8th of 1st month 1787.
 
 I Received thy sundry letters,
@@ -787,10 +819,13 @@ And that this may be your happy experience, is my sincere desire;
 that whether the Lord Almighty gives, or withholds, or takes away,
 his name may be blest and sanctified among you.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXXXV.
+[.letter-heading]
+LETTER 85.
 
+[.signed-section-context-open]
 23rd of 1st month 1763.
 
 When I am led to believe that our forefathers, in the last century,
@@ -877,4 +912,5 @@ stability and advancement in thy own particular,
 and in a capacity to be more and more serviceable in the general; and am,
 in true brotherly affection, thy faithful friend
 
+[.signed-section-signature]
 Richard Shackleton.
