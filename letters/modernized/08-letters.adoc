@@ -1,7 +1,9 @@
-== Letters CXIII &mdash; CXXXV
+== Letters 113 &mdash; 135
 
-LETTER CXIII.
+[.letter-heading]
+LETTER 113.
 
+[.signed-section-context-open]
 12th month 1779.
 
 What more is to be expected by any of us in this life,
@@ -16,10 +18,13 @@ so shall prosperity, as well as adversity, be sanctified to us,
 and equally contribute to the consolidating of our present peace,
 and ensuring of our future happiness.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXIV.
+[.letter-heading]
+LETTER 114.
 
+[.signed-section-context-open]
 1779.
 
 My mind is, at times, deeply bowed in thankfulness;
@@ -32,10 +37,13 @@ to behold the beauty of the Lord, and to enquire in his temple.
 For in the time of trouble, he shall hide me in his pavilion;
 in the secret of his tabernacle, shall he hide me; he shall set me upon a rock,`" etc.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXV.
+[.letter-heading]
+LETTER 115.
 
+[.signed-section-context-open]
 9th month 1770.
 
 You know, my dear friend,
@@ -94,10 +102,13 @@ with honour and success.
 So, in the love of our Holy Head, I affectionately salute you, and commit you,
 with my own soul, to his divine protection.
 
+[.signed-section-signature]
 Richard Shackleton
 
-LETTER CXVI.
+[.letter-heading]
+LETTER 116.
 
+[.signed-section-context-open]
 9th month 1776.
 
 If these means of fellowship between us were not used,
@@ -116,10 +127,13 @@ such will reign with him triumphantly in an eternity of joy.
 May that, my dear friend, be your state and experience now; and this,
 your portion forever!
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXVII.
+[.letter-heading]
+LETTER 117.
 
+[.signed-section-context-open]
 10th month 1786.
 
 Man was formed and designed by his Creator for religious, as well as civil society.
@@ -143,9 +157,11 @@ which only is ours; doing in prudence and moderation what is in our power,
 humbly dependant on the Author of the existence of our souls and bodies,
 for his daily supply to both.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXVIII.
+[.letter-heading]
+LETTER 118.
 
 I Do not wonder at worldly pleasures, worldly profits,
 and worldly splendour captivating the minds of youth;
@@ -161,9 +177,11 @@ This renewing then is what we have to wait to experience.
 This transformation from the spirit of the world into the divine image,
 must be effected and continued by the renewing of the mind.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXIX.
+[.letter-heading]
+LETTER 119.
 
 May every feeble effort, and aspiration after the right thing,
 grow and gather strength in every one;
@@ -187,10 +205,13 @@ for lack of pruning, grow too gross and run into timber;
 or perhaps they are allowed to bear too much at once, while they are young.
 Their strength is exhausted and they wither away.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXX.
+[.letter-heading]
+LETTER 120.
 
+[.signed-section-context-open]
 6th month 1789.
 
 I Am sensible of many weaknesses and deficiencies attending me, and wish,
@@ -222,9 +243,11 @@ shall receive the "`Hundred fold`" (it`'s said) "`now in this time,`"
 but "`with persecutions;`" there must be the necessary alloy in this world,
 "`in the world to come, eternal life.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXXI.
+[.letter-heading]
+LETTER 121.
 
 I Find +++_________+++ has been, for some time past, very low in his mind:
 yet I trust it is of good, and will be for his good.
@@ -239,9 +262,11 @@ feasting and fasting are in his hand; his visited children, disciples and follow
 have only patiently to abide under his government, who leads in the way of righteousness,
 in the midst of the paths of judgment.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXXII.
+[.letter-heading]
+LETTER 122.
 
 As we resign ourselves to the divine protection and ordering, by a wheel,
 (as it were) within a wheel, he effects his gracious purposes concerning us,
@@ -270,10 +295,13 @@ or product of a heated imagination; but a substantial, sure, and certain princip
 which, when possessed and retained, in renewed experience,
 is sufficient to enable us to do and suffer all things as we ought.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER CXXIII.
+[.letter-heading]
+LETTER 123.
 
+[.signed-section-context-open]
 4th month 1786.
 
 I Am concerned for dear r+++_______+++`'s frequent indisposition,
@@ -327,7 +355,24 @@ My beloved friend, farewell; be humble, be diligent, be honest;
 and may the Lord Almighty delight to bless you and comfort you,
 and preserve you in his fear and in his favour, now and forever!
 
-LETTER CXXV.
+[.letter-heading]
+LETTER 124.
+
++++_______*** is a pretty youth; how beautiful, how useful would such be,
+if they allowed the great hammer (the omnific word) to fall upon them and break them in pieces.
+You have felt the strokes of this great hammer; it has softened, and is fashioning you,
+I trust, for a vessel of honour: yield unto it, and be passive and pliable
+under its influence, till it makes you what Infinite Wisdom would have you to be,
+exactly both as to form and use. In a little time all this scene will be closed upon us all,
+our places and our acquaintance will know us, and speak of us no more.
+In the closing of this scene, when everything else shall fail,
+what will it be to us to witness the Lord to be the strength of our hearts,
+and our portion forever. My beloved friend, farewell; be humble, be diligent,
+be honest; and may the Lord Almighty delight to bless you and comfort you,
+and preserve you in his fear and in his favour, now and forever!
+
+[.letter-heading]
+LETTER 125.
 
 The conversation of my dear friends, if happily seasoned with good,
 the communing together on the way,
@@ -360,7 +405,8 @@ and tenacious and studious of our own false delicacy and honour,
 but "`Buried with him by baptism into death`" unto these things,
 that we may be living witnesses of his resurrection in life and power.
 
-LETTER CXXVI.
+[.letter-heading]
+LETTER 126.
 
 I Note your state, my dear friend, poor enough of itself,
 but receiving an additional tinge from the poverty of the places,
@@ -379,8 +425,10 @@ The help intended for you does not seem likely to come from province meetings,
 which you missed being at; but surer, better, more substantial, even inward,
 immediate help, I hope will be your comfortable portion and happy experience.
 
-LETTER CXXVII.
+[.letter-heading]
+LETTER 127.
 
+[.signed-section-context-open]
 3rd month 1777.
 
 I Think I am neither bigot, nor zealot, but I find that the holy scriptures,
@@ -424,8 +472,10 @@ who confuse what they pretend to explain,
 and obscure what they take upon them to illustrate;
 so that though the text is clear and plain, the comment is often dark and unintelligible.
 
-LETTER CXXVIII.
+[.letter-heading]
+LETTER 128.
 
+[.signed-section-context-open]
 4th month 1780.
 
 I Accompanied dear +++_________+++ into the county of +++___________+++. I
@@ -449,7 +499,8 @@ forward intrusion, and busy meddling in matters, which,
 in the economy of Infinite Wisdom, have been allotted to other men:
 I think I am pretty much will-less as to this migration.
 
-LETTER CXXIX.
+[.letter-heading]
+LETTER 129.
 
 You are but a poor creature of a moment; strive to improve the present moment,
 and be not careful about tomorrow: `'tis bad economy, and not the way to grow rich,
@@ -497,7 +548,8 @@ and his almighty arm be ever underneath to support and cheer your spirit!
 This is the poor but sincere offering of unaltered friendship,
 and believe me your affectionate faithful friend.
 
-LETTER CXXX.
+[.letter-heading]
+LETTER 130.
 
 As religious persons, we may put on a veil of too much delicacy:
 there is shame which we ought to despise.
@@ -526,7 +578,8 @@ wear no longer any mask, veil or disguise, but rather avow your sentiments,
 make a good profession and say, "`I charge you, O daughters of Jerusalem,
 if you find my beloved, that tell him I am sick of love.`"
 
-LETTER CXXXI.
+[.letter-heading]
+LETTER 131.
 
 I am glad your last reports you in pretty good health.
 I hope you continue to endeavour to preserve that invaluable blessing,
@@ -550,8 +603,10 @@ but it looks as if its reign would be but short;
 a little lapse of time will more fully manifest its falsity and its futility,
 and the solid, substantial truth, I hope, will more and more prevail.
 
-LETTER CXXXII.
+[.letter-heading]
+LETTER 132.
 
+[.signed-section-context-open]
 8th of 9th month 1773.
 
 Since the short conference which we had together,
@@ -632,8 +687,10 @@ you may have to give up your accounts with joy, and not with grief;
 that this may be your happy experience,
 is the sincere desire of your affectionate friend.
 
-LETTER CXXXIII.
+[.letter-heading]
+LETTER 133.
 
+[.signed-section-context-open]
 18th of 4th month 1755.
 
 Had opportunity allowed, I should, long before this,
@@ -708,10 +765,13 @@ and have had my experience enlarged in rejoicing and suffering;
 the last has often been my lot, but I dare not repine; to be what I ought is my only aim,
 and best wisdom knows the method to make me so; in his will I humbly acquiesce.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER CXXXIV.
+[.letter-heading]
+LETTER 134.
 
+[.signed-section-context-open]
 2nd month 4th, 1757.
 
 That regard which Truth itself raised mutually in our hearts, is by no means impaired:
@@ -778,10 +838,13 @@ Farewell, you descendants of the great and good, imitate their example;
 as they have followed Christ, follow them; be wise, for it is true happiness;
 in wisdom you will fear to offend, and this fear is an excellent defence.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER CXXXV.
+[.letter-heading]
+LETTER 135.
 
+[.signed-section-context-open]
 2nd month 6th, 1761.
 
 I Am much indebted to you for the tokens of your remembrance of me,
@@ -814,6 +877,8 @@ in weakness, besetments, and poverty, shall not err in his seeking,
 though he may be accounted simple; it is better to be a fool for Christ`'s sake,
 than wise in all the wisdom of this world!
 
+[.signed-section-closing]
 Farewell, dear friend, I love to hear from you.
 
+[.signed-section-signature]
 Samuel Fothergill.
