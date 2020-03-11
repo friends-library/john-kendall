@@ -1,5 +1,6 @@
 == Extracts from Letters of Richard Shackleton.
 
+[.signed-section-context-open]
 11th month 1755.
 
 It looks as if we must labour hard for our bread through the course of the meetings.
@@ -16,6 +17,7 @@ and not be productive of the fruits intended by them.
 And with sorrow it may be too often said of them, "`Their goodness is as a morning cloud,
 and as the early dew it goeth away.`"
 
+[.signed-section-context-open]
 5th month 1769.
 
 It is true my present situation is among the pots: yet I am a prisoner of hope.
@@ -30,6 +32,7 @@ I may be so preserved in my sorrowful pilgrimage,
 as that I may at last lay down my weary head in peace,
 and be admitted any where within the door of perpetual rest.
 
+[.signed-section-context-open]
 5th month 1770.
 
 The several dispensations which we are under in our religious pilgrimage,
@@ -47,6 +50,7 @@ or even to succeed in my temporal transactions, by reason of my peculiar incapac
 that under this sense I cannot but commit me and mine with great
 earnestness to the protection and help of Divine Providence.
 
+[.signed-section-context-open]
 11th month 1770.
 
 The warfare between the spirit which is not of the world, and the spirit which is of it,
@@ -70,6 +74,7 @@ thou may expect to meet with trouble,
 yet thou will still find and feel the reward of thy diligence,
 faithfulness and obedience, to be peace.
 
+[.signed-section-context-open]
 1st month 1773.
 
 I have often compared myself to a reed shaken by the wind.
@@ -97,6 +102,7 @@ and his emissaries view the dwelling with derision, and turn from it in contempt
 So the heavenly guest has more free admittance, and uninterrupted abode;
 and the bread eaten in secret administers invisible, but effectual, support.
 
+[.signed-section-context-open]
 8th month 1773.
 
 The meetings are large, and instrumental help afforded in them: but what shall I say?
@@ -128,6 +134,7 @@ But if by keeping close to the captain of our salvation,
 and obeying his orders and directions, we happily obtain the victory,
 the conquest is unspeakably glorious.
 
+[.signed-section-context-open]
 11th month 1773.
 
 The business of the meeting is now over: the concluding meeting to be tomorrow.
@@ -148,6 +155,7 @@ and have a name and fame among unregenerate men,
 receiving their consolations whilst here,
 and alienated and separated hereafter from blessed and refined spirits forever.
 
+[.signed-section-context-open]
 6th month 1777.
 
 I Am in sentiment with thee that this trial may have been permitted for good purposes:
@@ -177,6 +185,7 @@ and the petition of my heart is for your growth and
 establishment in the most precious truth.
 Amen.
 
+[.signed-section-context-open]
 3rd month 1778.
 
 We are short sighted, and of ourselves know not what is best for us,
@@ -191,6 +200,7 @@ my dear child, the saints on earth are at times permitted to feed;
 and by this earnest are enabled to press through the difficulties of this life,
 aspiring after the full fruition thereof in the life which is to come.
 
+[.signed-section-context-open]
 8th month 1778.
 
 But we are grown such an outward instead of an inward people,
@@ -203,6 +213,7 @@ earnestly desirous that this most precious,
 excellent and holy thing which was sent among mankind may prevail and spread,
 and rule and reign, whose undoubted right it is.
 
+[.signed-section-context-open]
 9th month 1780.
 
 I May therefore mention that our province meeting seemed to partake somewhat
@@ -225,6 +236,7 @@ but leans to his own understanding, is in danger of disgracing the cause,
 which his ignorant zeal wants to promote,
 and of bringing his mother (the church) to shame.
 
+[.signed-section-context-open]
 6th month 1781.
 
 Yesterday I wasted in the world;
@@ -246,6 +258,7 @@ seldom hear good of themselves;
 but those feel most of the inward strength and unity of the brethren,
 who seek that honour which cometh from God only.
 
+[.signed-section-context-open]
 10th month 1781.
 
 I Am obliged to thee for thy letter, for the openness and familiarity of it,
@@ -279,6 +292,7 @@ that so when the master of the house shall think fit to to take it off the shelf
 (where it may have been stood for some time,
 with the mouth downward) it may be ready for immediate use.
 
+[.signed-section-context-open]
 2nd month 1782.
 
 I Am not so solicitous about the permanence of our epistolary correspondence,
@@ -324,6 +338,7 @@ Some of superior abilities and strength may trust in one thing or another; but a
 I have nothing to trust to for the preservation and welfare of me and mine,
 but the mercy and condescending notice of the Lord Almighty.
 
+[.signed-section-context-open]
 12th month 1782.
 
 I Remembered as I lay in bed that I was in debt to a long, instructive, affectionate,
@@ -358,6 +373,7 @@ But we are poor,
 and desire the prayers and sympathy of our dear friends
 to whom we are united in the fellowship of suffering.
 
+[.signed-section-context-open]
 Twelfth month 1789.
 
 When we prescribe for such as thou art, we must also take in the mind,
@@ -393,6 +409,7 @@ and your peace will run down as a river through the present life,
 bearing and supporting your spirits till you are conveyed
 to the ocean and fullness of everlasting peace and joy.
 
+[.signed-section-context-open]
 Eleventh month 1790.
 
 As I lay awake in bed this morning, thou occurred to me; and no wonder,
@@ -431,6 +448,7 @@ and be made thoroughly sensible of this important essential truth;
 "`That we are not sufficient of ourselves even to think any good things as of ourselves:
 but our sufficiency is of God.`"
 
+[.salutation]
 To +++_________+++
 
 O What an element is divine love! in this the children of the light live, and breathe,
