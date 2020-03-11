@@ -1,7 +1,9 @@
-== Letters L &mdash; LXI
+== Letters 50 &mdash; 61
 
-LETTER L.
+[.letter-heading]
+LETTER 50.
 
+[.signed-section-context-open]
 26th of Fourth month 1796.
 
 It is now more than twelve months since I received your kind letter,
@@ -87,10 +89,13 @@ Wishing you every comfort, and every blessing, consistent with the Divine will,
 
 I remain your affectionate and sincere friend,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER LI.
+[.letter-heading]
+LETTER 51.
 
+[.signed-section-context-open]
 2nd of Second month 1798.
 
 Though I have not written to you now of a long time,
@@ -146,10 +151,13 @@ and are at no great distance from the heavenly country,
 that the strength of all such may be so renewed, that they may run without being weary,
 that they may walk and not faint.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER LII.
+[.letter-heading]
+LETTER 52.
 
+[.signed-section-context-open]
 28th of Tenth month 1799.
 
 Many a time of late have I thought I would write to you,
@@ -234,14 +242,19 @@ to kiss the rod;
 thus would all the gracious designs of our heavenly Father be accomplished,
 and all his dispensations would be sanctified unto us.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER LIII.
+[.letter-heading]
+LETTER 53.
 
+[.signed-section-context-open]
 Plymouth, 22nd of First month 1747.
 
+[.salutation]
 Dear Friend, M. W.
 
 In a measure of the divine life and fellowship of the Gospel I tenderly salute you,
@@ -314,9 +327,11 @@ with much simplicity mention them: your experience I am sensible, in many things
 far exceeds mine, yet perhaps you may catch a little light from some part of this letter,
 which is written from no other motive but love.
 
+[.signed-section-signature]
 W+++.+++ C.
 
-LETTER LIV.
+[.letter-heading]
+LETTER 54.
 
 I have thus far, as your sympathizing friend,
 suggested everything that occurs to me which might be of use in in your disorder;
@@ -371,14 +386,19 @@ Calmly therefore, warm at heart, with brotherly love,
 with hopes full of immortality for you, and for myself,
 I dearly salute you and your spouse, remaining Your affectionate friend,
 
+[.signed-section-signature]
 W+++.+++ C
 
-LETTER LV.
+[.letter-heading]
+LETTER 55.
 
+[.letter-heading]
 To S. Taylor, of Manchester.
 
+[.signed-section-context-open]
 Dudley, 4th of Second month 1753.
 
+[.salutation]
 Dear Friend,
 
 Considering the contents of your last acceptable favour,
@@ -454,12 +474,16 @@ in the same I desire to be remembered to your brother and friends at Manchester:
 it is late, and time to bid you farewell, which I do as much as I am capable,
 in the gospel, and with great sincerity, subscribe myself, your affectionate friend,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER LVI.
+[.letter-heading]
+LETTER 56.
 
+[.signed-section-context-open]
 Bury, (Suffolk) 30th of First month 1768.
 
+[.salutation]
 Dear Friend,
 
 It is with great nearness and satisfaction that I
@@ -526,12 +550,16 @@ I did intend to have written historically, but must refer you to your dear broth
 who still continues with me an agreeable companion; shall therefore, with dear love,
 conclude your real friend,
 
+[.signed-section-signature]
 John Churchman.
 
-LETTER LVII.
+[.letter-heading]
+LETTER 57.
 
+[.signed-section-context-open]
 Ware, 23rd of 2nd month, 1747.
 
+[.salutation]
 My Dear Friend,
 
 Herewith I send you a few sheets intended to prove, that scripture knowledge,
@@ -620,13 +648,19 @@ and united exercise of spirit, may we approach the house of God,
 and ascend his holy mountain Zion, his sanctuary, from which "`his law shall go forth,
 and his blessing be commanded, even life forevermore.`"
 
+[.signed-section-closing]
 I am your friend, with true regard,
 
+[.signed-section-signature]
 Samuel Scott.
 
-LETTER LVIII.
+[.letter-heading]
+LETTER 58.
 
+[.signed-section-context-open]
 Ware, 3rd of Second month 1750.
+
+[.salutation]
 Esteemed Friend,
 
 Thankfulness attends my mind at this time,
@@ -671,8 +705,10 @@ I request your company and help of your spirit in
 a close engagement in the way and work of the Lord;
 and conclude your sincere friend,
 
+[.signed-section-signature]
 Samuel Scott.
 
+[.postscript]
 P+++.+++ S. The poetical pieces you will receive herewith, are the productions of one, who,
 notwithstanding the soothing allurements of youth,
 and a competent share of natural and acquired endowments,
@@ -681,10 +717,13 @@ to look upon Zion, and desire her beauty.
 He reposes so great a confidence in you, as to submit them to your perusal,
 with this restriction, that no copies may be taken therefrom.
 
-LETTER LIX.
+[.letter-heading]
+LETTER 59.
 
+[.signed-section-context-open]
 16th of Second month 1753.
 
+[.salutation]
 Esteemed Friend,
 
 I was sorry that I had not an opportunity of once more personally taking my leave of you:
@@ -734,9 +773,11 @@ These broken and unconnected expressions I have penned in haste,
 and send to you as some representation of my state, and a salutation of that respect,
 which I desire always to bear towards those who have tasted that the Lord is gracious.
 
+[.signed-section-signature]
 Samuel Scott.
 
-LETTER LX.
+[.letter-heading]
+LETTER 60.
 
 Although the apprehension of being soon personally separated from
 one to whom I have been so nearly united in the bond of the gospel,
@@ -796,10 +837,13 @@ at a season when infinite goodness was pleased to relieve my soul in the deepest
 I was willing to communicate them, leave them as bread upon the waters,
 and therewith salute you, and bid you dearly farewell.
 
+[.signed-section-signature]
 Samuel Scott.
 
-LETTER LXI.
+[.letter-heading]
+LETTER 61.
 
+[.signed-section-context-open]
 Ware, 14th of Third month 1752.
 
 A Concern has been upon me to invite you, with my own soul,
@@ -858,6 +902,8 @@ I would again recommend you to a frequent perusal of the writings of the Old and
 Testament those great records of truth and testimonies to the way of life and salvation.
 True love and the apprehension of duty induced me to this freedom.
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 Samuel Scott
