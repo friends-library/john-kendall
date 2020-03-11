@@ -1,7 +1,9 @@
-== Letters I &mdash; XXIII
+== Letters 1 &mdash; 23
 
-LETTER I.
+[.letter-heading]
+LETTER 1.
 
+[.salutation]
 Dear Friend,
 
 My mind hath deeply partaken with thee and thy children,
@@ -44,12 +46,16 @@ and rest in humble hope that he will not forsake in the seventh.
 My brother and sisters unite in near sympathy with thee and children.
 From thy sincere friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER II.
+[.letter-heading]
+LETTER 2.
 
+[.signed-section-context-open]
 Skipton, 19th of 10th month 1748.
 
+[.salutation]
 Esteemed Friend,
 
 In the sweet spirit and fellowship of the gospel of peace I hereby salute thee,
@@ -91,14 +97,19 @@ in due time receive a call from the king to put on his royal robes,
 which is a high dignity, i et these must not expect always to be thus clothed,
 or in such honour, but to take their seat again at the king`'s gate.
 
+[.signed-section-closing]
 I am thy truly affectionate friend,
 
+[.signed-section-signature]
 David Hall.
 
-LETTER III.
+[.letter-heading]
+LETTER 3.
 
+[.signed-section-context-open]
 Kilkonnor, 25th of 4th month 1751.
 
+[.salutation]
 Dear Cousin,
 
 As I believe both thyself, and several of my friends at Bristol,
@@ -140,11 +151,16 @@ I have faith to believe that if thou waits with patience all will be well.
 
 This from thy affectionate friend, and sister in tribulation.
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER IV.
+[.letter-heading]
+LETTER 4.
 
+[.signed-section-context-open]
 Edgend 7th month 15th, 1750.
+
+[.salutation]
 Dear Brother,
 
 I Find an inclination to visit thee with a few hues;
@@ -182,13 +198,19 @@ But blessed be the Lord, be does not forsake in the greatest trials.
 O! he is worthy to be followed, even unto death.
 Happy are they who can say, with an upright heart, thy, will O God, be done.
 
+[.signed-section-closing]
 I am, with love unfeigned, thine affectionately,
 
+[.signed-section-signature]
 Tabitha Ecroyd
 
-LETTER V.
+[.letter-heading]
+LETTER 5.
 
+[.signed-section-context-open]
 Edgend, 6th month 28th, 1752.
+
+[.salutation]
 My Dear Brother,
 
 Though I have so long delayed to acknowledge the receipt of thy last most welcome letter,
@@ -241,8 +263,10 @@ which that thou and I may ever endeavour to be found in the practice of,
 is the sincere desire of my soul, who am in much nearness, and true love,
 thy affectionate and well-wishing sister,
 
+[.signed-section-signature]
 Tabitha Ecroyd.
 
+[.postsript]
 P+++.+++ S. I hope ere long to be favoured with thy company here;
 and shall I not congratulate thee on the expiration of thy seven years`' absence,
 and approaching freedom?
@@ -253,12 +277,16 @@ convenient! and let this never be forgot,
 Seek first the kingdom of heaven, and the righteousness thereof,
 and all other things shall be added.
 
+[.signed-section-signature]
 T+++.+++ E.
 
-LETTER VI.
+[.letter-heading]
+LETTER 6.
 
+[.signed-section-context-open]
 Dudley, 1st month 17th, 1753.
 
+[.salutation]
 Dear Cousin,
 
 When So fair an opportunity offers, I cannot well omit sending thee a few lines,
@@ -312,12 +340,16 @@ I salute thee in the best of fellowship,
 and conclude with desires for our mutual preservation,
 and enlargement in the blessed truth, thy affectionate friend,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER VII.
+[.letter-heading]
+LETTER 7.
 
+[.signed-section-context-open]
 From on board the Alexander, 10th Mo, 15th, 1753.
 
+[.salutation]
 Dear Cousin,
 
 As I doubt not thou wilt be anxious to hear from us,
@@ -358,10 +390,13 @@ May our eye be to him invariably, saith my soul!
 
 My companion joins in the salutation of true love to thee and thy cousin.
 
+[.signed-section-signature]
 Catharine Payton.
 
-LETTER VIII.
+[.letter-heading]
+LETTER 8.
 
+[.signed-section-context-open]
 Charles Town, South Carolina, 11th month 8th.
 
 We landed here on the 26th ult.
@@ -380,12 +415,16 @@ as at many other places; but I desire to learn in all states to be content,
 even if I am brought here only to be a servant of servants.
 My dear love to W. F.
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER IX.
+[.letter-heading]
+LETTER 9.
 
+[.signed-section-context-open]
 Long Island, 6th month 9th, 1754.
 
+[.salutation]
 Dear Cousin,
 
 The contrariety of the wind on which I now wait to carry me to Rhode Island,
@@ -448,14 +487,19 @@ If he does not seek great things, neither spiritual nor temporal, I hope he will
 and the Lord, who best knows what our states can bear, will provide for him sufficiently.
 My companion joins in the tenders of love to thee.
 
+[.signed-section-closing]
 I am, in the fellowship of the gospel, thy affectionate cousin,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER X.
+[.letter-heading]
+LETTER 10.
 
+[.signed-section-context-open]
 Plymouth,in Pennsylvania, 6th month 27th, 1755.
 
+[.salutation]
 Dear Cousin,
 
 Pursuant to thy request I am set down to write thee by this vessel;
@@ -495,12 +539,16 @@ I have wrote more than I was apprised of when I sat down.
 My love to Friends; and accept the same, in a very near manner,
 from thy affectionate friend,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER XI.
+[.letter-heading]
+LETTER 11.
 
+[.signed-section-context-open]
 Philadelphia, 1st month 10th, 1756.
 
+[.salutation]
 Dear Cousin,
 
 From a principle of affection,
@@ -552,12 +600,16 @@ but I hope not beyond our Master`'s time.
 My companion joins in the salutation of dear love to thee.
 I am thy affectionate cousin,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER XII.
+[.letter-heading]
+LETTER 12.
 
+[.signed-section-context-open]
 Newhill Grange, 8th month 24th, 1755.
 
+[.salutation]
 My Dear Friend,
 
 Thou tells me but little of the satisfaction met with in thy going along,
@@ -598,12 +650,16 @@ and the accusations and upbraidings of the grand destroyer.
 My brother and sister give their love to thee; accept, dear friend,
 a salutation of true love from thy friend,
 
+[.signed-section-signature]
 Tabitha Ecroyd.
 
-LETTER XIII.
+[.letter-heading]
+LETTER 13.
 
+[.signed-section-context-open]
 Edgend, 8th month 4th, 1756.
 
+[.salutation]
 My Dear Friend,
 
 I Think it is high time to acknowledge the receipt of thy last kind favour,
@@ -692,14 +748,19 @@ so I hope the designs of these opposers will be frustrated
 by him who can restrain the wrath of man,
 and give his servants patience in suffering for his name`'s sake.
 
+[.signed-section-closing]
 I am, with the tenders of cordial esteem, thine,
 
+[.signed-section-signature]
 Tabitha Ecroyd.
 
-LETTER XIV.
+[.letter-heading]
+LETTER 14.
 
+[.signed-section-context-open]
 Dudley, 2nd month 24th 1757.
 
+[.salutation]
 Dear Cousin,
 
 I Have received thine of the 16th,
@@ -751,14 +812,19 @@ And as I much desire thou mayst be preserved from receiving any of the wages of 
 allow me to say,
 beware of courting the favour of any by abase condescension to a libertine spirit.
 
+[.signed-section-closing]
 I am thy affectionate, and well wishing friend and cousin,
 
+[.signed-section-signature]
 Catharine Payton.
 
-LETTER XV.
+[.letter-heading]
+LETTER 15.
 
+[.signed-section-context-open]
 Edgend,6th month 25th, 1757.
 
+[.salutation]
 Dear Lucy,
 
 I Have been informed of dear Rebecca Smith`'s illness, which much affected me;
@@ -779,12 +845,16 @@ fill up the day`'s work before the shadows of the evening approach.
 But I am attended with fears of being greatly deficient in my duty.
 From thy truly affectionate, and faithful friend,
 
+[.signed-section-signature]
 Tabitha Ecroyd.
 
-LETTER XVI.
+[.letter-heading]
+LETTER 16.
 
+[.signed-section-context-open]
 Edgend, 7th month 30th, 1758.
 
+[.salutation]
 My Dear Lucy,
 
 Thy acceptable letter came to hand yesterday;
@@ -829,14 +899,19 @@ Lydia Lancaster was so well as to attend some of the meetings;
 James Wilson was also there; and it was truly comfortable to have the company,
 and sit under the lively testimonies of two such worthy honourable elders.
 
+[.signed-section-closing]
 I salute thee, in near affection, and am thy true friend,
 
+[.signed-section-signature]
 Tabitha Ecroyd.
 
-LETTER XVII.
+[.letter-heading]
+LETTER 17.
 
+[.signed-section-context-open]
 Clonivoe, 5th month 1st, 1759.
 
+[.salutation]
 Dear Friend,
 
 Thy acceptable lines of the 5th of 2nd month, came duly to hand.
@@ -860,14 +935,19 @@ who never sat under the teachings of a free ministry,
 nor had been taught to believe in the inward manifestations of the spirit of Christ.
 With humble desires for our mutual enlargement in Christian experience,
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 Samuel Neale.
 
-LETTER XVIII.
+[.letter-heading]
+LETTER 18.
 
+[.signed-section-context-open]
 Dublin, 11th month 10th 1759.
 
+[.salutation]
 Dear Cousin,
 
 It has been rather want of leisure than affection and inclination
@@ -900,12 +980,16 @@ and become instruments of good in a future day.
 I do not intend to seal this till I arrive in England, till when,
 I am thy truly affectionate cousin,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER XIX.
+[.letter-heading]
+LETTER 19.
 
+[.signed-section-context-open]
 3rd Mo 15th, 1760.
 
+[.salutation]
 Dear Cousin,
 
 Previous to the receipt of thy letter,
@@ -942,12 +1026,16 @@ Please to remember me affectionately to friend Hammond, and believe me to be,
 dear cousin, in the sympathy of the gospel, both in suffering and rejoicing,
 thy friend and companion,
 
+[.signed-section-signature]
 Catherine Payton.
 
-LETTER XX.
+[.letter-heading]
+LETTER 20.
 
+[.signed-section-context-open]
 Manchester, 3rd month 16th, 1763.
 
+[.salutation]
 Dear Friend, Richard Eckroyd,
 
 My mind is greatly affected with a sense of thy loss
@@ -976,12 +1064,16 @@ I feel my Heavenly Father`'s love to tender my mind in writing these lines,
 and affectionately salute thee and all thy children in true sympathy and union of spirit.
 My brother joins in dear love with thy friend,
 
+[.signed-section-signature]
 Sarah Taylor.
 
-LETTER XXI.
+[.letter-heading]
+LETTER 21.
 
+[.signed-section-context-open]
 Warrington, 2nd month 20th, 1761.
 
+[.salutation]
 Dear Friend And Kinswoman,
 
 Among the many wishes of thy friends for thy happiness,
@@ -1047,11 +1139,14 @@ but my affection for thee induces me to wish thou mayst be found in the way to b
 even the blessing of Heaven above, and of the earth beneath,
 the blessing of the ancient mountains, and everlasting hills.
 
+[.signed-section-closing]
 I am thy faithful friend, and affectionate kinsman,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER XXII.
+[.letter-heading]
+LETTER 22.
 
 Divers of this age have bent their thoughts and desires too much towards the earth,
 to have a clear discovery of the times and seasons, in a spiritual sense;
@@ -1115,10 +1210,13 @@ clothed with the spirit of this world, though under disguise.
 God will divide in Jacob, and scatter in Israel,
 before that reformation is brought about which he designs.
 
+[.signed-section-signature]
 Mary Peisley.
 
-LETTER XXIII.
+[.letter-heading]
+LETTER 23.
 
+[.salutation]
 Dear Friend,
 
 I Have received thy letter, with a copy of the application of to friends of L+++_______+++ s,
@@ -1192,4 +1290,5 @@ known to run down to the nethermost skirts of their garments.
 I am thy affectionate friend in deep travail for Zion`'s welfare,
 that none who love her may fail of the salvation, which is within her gates.
 
+[.signed-section-signature]
 Samuel Fothergill.
