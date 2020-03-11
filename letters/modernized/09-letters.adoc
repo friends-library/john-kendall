@@ -1,7 +1,9 @@
-== Letters CXXXVI &mdash; CXXXVIII
+== Letters 136 &mdash; 138
 
-LETTER CXXXVI.
+[.letter-heading]
+LETTER 136.
 
+[.letter-heading]
 6th month 27th, 1760.
 
 In a sense of that sympathy and union which renders the Church
@@ -65,10 +67,13 @@ May the Lord of all consolation be with you in every trial, support you by his a
 enrich you by his grace, replenish you by his wisdom,
 and comfort you by his rod and staff!
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER CXXXVII.
+[.letter-heading]
+LETTER 137.
 
+[.signed-section-context-open]
 2nd month 1st, 1678.
 
 Our worthy friend and kinsman, who had been in a declining state for some time,
@@ -109,10 +114,13 @@ we are instructed with all diligence to fill up the measure of revealed duty,
 waiting for further discoveries of what may be the
 will of the Lord our God concerning us.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER CXXXVIII.
+[.letter-heading]
+LETTER 138.
 
+[.signed-section-context-open]
 18th of 6th month 1768.
 
 I am inclined to make use of an opportunity now presenting,
@@ -161,6 +169,8 @@ the day! the building up of the Lord`'s house more than their own;
 unto him all our utmost dedication of spirit, time and labour, is due.
 My dear love attends you all.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
+[.the-end]
 End of Volume I.
