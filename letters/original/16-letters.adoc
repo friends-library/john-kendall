@@ -202,7 +202,7 @@ Thomas Lloyd.
 [.letter-heading]
 LETTER 65.
 
-[.signed-section-signature]
+[.letter-heading]
 Mary Peisley to William Brown.
 
 [.salutation]
@@ -471,10 +471,7 @@ will accept the love in which my heart was opened and enlarged to you in my weak
 in which I felt endeared and fervent the love of your and my heavenly Father,
 manifested in and through his beloved Son Jesus Christ, to whom be ascribed glory,
 salvation and honour.
-Amen.
-
-[.signed-section-closing]
-Your friend and sister, I hope, in the saints`' travail and tribulation,
+Amen. Your friend and sister, I hope, in the saints`' travail and tribulation,
 
 [.signed-section-signature]
 Mary Smith.
@@ -631,7 +628,10 @@ which are most dangerous, and therefore most to be feared and guarded against.
 The time I am limited to, by the vessel`'s sailing this afternoon,
 obliges me to draw to a conclusion,
 and add no more but my tender love and regard to thee, and all my dear family,
-remaining in true gospel love, Thy real and affectionate friend,
+remaining in true gospel love,
+
+[.signed-section-context-open]
+Thy real and affectionate friend,
 
 [.signed-section-signature]
 Sophia Hume.
