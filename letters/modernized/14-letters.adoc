@@ -236,10 +236,8 @@ and given me a plentiful reward, blessed be his name forever.
 My honest wife, (as dear William Penn used to call her) is indifferent well,
 considering her age, which I prize as a great mercy.
 Mine, and her dear love is to you, and your wife, and to my loving friend Henry Gouldney,
-with any other friends in your freedom.
-
-[.signed-section-closing]
-So remain your sincere, and for many kindnesses, much obliged friend,
+with any other friends in your freedom. So remain your sincere, and for many kindnesses,
+much obliged friend,
 
 [.signed-section-signature]
 Elias Osborne.
@@ -284,10 +282,8 @@ may produce a deeper sense and travail than ever; and restore, quicken,
 and augment your gift and service.
 May it be so, says my soul.
 I write this in the innocency of my heart; make a right use of it,
-and let me hear from you, directed to H. G.
-
-[.signed-section-closing]
-With true love to you, and your honest wife, I rest your truly loving friend in the Lord,
+and let me hear from you, directed to H. G. With true love to you, and your honest wife,
+I rest your truly loving friend in the Lord,
 
 [.signed-section-signature]
 William Penn.
@@ -438,6 +434,7 @@ but if business of the family prevent, take it when you can.
 
 I have written in haste, and in much love, in which I conclude
 
+[.signed-section-closing]
 Your very affectionate friend,
 
 [.signed-section-signature]
