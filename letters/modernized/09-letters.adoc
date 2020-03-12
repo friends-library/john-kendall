@@ -3,7 +3,7 @@
 [.letter-heading]
 LETTER 136.
 
-[.letter-heading]
+[.signed-section-context-open]
 6th month 27th, 1760.
 
 In a sense of that sympathy and union which renders the Church
