@@ -1,7 +1,9 @@
-== Letters LXII &mdash; LX
+== Letters 62 &mdash; 70
 
-LETTER LXII.
+[.letter-heading]
+LETTER 62.
 
+[.signed-section-context-open]
 15th of Eighth Month, 1778.
 
 This address may inform my friends at +++_________+++, that their kind hospitality,
@@ -44,12 +46,16 @@ of a correspondence of many years`' continuance;
 the friends being all removed by death.]
 I am, your affectionate friend,
 
+[.signed-section-signature]
 Samuel Scott.
 
-LETTER LXIII.
+[.letter-heading]
+LETTER 63.
 
+[.signed-section-context-open]
 London, 11th Ninth month 1768
 
+[.salutation]
 My Esteemed Friend M. P.
 
 Before I received your letter you were brought to my remembrance,
@@ -150,13 +156,19 @@ Amen.
 Farewell!
 I tenderly salute you in the tribulation and fellowship of the gospel.
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER LXIV.
+[.letter-heading]
+LETTER 64.
 
+[.letter-heading]
 Thomas Lloyd to John Eccles and wife.
 
+[.signed-section-context-open]
 Maesmawr, 12th month 1682.
+
+[.salutation]
 Loving Friends,
 
 A Living remembrance of you, is and has been often in my mind,
@@ -178,14 +190,19 @@ wishing her the enjoyment of her soul and spirit in the
 meek self-denying resignation and patience of the Holy Truth,
 and to yourself increase of virtue in the faith of Jesus,
 
+[.signed-section-closing]
 I am your true well-wisher,
 
+[.signed-section-signature]
 Thomas Lloyd.
 
-LETTER LXV.
+[.letter-heading]
+LETTER 65.
 
+[.letter-heading]
 Mary Peisley to William Brown.
 
+[.salutation]
 My Dear Friend,
 
 As I am not likely, according to your request, and my inclination,
@@ -310,14 +327,19 @@ not laying you under any other restraint but love, well knowing your various eng
 I am, with love, in which our family joins me,
 your friend in the fellowship of the gospel,
 
+[.signed-section-signature]
 Mary Peisley.
 
-LETTER LVI.
+[.letter-heading]
+LETTER 66.
 
+[.letter-heading]
 An Epistle by Mary Smith.
 
+[.letter-heading]
 To my Brethren of the Ministry in Norfolk, tenderly Greeting.
 
+[.signed-section-context-open]
 From the Island of Jersey, 21st of 12th month 1750.
 
 My dear brethren! called and chosen of God, appointed for a good work in your day,
@@ -450,16 +472,22 @@ manifested in and through his beloved Son Jesus Christ, to whom be ascribed glor
 salvation and honour.
 Amen.
 
+[.signed-section-closing]
 Your friend and sister, I hope, in the saints`' travail and tribulation,
 
+[.signed-section-signature]
 Mary Smith.
 
-LETTER LVII.
+[.letter-heading]
+LETTER 67.
 
+[.letter-heading]
 Sophia Hume to Hannah Hyam.
 
+[.signed-section-context-open]
 Philadelphia, 1st of 6th month 1748.
 
+[.salutation]
 My Dear Friend,
 
 It is but a few days since I received your kind and very acceptable letter,
@@ -603,14 +631,19 @@ The time I am limited to, by the vessel`'s sailing this afternoon,
 obliges me to draw to a conclusion, and add no more but my tender love and regard to you,
 and all my dear family, remaining in true gospel love, Your real and affectionate friend,
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER LVIII.
+[.letter-heading]
+LETTER 68.
 
+[.letter-heading]
 From Mary Peisley to E. and T. Ecroyd.
 
+[.signed-section-context-open]
 Exeter, 26th of 6th month 1749.
 
+[.salutation]
 My Dear Friends,
 
 I have been with my dear companion Mary Weston since the
@@ -644,11 +677,16 @@ and accept of salutation in the unchangeable truth in which I greet you with lov
 also to your father, mother, and family, with any other enquiring friends, as if named,
 from your truly affectionate friend,
 
+[.signed-section-signature]
 Mary Peisley.
 
-LETTER LIX.
+[.letter-heading]
+LETTER 69.
 
+[.letter-heading]
 From Sophia Hume to Anthony Benezet, which was found unfinished after her decease.
+
+[.salutation]
 Beloved Friend,
 
 I believe I may say, and say truly, I am not pleased with myself,
@@ -706,14 +744,19 @@ I would eagerly persuade men who have received the same grace by which we are sa
 to embrace his repeated merciful calls, to occupy therewith,
 that they may not receive his grace in vain.
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER LX.
+[.letter-heading]
+LETTER 70.
 
-To
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Redruth, 11th month 2nd, 1793.
 
+[.salutation]
 Dear Friend,
 
 For with that epithet I hope I may address you in the spiritual relationship,
@@ -837,6 +880,8 @@ May the dispensation of his mercy and judgment be so sanctified
 to my spirit as to prepare it for admittance into his kingdom
 when dislodged from this decrepit and much afflicted tabernacle.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Catharine Phillips.
