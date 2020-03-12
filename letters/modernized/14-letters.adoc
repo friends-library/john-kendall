@@ -1,9 +1,12 @@
-== Letters XXXVIII &mdash; XLIX
+== Letters 38 &mdash; 49
 
-LETTER XXXVIII.
+[.letter-heading]
+LETTER 38.
 
+[.signed-section-context-open]
 17th 6th month 1779.
 
+[.salutation]
 My Dear Friend,
 
 I cannot with ease omit this opportunity of acknowledging the receipt of your letter:
@@ -91,12 +94,16 @@ deserves our grateful acknowledgment and attention; and I consider it to be offe
 either to hurt or destroy it, from a lack of due resignation.
 In the fellowship of the gospel, I subscribe myself your affectionate friend,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XXXIX.
+[.letter-heading]
+LETTER 39.
 
+[.signed-section-context-open]
 Redruth, 29th Twelfth month 1792.
 
+[.salutation]
 Dear Friend,
 
 Your affectionate remembrance of me is salutary:
@@ -141,8 +148,10 @@ to whom my spirit has been nearly united.
 May the Lord have us all in his keeping to the end of time,
 is the desire of your affectionate friend,
 
+[.signed-section-signature]
 Catherine Phillips.
 
+[.letter-heading]
 Extracts From An Epistle Of Stephen Crisp.
 
 It lies upon me to warn you, my dear friends, to watch against the spirit of this world,
@@ -191,12 +200,16 @@ to direct and govern you in your affairs: that so he may be really acknowledged 
 the Lord of the earth, as well as heaven; the ruler of your tradings and dealings,
 as well as of your religion and profession.
 
+[.signed-section-signature]
 Stephen Crisp
 
-LETTER XL.
+[.letter-heading]
+LETTER 40.
 
+[.signed-section-context-open]
 Chard, 13th Tenth month 1718.
 
+[.salutation]
 Dearly Beloved Friend,
 
 Yours of the 15th of ninth month is before me,
@@ -223,16 +236,19 @@ and given me a plentiful reward, blessed be his name forever.
 My honest wife, (as dear William Penn used to call her) is indifferent well,
 considering her age, which I prize as a great mercy.
 Mine, and her dear love is to you, and your wife, and to my loving friend Henry Gouldney,
-with any other friends in your freedom.
+with any other friends in your freedom. So remain your sincere, and for many kindnesses,
+much obliged friend,
 
-So remain your sincere, and for many kindnesses, much obliged friend,
-
+[.signed-section-signature]
 Elias Osborne.
 
-LETTER XLl.
+[.letter-heading]
+LETTER 41.
 
+[.signed-section-context-open]
 London Ninth Month 14th, 1706.
 
+[.salutation]
 My Dear Friend,
 
 What I have heard from individuals was so great a surprise,
@@ -266,12 +282,13 @@ may produce a deeper sense and travail than ever; and restore, quicken,
 and augment your gift and service.
 May it be so, says my soul.
 I write this in the innocency of my heart; make a right use of it,
-and let me hear from you, directed to H. G.
+and let me hear from you, directed to H. G. With true love to you, and your honest wife,
+I rest your truly loving friend in the Lord,
 
-With true love to you, and your honest wife, I rest your truly loving friend in the Lord,
-
+[.signed-section-signature]
 William Penn.
 
+[.letter-heading]
 From a letter of John Fothergill, to his Son, the late Dr. Fothergill, of London.
 
 I am preserved in usual health,
@@ -307,10 +324,13 @@ from the everlasting Father`'s hand,
 who will hear and answer in due time, the patient, though hidden enquirers for it;
 and thereby such will grow in the living root, and bear fruit to the Father`'s praise.
 
-LETTER XLIl.
+[.letter-heading]
+LETTER 42.
 
+[.signed-section-context-open]
 29th of Twelfth month 1783.
 
+[.salutation]
 To +++_________+++,
 
 Yesterday I received yours,
@@ -414,12 +434,16 @@ but if business of the family prevent, take it when you can.
 
 I have written in haste, and in much love, in which I conclude
 
+[.signed-section-closing]
 Your very affectionate friend,
 
+[.signed-section-signature]
 W+++.+++ P.
 
-LETTER XLIII.
+[.letter-heading]
+LETTER 43.
 
+[.signed-section-context-open]
 22nd of Third month 1788.
 
 Being, contrary to my expectation and endeavours,
@@ -474,10 +498,13 @@ is profitable to direct, friends shall admit him a member of the society,
 I shall freely give him the right hand of fellowship,
 and desire to be his companion in the regeneration and in newness of life.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLIV.
+[.letter-heading]
+LETTER 44.
 
+[.signed-section-context-open]
 8th of Seventh month 1787.
 
 I think I do as seldom as any man who wishes well to the cause of religion and virtue,
@@ -496,10 +523,13 @@ are the most profitable of all books,
 and in meditating on the divine precepts written there, with a desire to obey,
 the most blessed knowledge is obtained.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLV.
+[.letter-heading]
+LETTER 45.
 
+[.signed-section-context-open]
 15th of Eighth month 1787.
 
 Do not think, dear friend, I am recommending books too highly;
@@ -519,10 +549,13 @@ that we may grow and increase in the knowledge and experience of that divine com
 from the fountain of divine intelligence, and with one another in him,
 which stands in no need of the medium of words or writing.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLVI.
+[.letter-heading]
+LETTER 46.
 
+[.signed-section-context-open]
 22nd of Eleventh month 1787.
 
 Honest Thomas a Kempis pleases me much.
@@ -541,10 +574,13 @@ Let us seek nothing for ourselves,
 but that our blessed Master may be glorified in our obedience,
 though it may be oftentimes through our own humiliation.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLVII.
+[.letter-heading]
+LETTER 47.
 
+[.signed-section-context-open]
 15th of Eleventh month 1794.
 
 Having the opportunity of conveying a few lines to you, I was unwilling to let it slip,
@@ -630,10 +666,13 @@ in much freedom and more about myself than I ever did before that I remember,
 but I will not pretend to make any apology for it,
 some little instruction may at some time be derived from it.
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLVIII.
+[.letter-heading]
+LETTER 48.
 
+[.signed-section-context-open]
 15th of First month 1791.
 
 There is, I believe, an obligation to duty above the fear of punishment,
@@ -719,10 +758,13 @@ also to give you springs of water, yes,
 the sure inexhaustible springs of consolation that flow from his presence;
 and this I wish for you with as much sincerity, as for your affectionate and true friend,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XLIX.
+[.letter-heading]
+LETTER 49.
 
+[.signed-section-context-open]
 22nd of First month 1793.
 
 I have often of late felt something like the salutation
@@ -822,4 +864,5 @@ I salute you as a brother in Christ, and commend us both unto his holy keeping.
 Remember me affectionately to your wife, whose dwelling is, I trust,
 secure in the valley of humility.
 
+[.signed-section-signature]
 John Thorp.
