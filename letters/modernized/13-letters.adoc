@@ -1,7 +1,9 @@
-== Letters XXIV &mdash; XXXVII
+== Letters 24 &mdash; 37
 
-LETTER XXIV.
+[.letter-heading]
+LETTER 24.
 
+[.salutation]
 Esteemed Friend,
 
 I am concerned that it so falls out I cannot be at home personally to bid you farewell,
@@ -30,10 +32,13 @@ lively in your ministry, wise and discerning in your conduct towards all,
 and upright and exemplary in your conversation!
 I am your sincere friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER XXV.
+[.letter-heading]
+LETTER 25.
 
+[.signed-section-context-open]
 12th month 1769.
 
 When I was informed of your draft towards New England at this season of the year,
@@ -56,14 +61,19 @@ I remember the way in which Paul made a visit to the island of Malta,
 was contrary to his own mind, and yet by means of it,
 the father of Publius was healed of his fever, and many cured of their infirmities.
 
+[.signed-section-closing]
 Farewell, my dear friend, from
 
+[.signed-section-signature]
 John Woolman.
 
-LETTER XXVI.
+[.letter-heading]
+LETTER 26.
 
+[.signed-section-context-open]
 Philadelphia, 26th Second month 1761
 
+[.salutation]
 Dear Friend,
 
 Friends here enquire after you with great respect, and,
@@ -81,12 +91,16 @@ have left as sweet impression on the minds of their friends as some who have act
 and I expect your observations in your travels, have convinced you of this.
 I am your affectionate friend,
 
+[.signed-section-signature]
 John Pemberton.
 
-LETTER XXVII.
+[.letter-heading]
+LETTER 27.
 
+[.signed-section-context-open]
 London, 18th Fifth month 1761.
 
+[.salutation]
 Dear Friend,
 
 Upon my coming up here to attend the service of the yearly meeting,
@@ -116,14 +130,19 @@ the enlargement of the borders of our Zion,
 is the desire of him who, with the salutation of brotherly affection,
 remains your sincere friend,
 
+[.signed-section-signature]
 Isaac Wilson.
 
-LETTER XXVIII.
+[.letter-heading]
+LETTER 28.
 
+[.letter-heading]
 To A Friend In England, +++[+++Translated from the Dutch.]
 
+[.signed-section-context-open]
 7th 3rd month 1769.
 
+[.salutation]
 Dear Friend,
 
 I received yours of the 15th 11th month, last which was as a precious medicine to me,
@@ -190,10 +209,13 @@ which has hitherto been our defender.
 
 I rest in true brotherly love and hearty well-wishing, your affectionate friend,
 
+[.signed-section-signature]
 John Vander Wert.
 
-LETTER XXIX.
+[.letter-heading]
+LETTER 29.
 
+[.salutation]
 My Dear Friend,
 
 With desires for your advancement in the way of self-denial,
@@ -228,12 +250,16 @@ ever more to praise and adore our gracious God,
 and the Lamb who has washed us in his precious blood.
 So prays your affectionate friend,
 
+[.signed-section-signature]
 Sophia Hume.
 
-LETTER XXX.
+[.letter-heading]
+LETTER 30.
 
+[.signed-section-context-open]
 Bromley, 2nd Twelfth month 1736.
 
+[.salutation]
 Dear Friend,
 
 When I was last in the north, I heard of you in several places,
@@ -268,17 +294,22 @@ of Divine consolation in Christ our bishop and true shepherd.
 To his protection I commit you, with my own soul, and remain your companion and sister,
 as you follow the Lamb in patience and tribulation,
 
+[.signed-section-signature]
 Deborah Bell.
 
+[.postscript]
 P+++.+++ S.--I hear your freedom, as to the outward, is enlarged; may your freedom,
 and liberty of soul,
 daily increase through the power of him that is come to set his
 children free to serve him in simplicity and singleness of heart.
 
-LETTER XXXI.
+[.letter-heading]
+LETTER 31.
 
+[.signed-section-context-open]
 Balby, near Doncaster.
 
+[.salutation]
 Dear Friend,
 
 The reading your letter gave me great satisfaction,
@@ -307,11 +338,14 @@ save nothing alive in you, which he has appointed for death.
 Be as passive clay in the hand of the potter;
 then he will reconcile and make all things easy, and form you as a vessel to his praise.
 
+[.signed-section-closing]
 This, from your real friend,
 
+[.signed-section-signature]
 Thomas Smith.
 
-LETTER XXXII.
+[.letter-heading]
+LETTER 32.
 
 I have had a deep fellow-feeling with you in your late affliction, and a secret hope,
 that it might please the Father of mercies to raise you up,
@@ -381,12 +415,16 @@ Humility is a strong bulwark, and as we enter into it we find safety.
 Being unclothed of our own wisdom, and knowing the abasement of the creature,
 therein we find that life to arise, which gives health and vigour to us.
 
+[.signed-section-signature]
 John Woolman.
 
-LETTER XXXIII.
+[.letter-heading]
+LETTER 33.
 
+[.signed-section-context-open]
 Exeter, 14th 8th month 1747.
 
+[.salutation]
 Dear Friend,
 
 I have often had you, and several other friends of Leominster, in my remembrance,
@@ -451,12 +489,14 @@ but in such poverty as teaches the soul to look to the Lord, that he may be our 
 In this love I freely impart to you what has been received,
 leaving it to the divine blessing to be disposed of for your advantage.
 
+[.signed-section-closing]
 I bid you farewell, remaining a well wisher to all,
 
+[.signed-section-signature]
 Lawford Godfrey.
 
-LETTER.
-XXXIV.
+[.letter-heading]
+LETTER 34.
 
 The Lord is the all-wise disposer of events.
 He makes rich, and makes poor.
@@ -549,10 +589,13 @@ in uniform mercy, what is most suitable to our states;
 and all for this most desirable purpose, to gather us to himself,
 who is the fullness of blessing and of life.
 
-LETTER XXXV.
+[.letter-heading]
+LETTER 35.
 
+[.signed-section-context-open]
 12th Twelfth month 1776.
 
+[.salutation]
 Dear Friend,
 
 In a degree of that love, which neither time nor outward distance,
@@ -657,14 +700,19 @@ and then all things will work together for your good;
 and for your additional preparation to glorify his holy name, in time and in eternity.
 Amen.
 
+[.signed-section-closing]
 From your real friend,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XXXVI.
+[.letter-heading]
+LETTER 36.
 
+[.signed-section-context-open]
 17th Seventh month 1777.
 
+[.salutation]
 My Dear and Much Esteemed Friend,
 
 You have been often brought to my remembrance, in much nearness;
@@ -750,14 +798,19 @@ Upon the whole, I cannot forbear to add,
 that I wish myself more worthy of the sufferings of the present day,
 and that I was more worthy to express these things in this manner to you.
 
+[.signed-section-closing]
 With much affection I subscribe myself, your brother in Christ Jesus,
 
+[.signed-section-signature]
 John Thorp.
 
-LETTER XXXVII.
+[.letter-heading]
+LETTER 37.
 
+[.signed-section-context-open]
 23rd Eighth month 1778.
 
+[.salutation]
 My Dear Friend,
 
 I may tell you I feel much concern for you in your present suffering state,
@@ -843,6 +896,8 @@ and in order to it wish you to take as much exercise
 within and without doors as you are capable of,
 without weariness.
 
+[.signed-section-closing]
 I am, with love unfeigned, your friend,
 
+[.signed-section-signature]
 John Thorp.
