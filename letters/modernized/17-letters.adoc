@@ -1,9 +1,12 @@
-== Letters LXI &mdash; LXXII
+== Letters 71 &mdash; 82
 
-LETTER LXI.
+[.letter-heading]
+LETTER 71.
 
+[.signed-section-context-open]
 1776+++.+++
 
+[.salutation]
 Dear Friend,
 
 I had your letter in answer to mine, which gave me pleasure in various respects.
@@ -105,14 +108,19 @@ Farewell, may wisdom and knowledge be the stability of your time while on earth,
 and may the fear of the Lord prove your glory, in which desire:
 joined by my wife in near love and affection, I remain your truly loving friend,
 
+[.signed-section-signature]
 Samuel Neale.
 
-LETTER LXII.
+[.letter-heading]
+LETTER 72.
 
+[.letter-heading]
 From Doctor Fothergill to the Meeting for Sufferings.
 
+[.signed-section-context-open]
 Near Middlewick, Cheshire, 20th 8th month 1770.
 
+[.salutation]
 Dear Friends,
 
 As you are frequently in my thoughts when absent from you,
@@ -161,11 +169,14 @@ wish to renew my strength both of body and mind,
 and to seek after that which can renew it properly.
 I salute you in much affection, and am,
 
+[.signed-section-closing]
 Your friend and brother,
 
+[.signed-section-signature]
 John Fothergill.
 
-LETTER LXIII.
+[.letter-heading]
+LETTER 73.
 
 It is worthy of consideration that when our society was under sore and cruel persecution,
 it greatly flourished both as to number and the addition of excellent men:
@@ -308,12 +319,16 @@ full of mercy, and full of good fruits, without partiality and without hypocrisy
 that this wisdom may be often asked for,
 and liberally given to my friends in +++________+++ is my sincere desire.
 
+[.signed-section-signature]
 T+++.+++ F.
 
-LETTER LXIV.
+[.letter-heading]
+LETTER 74.
 
+[.signed-section-context-open]
 11th month 7th, 1800.
 
+[.salutation]
 Esteemed Friend,
 
 The ingenious manner in which I found the hints I lately ventured to give you were received,
@@ -385,14 +400,19 @@ and her salvation as a lamp that burns;
 that the beneficial light thus handed to the weary traveller,
 may lead him safely on his journey, and to the city of the great king.
 
+[.signed-section-closing]
 I am your real Friend,
 
+[.signed-section-signature]
 R+++.+++ G.
 
-LETTER LXV.
+[.letter-heading]
+LETTER 75.
 
+[.signed-section-context-open]
 Brentford, 6th month 11th, 1770.
 
+[.salutation]
 Dear Friend,
 
 My earnest desire for your welfare will hardly allow me to rest,
@@ -536,12 +556,16 @@ where there are labyrinths, which must perplex,
 and in which it is easy for the human mind, without the divine guide, to be lost,
 utterly lost.
 
+[.signed-section-signature]
 T+++.+++ F.
 
-LETTER LXVI.
+[.letter-heading]
+LETTER 76.
 
+[.signed-section-context-open]
 Warrington, 20th 1st. month 1752.
 
+[.salutation]
 Dear Friend,
 
 I doubt not but the same conveyance that brings this
@@ -600,14 +624,19 @@ nor any place be allotted so low in which the omnipotent arm will not sustain.
 My dear love attends your mother and yourself, though personally unknown.
 I salute you with gospel affection; and remain,
 
+[.signed-section-closing]
 Your faithful friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER LXVII.
+[.letter-heading]
+LETTER 77.
 
+[.signed-section-context-open]
 Shipton, 1762.
 
+[.salutation]
 Dear Cousin,
 
 It is now several years since the correspondence between you and me was dropped,
@@ -694,16 +723,22 @@ and that your worthy father and mother might yet live to have comfort in you,
 and you in them.
 My good wishes attend your husband and children.
 
+[.signed-section-closing]
 From your affectionate kinswoman,
 
+[.signed-section-signature]
 Elizabeth Dale.
 
-LETTER LXVIII.
+[.letter-heading]
+LETTER 78.
 
+[.letter-heading]
 Richard Shackleton to E. D.
 
+[.signed-section-context-open]
 Ballitore, 10th month 1762.
 
+[.salutation]
 Dear Cousin,
 
 I perused your letter to my sister Rayton, and a secret sympathy,
@@ -756,16 +791,22 @@ which will be your present support to bear up your drooping head,
 and be the joyful earnest and assurance of a rest in that kingdom where the evil one,
 and his agents, cease from troubling, which in sincere affection is my desire for you.
 
+[.signed-section-closing]
 Our family`'s love, etc.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-LETTER LXIX.
+[.letter-heading]
+LETTER 79.
 
+[.letter-heading]
 E+++.+++ D. in answer to the foregoing.
 
+[.signed-section-context-open]
 Shipton, 2nd month 1763.
 
+[.salutation]
 Dear Cousin,
 
 Your very acceptable letter came safe to hand.
@@ -823,12 +864,16 @@ William Longman, of Leeds, died lately, his death was in last week`'s paper,
 which was the first account we had of it.
 My dear love attends you, your wife, and children, from
 
+[.signed-section-closing]
 Your affectionate kinswoman,
 
+[.signed-section-signature]
 Elizabeth Dale.
 
-LETTER LXX.
+[.letter-heading]
+LETTER 80.
 
+[.salutation]
 Dear Friend,
 
 My dear and tender love salutes you, in that love from which I had my being,
@@ -908,12 +953,16 @@ and my God and Father keep you in the arms of eternal love, over all, unto the e
 unto his praise.
 Amen.
 
+[.signed-section-signature]
 John Crooke.
 
-LETTER LXXI.
+[.letter-heading]
+LETTER 81.
 
+[.letter-heading]
 Samuel Fothergill to the Monthly Meeting he belonged to.
 
+[.salutation]
 Dear Friends,
 
 It has for some time lain heavy upon me to write a few lines to you,
@@ -980,12 +1029,16 @@ though beset with temptations on every hand.
 The Lord in mercy be with you, says my soul.
 Farewell.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-LETTER LXXII.
+[.letter-heading]
+LETTER 82.
 
+[.letter-heading]
 Anthony Benezet to John Pemberton, (then in England) written a little before his death.
 
+[.signed-section-context-open]
 Philadelphia, 5th month 29th, 1783.
 
 It is amazing what an influence the love of the world, its esteem and friendships,
@@ -1070,6 +1123,8 @@ Many such strange inconsistencies you will meet with, in which, I trust,
 you will be led to act in truth without partiality,
 and to enforce the doctrine of the rich man and Lazarus.
 
+[.signed-section-signature]
 Anthony Benezet.
 
+[.the-end]
 End of Volume II.
