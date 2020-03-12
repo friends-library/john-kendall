@@ -87,6 +87,7 @@ who is the Shepherd and Bishop of soul.
 
 Wishing you every comfort, and every blessing, consistent with the Divine will,
 
+[.signed-section-closing]
 I remain your affectionate and sincere friend,
 
 [.signed-section-signature]
@@ -384,7 +385,10 @@ further than the overflowings of a friendly heart,
 ready to join him who sucks at the everlasting breasts.
 Calmly therefore, warm at heart, with brotherly love,
 with hopes full of immortality for you, and for myself,
-I dearly salute you and your spouse, remaining Your affectionate friend,
+I dearly salute you and your spouse, remaining,
+
+[.signed-section-closing]
+Your affectionate friend,
 
 [.signed-section-signature]
 W+++.+++ C
