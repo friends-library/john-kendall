@@ -1,4 +1,4 @@
-== Letters 1 &mdash; 23
+== Letters 1 &#8212; 23
 
 [.letter-heading]
 LETTER 1.
