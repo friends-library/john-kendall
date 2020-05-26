@@ -1,7 +1,7 @@
 == Letters 24 &#8212; 37
 
 [.letter-heading]
-LETTER 24.
+Letter 24.
 
 [.salutation]
 Esteemed Friend,
@@ -36,7 +36,7 @@ I am thy sincere friend,
 Samuel Fothergill.
 
 [.letter-heading]
-LETTER 25.
+Letter 25.
 
 [.signed-section-context-open]
 12th month 1769.
@@ -68,7 +68,7 @@ Farewell, my dear friend, from
 John Woolman.
 
 [.letter-heading]
-LETTER 26.
+Letter 26.
 
 [.signed-section-context-open]
 Philadelphia, 26th Second month 1761
@@ -96,7 +96,7 @@ I am thy affectionate friend,
 John Pemberton.
 
 [.letter-heading]
-LETTER 27.
+Letter 27.
 
 [.signed-section-context-open]
 London, 18th Fifth month 1761.
@@ -136,7 +136,7 @@ remains thy sincere friend,
 Isaac Wilson.
 
 [.letter-heading]
-LETTER 28.
+Letter 28.
 
 [.letter-heading]
 To A Friend In England, +++[+++Translated from the Dutch.]
@@ -215,7 +215,7 @@ I rest in true brotherly love and hearty well-wishing, thy affectionate friend,
 John Vander Wert.
 
 [.letter-heading]
-LETTER 29.
+Letter 29.
 
 [.salutation]
 My Dear Friend,
@@ -256,7 +256,7 @@ So prayeth thy affectionate friend,
 Sophia Hume.
 
 [.letter-heading]
-LETTER 35.
+Letter 35.
 
 [.signed-section-context-open]
 Bromley, 2nd Twelfth month 1736.
@@ -306,7 +306,7 @@ daily increase through the power of him that is come to set his
 children free to serve him in simplicity and singleness of heart.
 
 [.letter-heading]
-LETTER 31.
+Letter 31.
 
 [.signed-section-context-open]
 Balby, near Doncaster.
@@ -347,7 +347,7 @@ This, from thy real friend,
 Thomas Smith.
 
 [.letter-heading]
-LETTER 32.
+Letter 32.
 
 I have had a deep fellow-feeling with thee in thy late affliction, and a secret hope,
 that it might please the Father of mercies to raise thee up,
@@ -422,7 +422,7 @@ therein we find that life to arise, which gives health and vigour to us.
 John Woolman.
 
 [.letter-heading]
-LETTER 33.
+Letter 33.
 
 [.signed-section-context-open]
 Exeter, 14th 8th month 1747.
@@ -499,7 +499,7 @@ I bid thee farewell, remaining a well wisher to all,
 Lawford Godfrey.
 
 [.letter-heading]
-LETTER 34.
+Letter 34.
 
 The Lord is the all-wise disposer of events.
 He maketh rich, and maketh poor.
@@ -593,7 +593,7 @@ and all for this most desirable purpose, to gather us to himself,
 who is the fullness of blessing and of life.
 
 [.letter-heading]
-LETTER 35.
+Letter 35.
 
 [.signed-section-context-open]
 12th Twelfth month 1776.
@@ -710,7 +710,7 @@ From thy real friend,
 John Thorp.
 
 [.letter-heading]
-LETTER 36.
+Letter 36.
 
 [.signed-section-context-open]
 17th Seventh month 1777.
@@ -808,7 +808,7 @@ With much affection I subscribe myself, thy brother in Christ Jesus,
 John Thorp.
 
 [.letter-heading]
-LETTER 37.
+Letter 37.
 
 [.signed-section-context-open]
 23rd Eighth month 1778.

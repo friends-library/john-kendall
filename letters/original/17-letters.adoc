@@ -1,7 +1,7 @@
 == Letters 72 &#8212; 83
 
 [.letter-heading]
-LETTER 72.
+Letter 72.
 
 [.signed-section-context-open]
 1776+++.+++
@@ -110,7 +110,7 @@ joined by my wife in near love and affection, I remain thy truly loving friend,
 Samuel Neale.
 
 [.letter-heading]
-LETTER 73.
+Letter 73.
 
 [.letter-heading]
 From Doctor Fothergill to the Meeting for Sufferings.
@@ -174,7 +174,7 @@ Your friend and brother,
 John Fothergill.
 
 [.letter-heading]
-LETTER 74.
+Letter 74.
 
 It is worthy of consideration that when our society was under sore and cruel persecution,
 it greatly flourished both as to number and the addition of excellent men:
@@ -321,7 +321,7 @@ and liberally given to my friends in +++________+++ is my sincere desire.
 T+++.+++ F.
 
 [.letter-heading]
-LETTER 75.
+Letter 75.
 
 [.signed-section-context-open]
 11th month 7th, 1800.
@@ -406,7 +406,7 @@ I am thy real Friend,
 R+++.+++ G.
 
 [.letter-heading]
-LETTER 76.
+Letter 76.
 
 [.signed-section-context-open]
 Brentford, 6th month 11th, 1770.
@@ -559,7 +559,7 @@ utterly lost.
 T+++.+++ F.
 
 [.letter-heading]
-LETTER 77.
+Letter 77.
 
 [.signed-section-context-open]
 Warrington, 20th 1st. month 1752.
@@ -630,7 +630,7 @@ Thy faithful friend,
 Samuel Fothergill.
 
 [.letter-heading]
-LETTER 78.
+Letter 78.
 
 [.signed-section-context-open]
 Shipton, 1762.
@@ -729,7 +729,7 @@ From thy affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-LETTER 79.
+Letter 79.
 
 [.letter-heading]
 Richard Shackleton to E. D.
@@ -797,7 +797,7 @@ Our family`'s love, etc.
 Richard Shackleton.
 
 [.letter-heading]
-LETTER 80.
+Letter 80.
 
 [.letter-heading]
 E+++.+++ D. in answer to the foregoing.
@@ -870,7 +870,7 @@ Thy affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-LETTER 81.
+Letter 81.
 
 [.salutation]
 Dear Friend,
@@ -956,7 +956,7 @@ Amen.
 John Crooke.
 
 [.letter-heading]
-LETTER 82.
+Letter 82.
 
 [.letter-heading]
 Samuel Fothergill to the Monthly Meeting he belonged to.
@@ -1032,7 +1032,7 @@ Farewell.
 Samuel Fothergill.
 
 [.letter-heading]
-LETTER 83.
+Letter 83.
 
 [.letter-heading]
 Anthony Benezet to John Pemberton, (then in England) written a little before his death.

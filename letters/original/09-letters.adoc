@@ -1,7 +1,7 @@
 == Letters 136 &#8212; 138
 
 [.letter-heading]
-LETTER 136.
+Letter 136.
 
 [.signed-section-context-open]
 6th month 27th, 1760.
@@ -71,7 +71,7 @@ and comfort thee by his rod and staff!
 Samuel Fothergill.
 
 [.letter-heading]
-LETTER 137.
+Letter 137.
 
 [.signed-section-context-open]
 2nd month 1st, 1678.
@@ -118,7 +118,7 @@ will of the Lord our God concerning us.
 Samuel Fothergill.
 
 [.letter-heading]
-LETTER 138.
+Letter 138.
 
 [.signed-section-context-open]
 18th of 6th month 1768.
