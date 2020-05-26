@@ -1,7 +1,7 @@
-== Letters 50 &#8212; 61
+== Letters 51 &#8212; 62
 
 [.letter-heading]
-LETTER 50.
+LETTER 51.
 
 [.signed-section-context-open]
 26th of Fourth month 1796.
@@ -94,7 +94,7 @@ I remain your affectionate and sincere friend,
 John Thorp.
 
 [.letter-heading]
-LETTER 51.
+LETTER 52.
 
 [.signed-section-context-open]
 2nd of Second month 1798.
@@ -156,7 +156,7 @@ that they may walk and not faint.
 John Thorp.
 
 [.letter-heading]
-LETTER 52.
+LETTER 53.
 
 [.signed-section-context-open]
 28th of Tenth month 1799.
@@ -250,7 +250,7 @@ I am your affectionate friend,
 John Thorp.
 
 [.letter-heading]
-LETTER 53.
+LETTER 54.
 
 [.signed-section-context-open]
 Plymouth, 22nd of First month 1747.
@@ -332,7 +332,7 @@ which is written from no other motive but love.
 W+++.+++ C.
 
 [.letter-heading]
-LETTER 54.
+LETTER 55.
 
 I have thus far, as your sympathizing friend,
 suggested everything that occurs to me which might be of use in in your disorder;
@@ -394,7 +394,7 @@ Your affectionate friend,
 W+++.+++ C
 
 [.letter-heading]
-LETTER 55.
+LETTER 56.
 
 [.letter-heading]
 To S. Taylor, of Manchester.
@@ -482,7 +482,7 @@ in the gospel, and with great sincerity, subscribe myself, your affectionate fri
 Catherine Payton.
 
 [.letter-heading]
-LETTER 56.
+LETTER 57.
 
 [.signed-section-context-open]
 Bury, (Suffolk) 30th of First month 1768.
@@ -558,7 +558,7 @@ conclude your real friend,
 John Churchman.
 
 [.letter-heading]
-LETTER 57.
+LETTER 58.
 
 [.signed-section-context-open]
 Ware, 23rd of 2nd month, 1747.
@@ -659,7 +659,7 @@ I am your friend, with true regard,
 Samuel Scott.
 
 [.letter-heading]
-LETTER 58.
+LETTER 59.
 
 [.signed-section-context-open]
 Ware, 3rd of Second month 1750.
@@ -722,7 +722,7 @@ He reposes so great a confidence in you, as to submit them to your perusal,
 with this restriction, that no copies may be taken therefrom.
 
 [.letter-heading]
-LETTER 59.
+LETTER 60.
 
 [.signed-section-context-open]
 16th of Second month 1753.
@@ -781,7 +781,7 @@ which I desire always to bear towards those who have tasted that the Lord is gra
 Samuel Scott.
 
 [.letter-heading]
-LETTER 60.
+LETTER 61.
 
 Although the apprehension of being soon personally separated from
 one to whom I have been so nearly united in the bond of the gospel,
@@ -845,7 +845,7 @@ and therewith salute you, and bid you dearly farewell.
 Samuel Scott.
 
 [.letter-heading]
-LETTER 61.
+LETTER 62.
 
 [.signed-section-context-open]
 Ware, 14th of Third month 1752.

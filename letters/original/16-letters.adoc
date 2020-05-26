@@ -1,7 +1,7 @@
-== Letters 62 &#8212; 70
+== Letters 63 &#8212; 71
 
 [.letter-heading]
-LETTER 62.
+LETTER 63.
 
 [.signed-section-context-open]
 15th of Eighth Month, 1778.
@@ -52,7 +52,7 @@ I am, your affectionate friend,
 Samuel Scott.
 
 [.letter-heading]
-LETTER 63.
+LETTER 64.
 
 [.signed-section-context-open]
 London, 11th Ninth month 1768
@@ -163,7 +163,7 @@ I tenderly salute thee in the tribulation and fellowship of the gospel.
 Sophia Hume.
 
 [.letter-heading]
-LETTER 64.
+LETTER 65.
 
 [.letter-heading]
 Thomas Lloyd to John Eccles and wife.
@@ -200,7 +200,7 @@ I am your true well-wisher,
 Thomas Lloyd.
 
 [.letter-heading]
-LETTER 65.
+LETTER 66.
 
 [.letter-heading]
 Mary Peisley to William Brown.
@@ -333,7 +333,7 @@ I am, with love, in which our family joins me, thy friend in the fellowship of t
 Mary Peisley.
 
 [.letter-heading]
-LETTER 66.
+LETTER 67.
 
 [.letter-heading]
 An Epistle by Mary Smith.
@@ -477,7 +477,7 @@ Amen. Your friend and sister, I hope, in the saints`' travail and tribulation,
 Mary Smith.
 
 [.letter-heading]
-LETTER 67.
+LETTER 68.
 
 [.letter-heading]
 Sophia Hume to Hannah Hyam.
@@ -637,7 +637,7 @@ Thy real and affectionate friend,
 Sophia Hume.
 
 [.letter-heading]
-LETTER 68.
+LETTER 69.
 
 [.letter-heading]
 From Mary Peisley to E. and T. Ecroyd.
@@ -683,7 +683,7 @@ from your truly affectionate friend,
 Mary Peisley.
 
 [.letter-heading]
-LETTER 69.
+LETTER 70.
 
 [.letter-heading]
 From Sophia Hume to Anthony Benezet, which was found unfinished after her decease.
@@ -749,7 +749,7 @@ that they may not receive his grace in vain.
 Sophia Hume.
 
 [.letter-heading]
-LETTER 70.
+LETTER 71.
 
 [.letter-heading]
 To +++_______+++
