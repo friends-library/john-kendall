@@ -268,6 +268,8 @@ your affectionate and well-wishing sister,
 Tabitha Ecroyd.
 
 [.postscript]
+====
+
 P+++.+++ S. I hope before long to be favoured with your company here;
 and shall I not congratulate you on the expiration of your seven years`' absence,
 and approaching freedom?
@@ -277,6 +279,8 @@ and as much of the fatness of the earth as he sees
 convenient! and let this never be forgot,
 Seek first the kingdom of heaven, and the righteousness thereof,
 and all other things shall be added.
+
+====
 
 [.signed-section-signature]
 T+++.+++ E.
