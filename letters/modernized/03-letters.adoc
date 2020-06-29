@@ -79,7 +79,7 @@ Letter 3.
 [.signed-section-context-open]
 2nd month 18th, 1755.
 
-I received your awakening letter, of the 30th of 12th month last;
+I received your awakening epistle, of the 30th of 12th month last;
 the more acceptable as it comes from one who seems to have undergone dispensations
 of Providence nearly like those which have lately fallen to my share.
 I can truly say,
@@ -138,7 +138,9 @@ and according to your good resolution and exhortation,
 to adhere chiefly to subjects of a spiritual nature,
 and such as may have a direct tendency to prepare for a better and happier state;
 which it behooves us to have frequently in prospect,
-and to cultivate the medicine of the mind more, and that of the body less;
+and to cultivate the __medicina mentis__^
+footnote:[Medicine of the mind]
+more, and that of the body less;
 an anxious pursuit of business in the medicinal way is very unsuitable to our situation,
 on the borders of eternity.
 I have been greatly favoured of late with an opportunity
@@ -241,7 +243,9 @@ and humbly adore its impenetrable wisdom!
 You will not suspect me of being visionary on occasions
 wherein I have censured other short-sighted honest men;
 but it looks to me as if our dear country was well nigh
-arrived to its ultimate example as to dissoluteness of manners:
+arrived to its __Ne plus ultra__^
+footnote:[The perfect, ultimate, or most extreme example of its kind]
+as to dissoluteness of manners:
 and without the gift of prophecy, perhaps it may be said,
 there never was a period of time more teeming in great events;
 but I proceed no further on this subject;
@@ -289,7 +293,8 @@ are forced either to have recourse to the invisible fountain, at first hand,
 or to sit dry and parched; the latter, I fear,
 is the state of many! Some of these are going off, and others will go: however,
 at present, many of us hold together.
-In the midst of this, sometimes there starts up an delusion,
+In the midst of this, sometimes there starts up an __ignis fatuus,__^
+footnote:[Delusion, or false light]
 boasting of superior light, but kindled, if I mistake not from below;
 reproaching those who remain steady with this language, "`You are dumb,
 but I must not be so.`"
@@ -397,7 +402,7 @@ Letter 10.
 12th month 11th, 1762.
 
 Thus retired, I sit down to discharge my debt to you: and first shall say,
-I join you in discouraging universal charge upon some of our modern reformers, as if,
+I join you in discouraging a universal charge upon some of our modern reformers, as if,
 by mistaken notions of Christ`'s righteousness,
 they encouraged a persisting in immoral lives;
 for from a personal knowledge of some of them,
@@ -877,7 +882,7 @@ as well as myself, thought would be unto death; and in this trying season,
 when not only all my delights forsook me,
 but the wrath of God was revealed against all unrighteousness,
 and my sins set in order before my face;
-the veil of willfulness with which the god of this world had blinded my spiritual eye,
+the veil of obduracy with which the god of this world had blinded my spiritual eye,
 was rent: I saw my guilt,
 and was greatly condemned in rejecting my dear parent`'s admonition:
 but upon promises of amendment, the Lord was so merciful as to spare my life,
