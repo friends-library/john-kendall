@@ -8,7 +8,7 @@ Letter 17.
 
 I received thy last letter just as I had engaged
 to accompany a friend to two adjacent country meetings,
-and therefore Could give it but a cursory reading: but after some days interruption,
+and therefore could give it but a cursory reading: but after some days interruption,
 upon giving it a second review, my heart was comfortably affected,
 and mine eye filled with tears of joy! as my faith is further strengthened and confirmed,
 that though thou art cast down, the Lord has not left nor forsaken thee,
@@ -313,7 +313,7 @@ Thus is he near, when he seems to be most absent;
 ready to help in every needful time of trouble,
 as he is called upon in the least degree of faith;
 settling and quieting the mind in his own time.
-His deliverance conies sometimes entirely unexpected by the creature:
+His deliverance comes sometimes entirely unexpected by the creature:
 but whether it comes early or late in that deliverance,
 there is a looking back with wonder and acknowledgment to God.
 As Israel sang on the banks of the sea, saying, The Lord is glorious in holiness,
@@ -470,7 +470,9 @@ then how wilt thou do in the swelling of Jordan?`"
 
 Again,
 it is afflicting to consider how our Christian reputation
-is stained in matters of meiim and ttium,
+is stained in matters of _meum_ and __tuum,__^
+footnote:[_Meum_ means "`what is mine`" and _tuum_ means "`what is thine`".
+Together they were used as a legal phrase alluding to personal property rights.]
 whilst we are the highest professing people.
 Surely, the generality of the unhappy failures that have happened among us,
 are through unfaithfulness and neglect of the divine principle of light and truth within,
@@ -571,7 +573,7 @@ To be as the mouth of the Lord to an assembly;
 and to be as the mouth of an assembly to the Lord, is a matter of great importance,
 in which we have need to take care to behave ourselves wisely.
 
-Ministers areas the watchmen spoken of in Scripture;
+Ministers are as the watchmen spoken of in Scripture;
 if they warned not the people faithfully in the word of the Lord,
 he was to require the blood of the people at their hands.
 If ministers are not faithful in the word of reconciliation,
