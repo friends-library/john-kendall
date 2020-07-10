@@ -295,7 +295,8 @@ which as we steadily and singly wait for it,
 the Author of all our right abilities may be pleased to furnish us with wisdom to administer,
 in their place and season.
 Even the heathen poet was sensible of the forcible effect of example on children,
-when he says, "`Maxima debetur pueris reverentia.`"
+when he says, "`Maxima debetur pueris reverentia.`" footnote:["`The greatest
+reverence is due the young.`"]
 
 [.signed-section-signature]
 Richard Shackleton.
@@ -306,14 +307,14 @@ Letter 94.
 [.signed-section-context-open]
 8th month 1769.
 
-I have many warm wishes for some of `'s children; they are near and dear to me.
+I have many warm wishes for some of +++________+++`'s children; they are near and dear to me.
 Indeed I cannot help rejoicing at times,
 at the beautiful prospect there is even among my own acquaintance,
 and within that (comparatively) narrow circle, of a number of devoted youth,
 who are caught in the gospel-net,
 whose eyes growing dim as to the splendour and gaiety of this world,
 who have been happily enamoured of sovereign beauty and excellence,
-and have in their hearts chosen that good pari,
+and have in their hearts chosen that good part,
 which I heartily pray may never be taken (by the adversary or his agents) from them.
 
 [.signed-section-signature]
@@ -420,7 +421,7 @@ but they hand of it to others: the wife often, for lack of better conversation,
 gives of it to the husband; he to his associates;
 and so the sweet harmony of good neighbourhood is spoiled;
 there is no cordiality of affection; and the friendship is only nominal,
-(concordia discors).
+(concordia discors). footnote:[inharmonius harmony]
 The precious truth, which is the panacea of human life,
 is the only effectual remedy for this evil; as it prevails in the mind,
 it teaches (and qualifies too) to love as brethren.
@@ -469,7 +470,7 @@ and to whose fame and character
 (which should be bright and illustrious among the nations)
 they add very little,
 if they take not away very much from it by their visible conduct.
-Yet, thanks to the merciful Creator! who has not wholly repudiated his people,
+Yet, thanks to the merciful Creator!--who has not wholly repudiated his people,
 though they have in the general allowed themselves to be defiled by other lovers;
 there are to my certain knowledge (and I rejoice
 in the prospect of it) several up and down,
@@ -491,7 +492,8 @@ they have halted (as between two opinions) fallen back, and lost ground:
 so came not forward in the service which was designed,
 for lack of learning the exercise and discipline at home,
 and meeting frequently with their fellows in rank abroad.
-"`Felix quern faciunt aliena pericula cautum.`"
+"`Felix quern faciunt aliena pericula cautum.`"^
+footnote:["`Happy he whom other people`'s dangers make cautious`"]
 
 [.signed-section-signature]
 Richard Shackleton.
@@ -658,7 +660,7 @@ Letter 105.
 [.signed-section-context-open]
 12th month 1771.
 
-Alas! my friend, this is a day of weakness and distress, a day of stripping and famine.
+Alas! My friend, this is a day of weakness and distress, a day of stripping and famine.
 It greatly behooves us to gird up the loins of our minds and be sober:
 that if the Master shall please to bid us do anything in his house,
 we may be ready to do it, and thereby obtain his approbation,
@@ -689,7 +691,7 @@ Richard Shackleton.
 Letter 106.
 
 Thus one after another we are overtaken by some messenger
-sent to summon us from time to eternity! happy those who,
+sent to summon us from time to eternity! Happy those who,
 keeping straight accounts with their Maker,
 witnessing daily the debt incurred by their trespasses, to be cancelled by his mercy,
 in and through his beloved son, and his judgments, are in readiness to obey the summons.
