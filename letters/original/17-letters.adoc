@@ -1,7 +1,7 @@
-== Letters 51 &#8212; 62
+== Letters 50 &#8212; 61
 
 [.letter-heading]
-Letter 51.
+Letter 50.
 
 [.signed-section-context-open]
 26th of Fourth month 1796.
@@ -94,7 +94,7 @@ I remain thy affectionate and sincere friend,
 John Thorp.
 
 [.letter-heading]
-Letter 52.
+Letter 51.
 
 [.signed-section-context-open]
 2nd of Second month 1798.
@@ -156,7 +156,7 @@ that they may walk and not faint.
 John Thorp.
 
 [.letter-heading]
-Letter 53.
+Letter 52.
 
 [.signed-section-context-open]
 28th of Tenth month 1799.
@@ -250,7 +250,7 @@ I am thy affectionate friend,
 John Thorp.
 
 [.letter-heading]
-Letter 54.
+Letter 53.
 
 [.signed-section-context-open]
 Plymouth, 22nd of First month 1747.
@@ -317,13 +317,13 @@ I am sensible that at times we are in great want, and leanness comes over us;
 but I have found that as our eye is to the Lord (though he may see meet to try
 us with want of bread) he supports under the hunger to which the blessing is,
 helping us through the dark stormy days and times of famine;
-blessing the little he is pleased to give, and making it sufficient for our sup port,
+blessing the little he is pleased to give, and making it sufficient for our support,
 and to keep us alive till he sends rain on the land;
 and thus is this (though the sorest of all exercises) made tolerable,
 as we keep in the faith and patience of the saints;
 and nothing embitters it so much as letting in consultations and reasonings.
 
-Thus, my dear friend, have I found tilings, and thus do?
+Thus, my dear friend, have I found things, and thus do I
 with much simplicity mention them: thy experience I am sensible, in many things,
 far exceeds mine,
 yet perhaps thou mayst catch a little light from some part of this letter,
@@ -333,10 +333,10 @@ which is written from no other motive but love.
 W+++.+++ C.
 
 [.letter-heading]
-Letter 55.
+Letter 54.
 
 I have thus far, as thy sympathizing friend,
-suggested everything that occurs to me which might be of use in in thy disorder;
+suggested everything that occurs to me which might be of use in thy disorder;
 but the great medicine from above, the sacred balm, the Almighty,
 and unerring hand of divine mercy,
 is the only certain cure or alleviation of the sufferings and ills
@@ -395,7 +395,7 @@ Thy affectionate friend,
 W+++.+++ C
 
 [.letter-heading]
-Letter 56.
+Letter 55.
 
 [.letter-heading]
 To S. Taylor, of Manchester.
@@ -483,7 +483,7 @@ in the gospel, and with great sincerity, subscribe myself, thy affectionate frie
 Catherine Payton.
 
 [.letter-heading]
-Letter 57.
+Letter 56.
 
 [.signed-section-context-open]
 Bury, (Suffolk) 30th of First month 1768.
@@ -559,7 +559,7 @@ conclude thy real friend,
 John Churchman.
 
 [.letter-heading]
-Letter 58.
+Letter 57.
 
 [.signed-section-context-open]
 Ware, 23rd of 2nd month, 1747.
@@ -660,7 +660,7 @@ I am thy friend, with true regard,
 Samuel Scott.
 
 [.letter-heading]
-Letter 59.
+Letter 58.
 
 [.signed-section-context-open]
 Ware, 3rd of Second month 1750.
@@ -669,7 +669,7 @@ Ware, 3rd of Second month 1750.
 Esteemed Friend,
 
 Thankfulness attends my mind at this time,
-that I am sensible there is a love infinitely than all the powers of death and hell,
+that I am sensible there is a love infinitely stronger than all the powers of death and hell,
 and a divine fellowship which no mutable accidents can impair,
 neither time nor space interrupt:
 for as it subsists alone by the power of an endless commandment,
@@ -684,7 +684,7 @@ and gather to the life of Jesus, the unchangeable foundation,
 the standard lifted up to all nations, and the day-spring which hath visited our souls;
 for herein the quickened travelling exercised members of the church,
 when under a total incapacity of personal communion
-are one another`'s strength and joy 4n the Lord.
+are one another`'s strength and joy in the Lord.
 Here they receive the efficacy of the atonement made
 by their holy head in the day of his humiliation;
 the evidences of divine approbation, and a holy consolation.
@@ -727,7 +727,7 @@ with this restriction, that no copies may be taken therefrom.
 ====
 
 [.letter-heading]
-Letter 60.
+Letter 59.
 
 [.signed-section-context-open]
 16th of Second month 1753.
@@ -785,7 +785,7 @@ which I desire always to bear towards those who have tasted that the Lord is gra
 Samuel Scott.
 
 [.letter-heading]
-Letter 61.
+Letter 60.
 
 Although the apprehension of being soon personally separated from
 one to whom I have been so nearly united in the bond of the gospel,
@@ -849,12 +849,12 @@ and therewith salute thee, and bid thee dearly farewell.
 Samuel Scott.
 
 [.letter-heading]
-Letter 62.
+Letter 61.
 
 [.signed-section-context-open]
 Ware, 14th of Third month 1752.
 
-A Concern hath been upon me to invite thee, with my own soul,
+A concern hath been upon me to invite thee, with my own soul,
 to labour in the vineyard of the Lord.
 The vineyard of the Lord of hosts, is the heart of man, where he manifests his power,
 and displays his almighty operations, for the salvation of his creatures;
