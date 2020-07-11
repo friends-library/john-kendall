@@ -1,7 +1,7 @@
-== Letters 72 &#8212; 83
+== Letters 71 &#8212; 82
 
 [.letter-heading]
-Letter 72.
+Letter 71.
 
 [.signed-section-context-open]
 1776+++.+++
@@ -23,7 +23,7 @@ if he fails when he has them in one position,
 he attempts to draw them from it by another with a view of better success.
 If the banner be over us,
 in the limitation assigned by the guardian angel of preservation,
-let ns keep under it and we shall be secure;
+let us keep under it and we shall be secure;
 the enemy will not be able to prevail against us,
 when we have the glorious fence of the Lord`'s appointment.
 There are seasons when the affectionate part is up in men,
@@ -110,7 +110,7 @@ joined by my wife in near love and affection, I remain thy truly loving friend,
 Samuel Neale.
 
 [.letter-heading]
-Letter 73.
+Letter 72.
 
 [.letter-heading]
 From Doctor Fothergill to the Meeting for Sufferings.
@@ -174,7 +174,7 @@ Your friend and brother,
 John Fothergill.
 
 [.letter-heading]
-Letter 74.
+Letter 73.
 
 It is worthy of consideration that when our society was under sore and cruel persecution,
 it greatly flourished both as to number and the addition of excellent men:
@@ -209,7 +209,7 @@ and often recurring to its foundation,
 must be the best and most disinterested in the world,
 and low as our society is fallen for want of such recurring,
 yet I know of none in which we can see so much devotion of time and talents,
-and-generous labour to social service, as in ours.
+and generous labour to social service, as in ours.
 The present visit to the monthly and quarterly meetings
 of Friends in this nation and in Ireland,
 is a fresh instance of this sort,
@@ -254,7 +254,7 @@ In short, nothing is plainer than this, that a general reformation is wanted,
 and nothing ought to be more earnestly sought for
 by us than that we as a people may lead the way,
 remembering where judgment must begin,
-and Were the unrighteous things purged from us by our discipline,
+and were the unrighteous things purged from us by our discipline,
 I have no doubt but we should flourish again.
 The principle we profess is still the same,
 and would make us as illustrious as were our fathers,
@@ -321,7 +321,7 @@ and liberally given to my friends in +++________+++ is my sincere desire.
 T+++.+++ F.
 
 [.letter-heading]
-Letter 75.
+Letter 74.
 
 [.signed-section-context-open]
 11th month 7th, 1800.
@@ -406,7 +406,7 @@ I am thy real Friend,
 R+++.+++ G.
 
 [.letter-heading]
-Letter 76.
+Letter 75.
 
 [.signed-section-context-open]
 Brentford, 6th month 11th, 1770.
@@ -559,7 +559,7 @@ utterly lost.
 T+++.+++ F.
 
 [.letter-heading]
-Letter 77.
+Letter 76.
 
 [.signed-section-context-open]
 Warrington, 20th 1st. month 1752.
@@ -630,7 +630,7 @@ Thy faithful friend,
 Samuel Fothergill.
 
 [.letter-heading]
-Letter 78.
+Letter 77.
 
 [.signed-section-context-open]
 Shipton, 1762.
@@ -729,10 +729,10 @@ From thy affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-Letter 79.
+Letter 78.
 
 [.letter-heading]
-Richard Shackleton to E. D.
+Richard Shackleton to Elizabeth Dale
 
 [.signed-section-context-open]
 Ballitore, 10th month 1762.
@@ -797,10 +797,10 @@ Our family`'s love, etc.
 Richard Shackleton.
 
 [.letter-heading]
-Letter 80.
+Letter 79.
 
 [.letter-heading]
-E+++.+++ D. in answer to the foregoing.
+Elizabeth Dale in answer to the foregoing.
 
 [.signed-section-context-open]
 Shipton, 2nd month 1763.
@@ -870,7 +870,7 @@ Thy affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-Letter 81.
+Letter 80.
 
 [.salutation]
 Dear Friend,
@@ -929,7 +929,7 @@ and fret not thyself because of them, neither be cast down,
 as if it should never be otherwise with thee; sorrow comes at night,
 but joy in the morning: and the days of thy mourning shall be over,
 and the accuser will God cast out forever.
-For therefore was I afflict ed, and not comforted, and tempted, and tried, for this end,
+For therefore was I afflicted, and not comforted, and tempted, and tried, for this end,
 that I might know how to speak a word in due season,
 unto those who are tempted and afflicted as I once was;
 as it was said unto me in that day when sorrow lay heavy upon me.
@@ -956,7 +956,7 @@ Amen.
 John Crooke.
 
 [.letter-heading]
-Letter 82.
+Letter 81.
 
 [.letter-heading]
 Samuel Fothergill to the Monthly Meeting he belonged to.
@@ -1032,7 +1032,7 @@ Farewell.
 Samuel Fothergill.
 
 [.letter-heading]
-Letter 83.
+Letter 82.
 
 [.letter-heading]
 Anthony Benezet to John Pemberton, (then in England) written a little before his death.
@@ -1053,7 +1053,7 @@ lay such an absolute prohibition on such a state:
 "`Lay not up treasures for yourselves on earth,`" says our blessed Saviour;
 "`How hardly shall those who have riches enter,`" etc.
 "`Woe to you that are rich.`"--Be not conformed but be ye transformed,
-that ye may be the belter qualified to follow him who has called
+that ye may be the better qualified to follow him who has called
 you in the way of the cross to be soldiers in his holy warfare,
 but learn of him who was meek and low; who, though he was Lord of all,
 chose to come in the form of a servant, walked on foot, fed on barley loaves, etc.
@@ -1113,7 +1113,7 @@ in the decline of life, be put into the most suitable situation,
 to think and prepare for their latter end, and enjoy a moderate state of comfort?
 Is it honest to God or man?
 Is it doing justly as stewards of the wealth committed to our care?
-la it loving our neighbour as ourselves?
+Is it loving our neighbour as ourselves?
 If mankind are indeed brethren,
 can it be agreeable to the good Father of the family of mankind,
 that one should engross so much, and employ it to feed the corruptions of his offspring,
