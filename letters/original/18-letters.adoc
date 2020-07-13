@@ -1,7 +1,7 @@
-== Letters 63 &#8212; 71
+== Letters 62 &#8212; 70
 
 [.letter-heading]
-Letter 63.
+Letter 62.
 
 [.signed-section-context-open]
 15th of Eighth Month, 1778.
@@ -52,7 +52,7 @@ I am, your affectionate friend,
 Samuel Scott.
 
 [.letter-heading]
-Letter 64.
+Letter 63.
 
 [.signed-section-context-open]
 London, 11th Ninth month 1768
@@ -163,7 +163,7 @@ I tenderly salute thee in the tribulation and fellowship of the gospel.
 Sophia Hume.
 
 [.letter-heading]
-Letter 65.
+Letter 64.
 
 [.letter-heading]
 Thomas Lloyd to John Eccles and wife.
@@ -174,7 +174,7 @@ Maesmawr, 12th month 1682.
 [.salutation]
 Loving Friends,
 
-A Living remembrance of you, is and hath been often in my mind,
+A living remembrance of you, is and hath been often in my mind,
 and a breathing in my soul for your welfare and prosperity in the riches
 of that treasury which makes glad the hearts of the possessors thereof,
 and which never perish in the using.
@@ -200,7 +200,7 @@ I am your true well-wisher,
 Thomas Lloyd.
 
 [.letter-heading]
-Letter 66.
+Letter 65.
 
 [.letter-heading]
 Mary Peisley to William Brown.
@@ -317,7 +317,7 @@ to admire and celebrate the mysteries of redeeming love; saying with a loud voic
 "`Worthy is the Lamb that was slain, to receive power and wisdom, riches and strength.
 Honour and blessing to him that sitteth upon the throne, and to the Lamb forever.`"
 
-1t is time for me to draw towards a conclusion,
+It is time for me to draw towards a conclusion,
 which I shall do with hearty desires for thy preservation every way,
 and prosperity in the glorious work thou art engaged in,
 hoping thou wilt remember me when it fares well with thee.
@@ -333,7 +333,7 @@ I am, with love, in which our family joins me, thy friend in the fellowship of t
 Mary Peisley.
 
 [.letter-heading]
-Letter 67.
+Letter 66.
 
 [.letter-heading]
 An Epistle by Mary Smith.
@@ -372,7 +372,7 @@ literal carnal professors, or half-turned mongrel ones, yet it never can with Go
 since he that is a friend of the world is an enemy to God,
 is the express doctrine and testimony of the blessed apostle.
 I long to have you men after God`'s own heart, Davids indeed, without blemish,
-without re proof; so shall the goodly oil shine,
+without reproof; so shall the goodly oil shine,
 and the beauty of the Lamb`'s anointing be your excellent adorning.
 The light of the Lord God will fill your dwellings,
 and his blessing be upon all that appertains to you;
@@ -477,7 +477,7 @@ Amen. Your friend and sister, I hope, in the saints`' travail and tribulation,
 Mary Smith.
 
 [.letter-heading]
-Letter 68.
+Letter 67.
 
 [.letter-heading]
 Sophia Hume to Hannah Hyam.
@@ -637,7 +637,7 @@ Thy real and affectionate friend,
 Sophia Hume.
 
 [.letter-heading]
-Letter 69.
+Letter 68.
 
 [.letter-heading]
 From Mary Peisley to E. and T. Ecroyd.
@@ -683,7 +683,7 @@ from your truly affectionate friend,
 Mary Peisley.
 
 [.letter-heading]
-Letter 70.
+Letter 69.
 
 [.letter-heading]
 From Sophia Hume to Anthony Benezet, which was found unfinished after her decease.
@@ -733,7 +733,7 @@ though I am thankful to the keeper of Israel he preserves
 me from being envious at the workers of iniquity;
 so far from envying I mourn and lament their state,
 and as Paul in the word of the Almighty commanded,
-that "`prayer and supplication be made for all men,`" so in my mea sure
+that "`prayer and supplication be made for all men,`" so in my measure
 I am enabled to address the Father of Mercies with strong cries,
 prayers, and many tears, that all men may be blessed with the knowledge of the truth,
 and be saved from sin here, and the dreadful penalty due to it hereafter;
@@ -749,7 +749,7 @@ that they may not receive his grace in vain.
 Sophia Hume.
 
 [.letter-heading]
-Letter 71.
+Letter 70.
 
 [.letter-heading]
 To +++_______+++
@@ -884,4 +884,4 @@ when dislodged from this decrepit and much afflicted tabernacle.
 Thy affectionate friend,
 
 [.signed-section-signature]
-Catharine Phillips.
+Catherine Phillips.
