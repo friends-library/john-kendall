@@ -1,4 +1,4 @@
-== Letters 38 &#8212; 49
+== Letters 38 &#8212; 51
 
 [.letter-heading]
 Letter 38.
@@ -152,6 +152,9 @@ is the desire of thy affectionate friend,
 Catherine Phillips.
 
 [.letter-heading]
+Letter 40.
+
+[.letter-heading]
 Extracts From An Epistle Of Stephen Crisp.
 
 It lies upon me to warn you, my dear friends, to watch against the spirit of this world,
@@ -205,7 +208,7 @@ as well as of your religion and profession.
 Stephen Crisp
 
 [.letter-heading]
-Letter 40.
+Letter 41.
 
 [.signed-section-context-open]
 Chard, 13th Tenth month 1718.
@@ -244,7 +247,7 @@ much obliged friend,
 Elias Osborne.
 
 [.letter-heading]
-Letter 41.
+Letter 42.
 
 [.signed-section-context-open]
 London Ninth Month 14th, 1706.
@@ -291,6 +294,9 @@ I rest thy truly loving friend in the Lord,
 William Penn.
 
 [.letter-heading]
+Letter 43.
+
+[.letter-heading]
 From a letter of John Fothergill, to his Son, the late Dr. Fothergill, of London.
 
 I am preserved in usual health,
@@ -327,7 +333,7 @@ who will hear and answer in due time, the patient, though hidden enquirers for i
 and thereby such will grow in the living root, and bear fruit to the Father`'s praise.
 
 [.letter-heading]
-Letter 42.
+Letter 44.
 
 [.signed-section-context-open]
 29th of Twelfth month 1783.
@@ -443,7 +449,7 @@ Thy very affectionate friend,
 W+++.+++ P.
 
 [.letter-heading]
-Letter 43.
+Letter 45.
 
 [.signed-section-context-open]
 22nd of Third month 1788.
@@ -504,7 +510,7 @@ and desire to be his companion in the regeneration and in newness of life.
 John Thorp.
 
 [.letter-heading]
-Letter 44.
+Letter 46.
 
 [.signed-section-context-open]
 8th of Seventh month 1787.
@@ -529,7 +535,7 @@ the most blessed knowledge is obtained.
 John Thorp.
 
 [.letter-heading]
-Letter 45.
+Letter 47.
 
 [.signed-section-context-open]
 15th of Eighth month 1787.
@@ -555,7 +561,7 @@ which standeth in no need of the medium of words or writing.
 John Thorp.
 
 [.letter-heading]
-Letter 46.
+Letter 48.
 
 [.signed-section-context-open]
 22nd of Eleventh month 1787.
@@ -580,7 +586,7 @@ though it may be oftentimes through our own humiliation.
 John Thorp.
 
 [.letter-heading]
-Letter 47.
+Letter 49.
 
 [.signed-section-context-open]
 15th of Eleventh month 1794.
@@ -672,7 +678,7 @@ some little instruction may at some time be derived from it.
 John Thorp.
 
 [.letter-heading]
-Letter 48.
+Letter 50.
 
 [.signed-section-context-open]
 15th of First month 1791.
@@ -764,7 +770,7 @@ and this I wish for thee with as much sincerity, as for thy affectionate and tru
 John Thorp.
 
 [.letter-heading]
-Letter 49.
+Letter 51.
 
 [.signed-section-context-open]
 22nd of First month 1793.

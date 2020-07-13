@@ -1,7 +1,7 @@
-== Letters 71 &#8212; 82
+== Letters 73 &#8212; 84
 
 [.letter-heading]
-Letter 71.
+Letter 73.
 
 [.signed-section-context-open]
 1776+++.+++
@@ -112,7 +112,7 @@ joined by my wife in near love and affection, I remain your truly loving friend,
 Samuel Neale.
 
 [.letter-heading]
-Letter 72.
+Letter 74.
 
 [.letter-heading]
 From Doctor Fothergill to the Meeting for Sufferings.
@@ -176,7 +176,7 @@ Your friend and brother,
 John Fothergill.
 
 [.letter-heading]
-Letter 73.
+Letter 75.
 
 It is worthy of consideration that when our society was under sore and cruel persecution,
 it greatly flourished both as to number and the addition of excellent men:
@@ -323,7 +323,7 @@ and liberally given to my friends in +++________+++ is my sincere desire.
 T+++.+++ F.
 
 [.letter-heading]
-Letter 74.
+Letter 76.
 
 [.signed-section-context-open]
 11th month 7th, 1800.
@@ -407,7 +407,7 @@ I am your real Friend,
 R+++.+++ G.
 
 [.letter-heading]
-Letter 75.
+Letter 77.
 
 [.signed-section-context-open]
 Brentford, 6th month 11th, 1770.
@@ -560,7 +560,7 @@ utterly lost.
 T+++.+++ F.
 
 [.letter-heading]
-Letter 76.
+Letter 78.
 
 [.signed-section-context-open]
 Warrington, 20th 1st. month 1752.
@@ -631,7 +631,7 @@ Your faithful friend,
 Samuel Fothergill.
 
 [.letter-heading]
-Letter 77.
+Letter 79.
 
 [.signed-section-context-open]
 Shipton, 1762.
@@ -730,7 +730,7 @@ From your affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-Letter 78.
+Letter 80.
 
 [.letter-heading]
 Richard Shackleton to Elizabeth Dale
@@ -798,7 +798,7 @@ Our family`'s love, etc.
 Richard Shackleton.
 
 [.letter-heading]
-Letter 79.
+Letter 81.
 
 [.letter-heading]
 Elizabeth Dale in answer to the foregoing.
@@ -871,7 +871,7 @@ Your affectionate kinswoman,
 Elizabeth Dale.
 
 [.letter-heading]
-Letter 80.
+Letter 82.
 
 [.salutation]
 Dear Friend,
@@ -957,7 +957,7 @@ Amen.
 John Crooke.
 
 [.letter-heading]
-Letter 81.
+Letter 83.
 
 [.letter-heading]
 Samuel Fothergill to the Monthly Meeting he belonged to.
@@ -1033,7 +1033,7 @@ Farewell.
 Samuel Fothergill.
 
 [.letter-heading]
-Letter 82.
+Letter 84.
 
 [.letter-heading]
 Anthony Benezet to John Pemberton, (then in England) written a little before his death.
