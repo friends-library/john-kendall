@@ -1,4 +1,4 @@
-[#vol1.intermediate-title, short="Vol. I"]
+[.intermediate-title, short="Vol. I"]
 == Kendall`'s Collection of Letters
 
 [.division]
