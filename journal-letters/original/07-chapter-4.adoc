@@ -1,7 +1,9 @@
 == Chapter 4
 
+[.signed-section-context-open]
 1779.
 
+[.salutation]
 Dear Friend,
 
 Thy letters have always been acceptable to my cousin;
@@ -44,10 +46,13 @@ which they cannot long be in possession of.
 
 I shall only say further that I am, with due respect, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 8th 10 Mo. 1779.
 
+[.salutation]
 Dear Friend,
 
 My regard for thee is such,
@@ -77,12 +82,16 @@ for the sake of peace; and, not in this or any other matter,
 to admit of self-will to prevail, in which nothing good is to be effected,
 either to ourselves or others.
 
+[.signed-section-closing]
 I conclude thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 26th 8 Mo. 1780.
 
+[.salutation]
 Respected Friend,
 
 I am inclined to mention to thee, from a motive of friendship,
@@ -114,12 +123,16 @@ there is need of great caution in our proceeding;
 always requesting we may be favoured with direction from above,
 lest we should take that for our good which may prove hurtful to us.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 28th 9 Mo. 1780.
 
+[.salutation]
 Dear Cousin E. G.
 
 Though we have to meet with trials and exercises which are hard to bear,
@@ -148,12 +161,16 @@ Let us consider ourselves as fellow travellers, who have left their native count
 and must be contented with the difficulties of the way,
 if we would have the crown which is prepared for those who faint not.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 15th 5 Mo. 1781.
 
+[.salutation]
 Esteemed Friend,
 
 I could be glad to say something which might be acceptable to thee,
@@ -209,10 +226,13 @@ in a path of self-denial and holiness; without which none can see the Lord.
 Having made these remarks in the freedom of friendship, as they occurred to me,
 I subscribe myself thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th of 7 Mo. 1781.
 
+[.salutation]
 Esteemed Friend W. P.
 
 It is true,
@@ -258,10 +278,13 @@ which can be no way so fully manifested as by keeping his commandments; as he ha
 
 I am with true esteem and affection, thy friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11th of 10 Mo. 1781.
 
+[.salutation]
 Esteemed Friend,
 
 Thy kind letter of the 31st 8 mo.
@@ -308,10 +331,13 @@ till that which thou hast a controversy with is removed.`"
 I conclude with kind respect to thee and thy niece, in which my wife joins,
 thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 11 Mo. 1781.
 
+[.salutation]
 Esteemed Friend,
 
 Thy sentiments with regard to choosing members of parliament, are like mine;
@@ -319,12 +345,16 @@ I think the present mode is attended with inconvenience,
 and hurtful to the morals of the people in a great degree;
 which makes me cautious of being much concerned in it.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 1781.
 
+[.salutation]
 Esteemed Friend,
 
 I am desirous thou mayst be preserved from complying with
@@ -384,10 +414,13 @@ where no such cares as we now experience will be known.
 
 In the desire of this, for thee, and all my friends, I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd of 1 Mo. 1782.
 
+[.salutation]
 Esteemed Friend,
 
 The remarks in thy letter meet with my approbation,
@@ -437,8 +470,10 @@ towards such as we may think are out of the way.
 
 I conclude in much respect and esteem, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 28th 1 Mo. 1782;
 
 My friend may not expect to be remembered in this manner by one, whose advice,
@@ -481,12 +516,16 @@ but I wish and pray that these endeavours may prove beneficial to thee;
 and a means of helping to bring back from the paths of vice and destruction,
 to the paths of virtue and peace.
 
+[.signed-section-closing]
 I am thy well-wishing friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th 5 Mo. 1782.
 
+[.salutation]
 Esteemed Friend,
 
 As thou observest, there is hardly any people, even in the most distant lands,
@@ -525,12 +564,16 @@ but remains as the blessing of the Lord`'s people through all generations.
 And the more it is waited for and expected,
 the larger share of it we may hope to experience.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th Mo. 20th 1782.
 
+[.salutation]
 Dear Aunt,
 
 If it should be our lot to meet with that which may grieve and afflict us,
@@ -571,12 +614,16 @@ and take the cup we have to drink of with cheerfulness,
 as members of Christ`'s mystical body, whose fellowship consists in suffering,
 (as well as in enjoyment, 1 Cor. 12:26)
 
+[.signed-section-closing]
 I remain thy affectionate nephew,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 8th of 10 Mo. 1782.
 
+[.salutation]
 Esteemed Friend,
 
 When we consider the condition of many of our fellow creatures and countrymen,
@@ -613,10 +660,13 @@ no wonder if our conduct is like that of those who know not, nor never heard of 
 
 I shall only add, that I am with much esteem, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 25th 11 Mo. 1782.
 
+[.salutation]
 Much esteemed Friend,
 
 Our cousin is now arrived at a greater age than either her father or mother,
@@ -675,8 +725,10 @@ but is constituted of those in every society and nation who fear God and work ri
 
 I conclude with true regard and esteem, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 12th of 9 Mo. 1782.
 
 As I frequently miss of seeing my respected friend W. J. at the quarterly meeting,
@@ -726,8 +778,10 @@ who is such a rich rewarder?
 
 Having said thus much, from a motive of true love, I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 19th 2 Mo. 1783.
 
 If I remember right,
@@ -754,12 +808,16 @@ and with it a reformation of manners; by which means the favour of Heaven,
 which we have so largely experienced, may be continued to us,
 and his chastisement averted.
 
+[.signed-section-closing]
 I am thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 25th 2 Mo. 1783.
 
+[.salutation]
 Esteemed Friend,
 
 I do not think, with some whom thou mentionest, that we are capable,
@@ -789,12 +847,16 @@ which is intended for the use of the poor: the children are instructed in readin
 writing, and arithmetic, and great regard is had to their morals:
 the number at this time is about three hundred.
 
+[.signed-section-closing]
 I am thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 23rd 4 Mo. 1783.
 
+[.salutation]
 Respected Friend,
 
 I herewith send thee some short memoirs of William Sewel,
@@ -804,8 +866,10 @@ but what I have inserted may be depended upon, and if they are of use to thee,
 it will give me pleasure, as a means, in some degree,
 of preserving the memory of a valuable person.
 
+[.signed-section-closing]
 From thy Friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
 William Sewel, for his great industry in publishing several valuable works of his own,
@@ -843,8 +907,10 @@ Eccleston, etc. as likewise some learned persons in his own country.
 His style was clear and solid, such as shewed him to be a man of good understanding.
 He died in Amsterdam in 1720, aged 66.
 
+[.signed-section-context-open]
 Colchester, 2nd of 5 Mo. 1783.
 
+[.salutation]
 Esteemed Friend,
 
 I meet with several things in thy letter which afford me pleasure.
@@ -871,10 +937,13 @@ if so, where would there be room for any reward of such who are faithful,
 or punishment of the disobedient?
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 13th of 11 Mo. 1783.
 
+[.salutation]
 Respected Friend,
 
 I have to request thou wilt be so kind as to deliver the enclosed book to thy neighbour,
@@ -908,4 +977,5 @@ through whom all our works that are acceptable must be performed.
 
 With tenders of kind love, I remain thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
