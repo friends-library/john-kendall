@@ -1,5 +1,9 @@
 == Chapter 2
 
+[.signed-section-context-open]
+Colchester, 3rd 10th Month, 1763.
+
+[.salutation]
 Dear Brother,
 
 I am not free from troubles on my own account, and besides,
@@ -42,12 +46,16 @@ we may be a comfort to each other,
 and that our outward relationship may be accompanied with that
 unity of spirit which is more excellent than natural ties.
 
+[.signed-section-closing]
 I remain thy affectionate brother,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 12th Mo. 1763.
 
+[.salutation]
 Dear Friend,
 
 I am led to desire thy prosperity and welfare;
@@ -107,10 +115,13 @@ but still waiting upon the Lord for the renewing of strength.
 He is a sure defence to all them that put their trust in him.
 To his protection I commit thee, with myself, and remain thy well-wishing friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th of 8th Mo. 1764.
 
+[.salutation]
 Respected Friend,
 
 I was pleased to meet with thee and thy mother, at Woodbridge.
@@ -183,10 +194,13 @@ Consider how much it is thy duty and interest to please her, whose troubles are 
 
 With tenders of true affection, I remain thy friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11th 1 Mo. 1765.
 
+[.salutation]
 Dear Friend J. V.
 
 Oh! the greatness of that mercy we have been made sharers of! both
@@ -220,12 +234,16 @@ either in prosperity or adversity, but whilst under the Divine protection!
 May it become our concern to witness preservation, and to pass on with safety,
 rather than to seek after ease and pleasure, which are but transitory.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 18th 1 Mo. 1765.
 
+[.salutation]
 Dear Friend M. M.
 
 It gives us great pleasure to hear of your welfare;
@@ -267,10 +285,13 @@ it is good for us to have it.
 I conclude with remembrance of kind love to thee and thy wife, in which mine joins,
 thy affectionate friend and cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 6 Mo. 1766.
 
+[.salutation]
 Dear Cousin,
 
 Thou art sensible, we are not always capable according to desire,
@@ -327,10 +348,13 @@ as we believe and are obedient.
 I close my letter with these thoughts on a religious subject,
 and remain thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 2 Mo. 1767.
 
+[.salutation]
 Dear Cousin,
 
 It hath been a sickly time with us;
@@ -371,10 +395,13 @@ of which thou art not insensible.
 With remembrance of kind love to thee and thy wife, in which my wife and mother unite,
 I remain thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 12th 3 Mo. 1767.
 
+[.salutation]
 Dear Friend,
 
 I cannot well forbear telling thee that thou hast been much in my remembrance of late,
@@ -403,10 +430,13 @@ and to tell our experience, in a religious sense.
 I herewith send thee assurances of my love and continued friendship,
 and remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 6 Mo. 1767.
 
+[.salutation]
 Dear Friend, J. V.
 
 I often think of thee, with the rest of Friends in Amsterdam;
@@ -458,10 +488,13 @@ and I will give thee a crown of life.`"
 In conclusion, I remain with tenders of kind love to thee and thy wife,
 thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 15th of 5 Mo. 1768.
 
+[.salutation]
 Dear Friend, J. P--n, of Philadelphia.
 
 I received thy letter of 2nd mo.
@@ -506,12 +539,16 @@ my wife and mother desire their kind love to be mentioned to thee and thine.
 I am pleased to hear of my dear friends Daniel Stanton and William Brown;
 I request thee to give my love to them, as opportunity offers.
 
+[.signed-section-closing]
 I am thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 26th 10 Mo. 1768.
 
+[.salutation]
 Dear Cousin,
 
 These are trying times, in which if we can find favour, to be helped in our necessity,
@@ -541,10 +578,13 @@ in the Lord alone is our strength.
 
 I remain in the fellowship of the gospel, thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 6th of 11 Mo. 1768.
 
+[.salutation]
 Dear Friends, J. V. and Son, (of Amsterdam,)
 
 Though the number of friends, in the place of your residence, is now become small,
@@ -591,10 +631,13 @@ the more weighty will be our reward.
 
 I remain with tenders of unfeigned love, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 23rd 1 Mo. 1770.
 
+[.salutation]
 Dear Friend,
 
 I thought it would not be unpleasing to thee, if I expressed, by a few lines,
@@ -633,12 +676,16 @@ in our attention to the things which belong to our peace;
 then we shall not be lifted up by prosperity, nor too much cast down by adversity,
 but be preserved in the middle path, wherein there is safety.
 
+[.signed-section-closing]
 I am thy real friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd of 10 Mo. 1770.
 
+[.salutation]
 Dear Brother,
 
 Though we are so situated, as not to have frequent opportunities of seeing each other,
@@ -684,12 +731,16 @@ These remarks, and cautions deserve thy notice;
 but after the best advice I might give thee,
 it is only thy putting in practice what is recommended that will be of advantage to thee.
 
+[.signed-section-closing]
 I am thy affectionate brother,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1st of 12 Mo. 1770.
 
+[.salutation]
 Dear Friend,
 
 I doubt not it will be pleasing to thee to hear from me,
@@ -720,6 +771,8 @@ but hath been saying, as he did formerly to his disciples,
 "`In the world ye shall have tribulation, but be of good cheer,
 I have overcome the world.`"
 
+[.signed-section-closing]
 I rest thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
