@@ -642,6 +642,7 @@ as far as my health and strength will admit, to the service of my great Lord and
 the remembrance of whose goodness often bows by mind,
 and occasions thankfulness beyond what I have words to express.
 
+[.centered]
 === Extract.
 
 The state of the society, of which I am a member,
@@ -678,8 +679,10 @@ Thus we might receive more lasting benefit,
 and come to renew our acquaintance with him who is the minister of ministers,
 and a never failing source of comfort to his depending people.
 
+[.signed-section-context-close]
 7th Mo. 23rd, 1802.
 
+[.centered]
 === Extract.
 
 It is something to be sustained for our daily work,
@@ -718,14 +721,15 @@ by my great Lord and master Jesus Christ.
 
 In the 3rd Mo. 1804, I count my seventy-eighth year to be completed.
 
+[verse]
+____
 When all your mercies, O my God,
-
 My thankful heart surveys,
-
 Affected with the view, I`'m lost
-
 In wonder, love, and praise.
+____
 
+[.signed-section-context-close]
 Fourth of Seventh month, 1807.
 
 From the time at which these short memoirs were closed, to the time above mentioned,
@@ -765,10 +769,10 @@ and the nature of true religion.
 This was the state of our society in early times,
 and there must be the same spirit to animate us in the present time,
 if our profession and character are properly supported.^
-footnote:[1807. Elapsus est annus octogesimus peregrinationis mea in hoc eremo;
+footnote:[_1807. Elapsus est annus octogesimus peregrinationis mea in hoc eremo;
 Diei quot restant nescio; pauci forsan.
 Fiat voluntas domini mei.
-Mihi vivere est Christus (ita sit semper), et mori lucrum.]
+Mihi vivere est Christus (ita sit semper), et mori lucrum._]
 
 In the year 1808, being the 83rd year of my life, I was at the yearly meeting in London;
 which I had attended about sixty years, with little if any intermission.
@@ -795,8 +799,10 @@ or whom have I defrauded?
 or of whose hand have I received any bribe to blind my eyes
 therewith?--and I will restore it you.`"
 
+[.signed-section-signature]
 John Kendall.
 
+[.signed-section-context-close]
 2nd Mo. 16th, 1810.
 
 In the year 1810, I was again at the yearly meeting, where I met with many of my friends,
@@ -808,9 +814,11 @@ In the year 1811, I was not at the yearly meeting:
 but felt a concern to send a few lines to my friends there assembled,
 as a salutation of endeared love, as follows:
 
-To my dear Friends who are met in London for the
-purpose of transacting the affairs of the society,
-and consider of what may tend to promote the welfare of it.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To my dear Friends who are met in London for the purpose of transacting the affairs of the society, and consider of what may tend to promote the welfare of it.
 
 While, through age and weakness, I am prevented from giving my attendance,
 as in years past,
@@ -836,35 +844,54 @@ so I am induced to express my concern that the good esteem
 which has been obtained by means of upright walking,
 may not be lost by any unsuitable liberty taken, contrary to the profession we make.
 
+[.signed-section-closing]
 These from your affectionate friend,
 
+[.signed-section-signature]
 John Kendall.
 
+[.signed-section-context-close]
 24th 5th Mo. 1811.
 
+[.signed-section-context-close]
 By the indulgence of a kind Providence, in the 85th year of my life.
+
+--
 
 The Yearly Meeting thought proper to send me the following acknowledgment of my love.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Yearly Meeting, 1811.
 
 A salutation of love,
 contained in a few lines from our ancient friend John Kendall of Colchester,
 was received, and being read in this meeting, is very acceptable.
 
+[.signed-section-signature]
 (Copy) William Manley.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Yearly Meeting, 1812.
 
 A salutation of love, contained in a Letter from our ancient friend John Kendall,
 of Colchester, was received, and being read in this meeting is truly acceptable:
 it is sent to the Womens`' meeting, and is as follows:
 
+[.signed-section-context-open]
 Colchester, 23rd of 5th Mo. 1812.
 
-To my beloved and much esteemed friends who are met together in our annual assembly,
-for the caretaking and management of the concerns of the Society.
+[.blurb]
+=== To my beloved and much esteemed friends who are met together in our annual assembly, for the caretaking and management of the concerns of the Society.
 
+[.salutation]
 Dear Friends,
 
 When I took the liberty in a former year of sending a few
@@ -907,20 +934,32 @@ I thus address them in my far advanced years (being
 now in the eighty-seventh year of my life);
 wishing their growth and establishment in that precious
 Truth which they have been measurably made partakers of.
+
+[.signed-section-closing]
 I remain their affectionate friend,
 
+[.signed-section-signature]
 John Kendall.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Yearly Meeting, 1813.
 
 The following affectionate and acceptable letter was received from our friend John Kendall;
 and being read, was very cordial to this meeting.
 It is sent to our Women Friends.
 
+[.signed-section-signature]
 Copy, William Manley.
 
-To the Yearly Meeting held in London 5th Mo. 1813.
+[.blurb]
+=== To the Yearly Meeting held in London 5th Mo. 1813.
 
+[.salutation]
 Dear Friends,
 
 By means of increasing years and weakness, (being in the 88th year of my life),
@@ -949,9 +988,14 @@ to those who make it their concern to honour him in their lives and conversation
 In the degree of his love, which I feel to enlarge my heart, in writing these few lines,
 I remain your affectionate friend,
 
+[.signed-section-signature]
 John Kendall.
 
+[.signed-section-context-close]
 (Without date).
+
+[.postscript]
+====
 
 I here adopt the language of a pious man, who thus expresses himself in his Diary:
 
@@ -961,6 +1005,11 @@ to the wise and gracious disposal of the Divine Providence;
 whether God appoint for me health or sickness, peace or trouble, comforts or crosses,
 life or death--his holy will be done.`"
 
+====
+
+--
+
+[.signed-section-context-open]
 5th Mo. 1815.
 
 From this period it does not appear that our relative left any further account of himself;
@@ -1015,4 +1064,5 @@ he requested his relations and those who attended on him to be quiet, adding,
 quietness and assurance forever.`"^
 footnote:[Isaiah 32:17]
 
+[.signed-section-signature]
 J+++.+++ C.
