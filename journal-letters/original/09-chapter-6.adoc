@@ -1,7 +1,9 @@
 == Chapter 6
 
+[.signed-section-context-open]
 Colchester, 14th 4 Mo. 1787.
 
+[.salutation]
 Esteemed Friend,
 
 As our love of this world is lessened,
@@ -28,12 +30,16 @@ nor be hurt, by introducing things foreign to the design: great good may come fr
 if rightly attended to; but it is likely there will be discouragements met with,
 as there always are to what is likely to be useful.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 23rd of 6th Mo. 1787.
 
+[.letter-heading]
 To John Vanderwerf, of Amsterdam.
 
 It will give me pleasure to hear that the quiet of your country is restored.
@@ -56,10 +62,13 @@ and occasion thankfulness in our minds to the Author of all good.
 
 With tenders of kind love to thee and thy sons, I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 14th 7 Mo. 1787.
 
+[.salutation]
 Esteemed Friend,
 
 I am not desirous of saying much concerning state affairs,
@@ -81,8 +90,10 @@ and when his fear takes place again, there is a revival.
 
 I conclude these remarks with assuring thee of the continued regard of thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.letter-heading]
 To the Printers of the Ipswich Journal.
 
 It is grievous to a tender mind, and occasions sad apprehensions,
@@ -96,7 +107,7 @@ who are sober, conscientious men, to visit these houses,
 to prevent people from spending their time improperly in them, to their own hurt,
 and the hurt of their families,
 especially of those who are not in plentiful circumstances,
-by spending so much of what they have procured on other clays, as cannot well be spared;
+by spending so much of what they have procured on other days, as cannot well be spared;
 by which means some in the decline of life, have become chargeable to others.
 
 If it is considered,
@@ -151,10 +162,13 @@ and especially the Holy Scriptures, which will be a loss not easily repaired.
 
 It will be accounted a favour if the printers will insert the foregoing in their paper.
 
+[.signed-section-context-close]
 1788.
 
+[.signed-section-context-open]
 Colchester, 16th 2 Mo. 1788.
 
+[.salutation]
 Esteemed Friend,
 
 It gives us pleasure to hear of thy health being so favourably continued,
@@ -185,8 +199,10 @@ in a sense of our unworthiness.
 
 My wife joins me in kind love to thee and thy niece, from thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 20th 4 Mo. 1788.
 
 It is true, many things are going on among us,
@@ -222,12 +238,16 @@ the calls of heaven, which are extended to all men, to bring us into the way of 
 never come in a compulsive way, so as to take away our liberty of choosing,
 as reasonable creatures.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11th of 8 Mo. 1788.
 
+[.salutation]
 Dear Friend H. M.
 
 After I had left you, and since my return home,
@@ -275,10 +295,13 @@ neither by word nor deed showing our approbation.
 
 With tenders of kind love, I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 2nd 9 Mo. 1788.
 
+[.salutation]
 Much esteemed Friend,
 
 I am pleased to find my letter from Plymouth was acceptable to thee:
@@ -309,10 +332,13 @@ What shall I render to the Lord for all his benefits to me?
 I conclude with tenders of true love to thee and thy niece,
 (in which my wife joins) thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester 10th of 11 Mo. 1788.
 
+[.salutation]
 Dear Cousin S. T.
 
 It should be acknowledged as an especial favour to be preserved in bodily health;
@@ -356,12 +382,16 @@ wishing he might partake of those blessings,
 which come from the choice of that one thing needful,
 which the humble disciple of Jesus had chosen, that could not be taken from her.
 
+[.signed-section-closing]
 I remain thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 13th 11 Mo. 1788,
 
+[.salutation]
 Esteemed Friends,
 
 Before I left your country, in returning homeward,
@@ -408,8 +438,10 @@ Thus, as we advance in age, we may come to see more clearly our state of depende
 and seek for the renewal of Divine assistance, by which we can be preserved to the end.
 I conclude, with a salutation of love, and remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.letter-heading]
 To Friends of the Counties of Devon and Cornwall.
 
 As we experience that love to influence our minds, which hath more than earthly motives,
@@ -642,6 +674,8 @@ in his own way and time;) with desires for your establishment in the Truth,
 through obedience to its dictates, and the increase of peace,
 which is the reward of faithfulness, I subscribe myself, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-close]
 Colchester, 11 Mo. 1788.
