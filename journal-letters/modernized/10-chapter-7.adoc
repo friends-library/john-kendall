@@ -1,7 +1,9 @@
 == Chapter 7
 
+[.signed-section-context-open]
 Colchester, 27th 11 Mo. 1788.
 
+[.salutation]
 Esteemed Friend,
 
 I take notice of several things in your letter which are pleasing to me,
@@ -34,10 +36,13 @@ that the good providence of the Almighty has continued your life to such an adva
 I desire it may please him to support you in your weakness, by his good presence,
 till he shall remove you from this state of trial to your everlasting rest!
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 Respected Friend,
 
 I much approve of your disposition,
@@ -66,8 +71,10 @@ without any of the interruptions which are common to us here.
 
 With due respect I subscribe myself, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 To my much esteemed Friend S. N.
 
 When I consider how we became united,
@@ -98,9 +105,11 @@ though we have not their bodily presence, we are not separated in spirit.
 
 With true regard and affection I am your sincere friend and brother in the truth,
 
+[.signed-section-signature]
 J+++.+++ K.
 
-To the Captain of a Ship, about entering on his Voyage to the East Indies.
+[.blurb]
+=== To the Captain of a Ship, about entering on his Voyage to the East Indies.
 
 J+++.+++ K. requests Capt.
 W`'s. acceptance of the enclosed books;
@@ -130,10 +139,13 @@ but if the same should happen to both, as to outward circumstances,
 in his inscrutable wisdom, yet he will certainly reward our obedience to his holy laws,
 in a future state.
 
+[.signed-section-context-close]
 Colchester, 4th 8 Mo. 1789.
 
+[.signed-section-context-open]
 Colchester, 4th 10 Mo. 1789.
 
+[.salutation]
 Dear Friend E. G.
 
 Many changes happen in earthly affairs, which you and I have experienced,
@@ -152,10 +164,13 @@ so that we are better prepared for what is permitted to attend us.
 Thus in the freedom of friendship, I mention my thoughts to you,
 and remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 6th 10 Mo. 1789.
 
+[.salutation]
 Esteemed Friend W. P.
 
 Many of the poor have been assisted from the funds
@@ -195,10 +210,13 @@ and many harms would be avoided, if religion influenced their hearts,
 and they were more concerned how they might appear before God, and have his approbation,
 than how they may please men.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 2 Mo. 1790.
 
 It has not been for lack of respect that I have omitted to acknowledge
@@ -249,12 +267,16 @@ to break through the limits of human institutions,
 and meet in that which has no bounds in its extension
 towards the workmanship of his hands.
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 2 Mo. 1790.
 
+[.salutation]
 Esteemed Friend William P+++______+++y.
 
 Though the weather has been milder than usual this winter,
@@ -292,10 +314,13 @@ beyond all the arguments of human understanding.
 
 I remain, in hopes of hearing from you before long, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 2nd of 4th Mo. 1790.
 
+[.salutation]
 Dear Uncle,
 
 In true esteem and love, which is renewed in my mind,
@@ -330,10 +355,13 @@ That we may be brought nearer to him and near one to another,
 by means of the exercises we have to meet with,
 is the desire of your affectionate nephew,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd 4 Mo. 1790.
 
+[.salutation]
 Esteemed Friend W. P.
 
 There is nothing more to be desired than that when we put off these
@@ -372,10 +400,13 @@ after he has said they are welcome to him.
 
 I conclude with tenders of kind love, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 10 Mo. 1790.
 
+[.salutation]
 Respected Friend,
 
 I hope nothing will be met with, in the conduct of any of our society,
@@ -409,10 +440,13 @@ not to do anything which might excuse the parishes from extending the necessary 
 
 I conclude with subscribing myself your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th Mo. 1790.
 
+[.salutation]
 Friend --,
 
 I was much grieved at the profane speeches and dismal imprecations which you made use of,
@@ -441,12 +475,16 @@ My writing this is from a motive of true friendship,
 and I would have you consider it as a warning,
 to turn out of the way which leads to destruction, into the path of peace.
 
+[.signed-section-closing]
 From your real friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 21st 1st Mo. 1791.
 
+[.salutation]
 Esteemed Friend,
 
 Considering your advanced age, weakness and bodily infirmities are likely to attend,
@@ -479,10 +517,13 @@ much will be required.
 
 My wife joins in kind love to you and your niece, from your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 24th 1st Mo. 1791.
 
+[.salutation]
 Dear Cousin,
 
 The account of your illness is matter of concern to us.
@@ -503,10 +544,16 @@ we are to endeavour to provide for our support,
 by ways which are proper for us to make use of, and not to remain in an inactive state,
 as though we were to obtain all we need without taking pains to come at it.
 
-I remain your affectionate cousin, J. K.
+[.signed-section-closing]
+I remain your affectionate cousin,
 
+[.signed-section-signature]
+J+++.+++ K.
+
+[.signed-section-context-open]
 22nd 9th Mo. 1791.
 
+[.salutation]
 To J. and M. K.
 
 I hope my dear cousins will be supported in the present trying dispensation.^
@@ -529,13 +576,13 @@ who is the Comforter of the afflicted, and forsakes not those who put their trus
 
 These few lines are in much love and sympathy, from your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
-To those who fear the Lord,
-and are concerned to seek after a more perfect knowledge of his way;
-who reside at Pyrmont and parts adjacent in Germany,
-we send the salutation of unfeigned love.
+[.blurb]
+=== To those who fear the Lord, and are concerned to seek after a more perfect knowledge of his way; who reside at Pyrmont and parts adjacent in Germany, we send the salutation of unfeigned love.
 
+[.salutation]
 Dear Friends,
 
 Having been hindered from making you a personal visit,
@@ -580,12 +627,16 @@ In a sense of our heavenly Father`'s love, and regard to his poor depending chil
 in the present time, as in ages past, we affectionately salute you,
 and remain your friends and brethren,
 
+[.signed-section-signature]
 J+++.+++ K., J. A.
 
+[.signed-section-context-close]
 Colchester, 16th of 12th Mo. 1791.
 
+[.signed-section-context-open]
 Colchester, 28th 4 Mo. 1792.
 
+[.salutation]
 Dear Relations,
 
 The love and regard I have for you makes me take the liberty to mention my concern,
@@ -626,10 +677,13 @@ but it will be as the great disposer of events shall appoint.
 I have wrote thus to you from motives of love and true affection,
 and am your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th of 5 Mo. 1792.
 
+[.salutation]
 Esteemed Friend,
 
 We received yours of yesterday,
@@ -653,10 +707,13 @@ which I was about to answer when I received the account of his death;
 I consider it as the last token of his friendship, and value it accordingly.
 From your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 24th 6 Mo. 1792.
 
+[.salutation]
 Dear Friend J. P.
 
 One hindrance to my writing to you, and some others of my friends, has been illness,
@@ -727,12 +784,16 @@ but may rejoice in having reached the peaceful abodes
 prepared for those who have feared God,
 and served him in their day and generation.
 
+[.signed-section-closing]
 From your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 6 Mo. 1792.
 
+[.salutation]
 Dear Cousin,
 
 To hear of the health and outward prosperity of our friends is comfortable;
@@ -769,12 +830,16 @@ but these will not make any changes in the kingdom of Christ; which is neither b
 nor can be destroyed by human efforts; seeing,
 (as the great Master has said,) it is not of this world.
 
+[.signed-section-closing]
 I am your loving cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 29th 9 Mo. 1792.
 
+[.salutation]
 Dear Friend C. P.
 
 Though we are deprived of the opportunity of personal conversation,
@@ -843,10 +908,13 @@ to succeed those who shall be removed from a state of labour to everlasting rest
 These are with tenders of kind love, in which my wife joins,
 from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 8th 10 Mo. 1792
 
+[.salutation]
 Dear Friend O. H.
 
 My present writing to you is from a motive of true respect.
@@ -946,10 +1014,13 @@ who are to be called to account when the Lord shall see fitting.
 
 I subscribe myself your affectionate and well-wishing friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester 31st 11 Mo. 1792.
 
+[.salutation]
 Dear Cousin,
 
 In writing to you at this time,
@@ -989,12 +1060,16 @@ with a prosperous gale; but to have all things prepared for a change.
 Nor is there need to be discouraged when storms are met with,
 at the same time using the means he favours us with for our preservation.
 
+[.signed-section-closing]
 I remain your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 4 Mo. 1793.
 
+[.salutation]
 Respected Friend J. T.
 
 We are pleased to hear of your family being restored to better health:
@@ -1024,4 +1099,5 @@ Thus I express my thoughts to a friend who, I trust, can understand me,
 and agrees with me in the line of experience.
 I shall only add, that I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
