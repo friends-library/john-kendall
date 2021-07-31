@@ -1,9 +1,9 @@
 == Chapter 1
 
-A certain writer says,
-"`A considerable part of the comfort and usefulness of our lives arises from
-Epistolary correspondence with our relations and friends, who live at a distance from us.`"
+[.blurb]
+=== A certain writer says, "`A considerable part of the comfort and usefulness of our lives arises from Epistolary correspondence with our relations and friends, who live at a distance from us.`"
 
+[.salutation]
 Dear Parents,
 
 I gladly embrace the opportunity which now offers, to inform you that I am,
@@ -28,10 +28,13 @@ and that he still waits to bestow his blessings upon you, as you abide in his fe
 With remembrance of dear love to brothers, and other relations,
 I remain your dutiful and affectionate son,
 
+[.signed-section-signature]
 John Kendall.
 
+[.signed-section-context-open]
 Amsterdam, 18th 7 Mo. 1752.
 
+[.salutation]
 Dear Mother,
 
 You are fresh in my remembrance, and so I trust,
@@ -58,12 +61,16 @@ into the hands of a merciful Father, and Saviour; the dispensations of whose pro
 it becomes us to receive with patience; contented with the portion allotted to us,
 in the time of our sojourning here.
 
+[.signed-section-closing]
 I am your affectionate and dutiful son,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Amsterdam, 1752.
 
+[.salutation]
 Dear Parents,
 
 Both your letters I received upon our return from Germany,
@@ -81,12 +88,16 @@ I feel my mind impressed with fresh marks of love and esteem, and duty to you,
 my honoured parents! whom I hope the Lord will yet more closely unite,
 in the bond of everlasting peace, against which nothing can prevail, so as to divide.
 
+[.signed-section-closing]
 I remain your affectionate and dutiful son,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Norwich, 7th 5 Mo.
 
+[.salutation]
 Dear Mother,
 
 I did not expect when I came here to make such a long stay,
@@ -110,12 +121,16 @@ And my desire is, that we may obtain, in due time,
 a settlement in the unchangeable truth, so as to be set above all changeable enjoyments,
 and to have a well grounded hope in the possession of that treasure which is everlasting.
 
+[.signed-section-closing]
 I remain your affectionate and dutiful son,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Amsterdam, 21st 7 Mo.
 
+[.salutation]
 Dear Mother,
 
 Through mercy, I have enjoyed better health than when at home, which I esteem a favour:
@@ -145,10 +160,13 @@ the effect of our labour must be left to the blessing of the Almighty,
 in whose service I trust we are engaged for the promotion of his cause.
 If we find peace from him, it will be a sufficient reward.
 
+[.signed-section-closing]
 I am, with great affection, your dutiful son,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Northampton, 13th 7 Mo.
 
 I remember the discouragements which are apt to attend your mind:
@@ -179,12 +197,16 @@ by faithfulness and obedience to the Divine requirings,
 that my little stock of heavenly treasure may be increased, to my own comfort,
 and the benefit of my friends.
 
+[.signed-section-closing]
 I remain yours affectionately,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11th 9 Mo. 1753
 
+[.salutation]
 Dear Friends,
 
 Since I heard of your having left England,
@@ -207,21 +229,27 @@ and furtherance of the blessed gospel tidings of salvation;
 among whom I may mention John Claus, who,
 in the account he gives of some transactions of his life, says,
 
-"`Soon after having altered my intention of removing to England,
+[quote]
+____
+Soon after having altered my intention of removing to England,
 I found myself engaged to travel, as interpreter, with the ministering Friends,
 and endured in those journeys many hardships: my love to the cause,
 nevertheless was such, that I always held myself prepared thereto,
 and with diligence endeavoured to qualify myself for this service,
 by a more perfect knowledge of the proper sense and meaning of English phrases,
-and of the Low Dutch translation of the Scriptures.`"
+and of the Low Dutch translation of the Scriptures.
+____
 
 Having thus expressed my wishes for your good success in the present weighty undertaking,
 I remain your affectionate friend, in the fellowship of the gospel,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 3 Mo. 1755.
 
+[.salutation]
 Dear Friend,
 
 I can truly say your salutation and expression of love met with free reception in my mind.
@@ -258,12 +286,16 @@ May a strict watchfulness be continued in us,
 as indeed is necessary for all the sincere-hearted,
 in order to keep a conscience void of offence.
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 2 Mo. 1757.
 
+[.salutation]
 Dear Friend,
 
 Since I last heard of you you have been frequently in my remembrance,
@@ -284,12 +316,16 @@ in a proceeding of such importance I hope you will have the approbation of your 
 and proceed cautiously.
 It is better for us to remain in our present state than to be unequally yoked.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Amsterdam, 13th 8 Mo. 1757.
 
+[.salutation]
 Dear Friend,
 
 Your testimony of friendship is always agreeable to me, and in return I can say,
@@ -303,10 +339,13 @@ to whom our visit was acceptable.
 
 With salutation of dear love I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 6th 11 Mo. 1757.
 
+[.salutation]
 Dear Friend,
 
 You are not insensible of what need there is of faith and patience,
@@ -343,10 +382,13 @@ answerable to the work they are employed in.
 I am joined by my mother and brothers in kind love to you,
 and remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 1757.
 
+[.salutation]
 Respected Friend,
 
 The little conversation we had together,
@@ -357,7 +399,9 @@ are our sentiments concerning this weighty point,
 I have extracted something from a small piece wrote in vindication of our principles,
 which is as follows.
 
-"`We have been cautious in expressing our faith concerning that great mystery,
+[quote]
+____
+We have been cautious in expressing our faith concerning that great mystery,
 especially in such school terms,
 and philosophical distinctions as are unscriptural if not unsound;
 the tendency whereof has been to raise frivolous controversies,
@@ -371,7 +415,8 @@ according to 1 John 5:7. And this is sufficient for us to believe and know,
 and has a tendency to edification and holiness;
 when the contrary centers only in imaginations, and strife,
 (and persecution where it runs high) and in parties,
-as may be read in bloody characters in Ecclesiastical histories.`"
+as may be read in bloody characters in Ecclesiastical histories.
+____
 
 I hope this will give you satisfaction with regard to this great article of our faith.
 As to public controversy on such points,
@@ -409,8 +454,10 @@ and to look from the creature to the Creator,
 considering his instruments only as employed to remind of our state,
 and to warn of our impending danger.
 
+[.signed-section-context-open]
 Colchester, 12 Mo. 1757.
 
+[.salutation]
 Dear Friend, J. V.
 
 My prayer on your behalf is, that you may be preserved from hurtful engagements.
@@ -441,10 +488,13 @@ which is the last of all the changes we shall have to meet with in this transito
 
 I remain, in the love of our first friendship, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 3rd 4 Mo. 1758.
 
+[.salutation]
 Dear Aunt,
 
 I have been more than once or twice about to write to you,
@@ -483,12 +533,16 @@ When we meet with troubles,
 nothing more happens to us than what Christ signified should be the lot of his disciples:
 may we then have our hope fixed on him, who gives rest and peace.
 
+[.signed-section-closing]
 I remain your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 8th Mo. 1758.
 
+[.salutation]
 Dear Aunt,
 
 Since we had some conversation together, I have perused this small treatise;
@@ -546,10 +600,13 @@ which, in time, we have lost, and deprived ourselves of.
 These few lines I entreat you to accept kindly from your well-wishing friend,
 and affectionate kinsman,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 3 Mo. 1759.
 
+[.salutation]
 Dear Friend, J. P.
 
 It has not been through lack of affection that I have omitted writing to you thus long,
@@ -589,10 +646,13 @@ as we are obedient to him, and still waiting for his direction and help.
 
 I remain in the love of our first acquaintance, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 17th 1 Mo. 1760.
 
+[.salutation]
 Dear Friend,
 
 You have been often in my remembrance since I received your acceptable letter;
@@ -623,12 +683,16 @@ The friendship and love I feel in my mind towards you,
 would admit of saying more on these subjects;
 but what I have written may serve to show you the disposition of my mind.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 10 Mo. 1760.
 
+[.salutation]
 Dear Relation,
 
 You have been often in my remembrance since I saw you last,
@@ -696,10 +760,13 @@ which has its ground in that which is everlasting.
 I conclude with the tenders of dear love to you, and the rest of our relations,
 (as there is opportunity of mentioning it,) your affectionate kinsman,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 13th 11 Mo. 1760.
 
+[.salutation]
 Respected Friend,
 
 My mother received your letter, which was very acceptable to her.
@@ -728,10 +795,13 @@ I desire you to accept these few lines as a token of our love, to which I may ad
 it will be pleasant to hear from you when convenient;
 in the mean time I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 28th 3 Mo. 1761.
 
+[.salutation]
 Dear Friend, J. A.
 
 You have been frequently in my remembrance since I was at your house,
@@ -818,10 +888,13 @@ has been mercifully reached forth for your deliverance,
 I desire to commit you, with the rest of the family, as if named,
 and remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1st 6 Mo. 1761.
 
+[.salutation]
 Dear Friend J. P.
 
 It will be pleasant to hear from you,
@@ -871,10 +944,13 @@ Let us still trust in him that is our Saviour and Redeemer, and wait for his app
 which comforts and enlivens our drooping minds.
 I shall add no more, but remain with tenders of dear love, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 18th 9th Mo. 1761.
 
+[.salutation]
 Dear Relation,
 
 When we feel the circulation of love in our minds towards God,
@@ -926,8 +1002,8 @@ with desires that you may witness a renewal of strength
 to persevere in the path of peace,
 by looking to the Lord for help, who is the never-failing helper of his people.
 
+[.signed-section-closing]
 I remain in near affection, your loving cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
-
-Colchester, 3rd 10th Month, 1763.
