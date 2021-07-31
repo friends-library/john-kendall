@@ -1,7 +1,9 @@
 == Chapter 8
 
+[.signed-section-context-open]
 Colchester, 10th 5 Mo. 1793.
 
+[.salutation]
 Dear Friend E. T.
 
 Since I read thy Epistle to Friends of the county of York,
@@ -34,10 +36,13 @@ In the remembrance of former friendship, and a comfortable feeling of true regar
 I subscribe myself thy friend and fellow-labourer
 in the work and fellowship of the gospel,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 6 Mo. 1793.
 
+[.salutation]
 Dear Friend L. S.
 
 I know not how thou art at present circumstanced,
@@ -48,12 +53,16 @@ to these I desire to be united, as fellow travellers towards an heavenly inherit
 though separated by large spaces of sea and land, and unknown to each other,
 they are united in Christ, and constitute one church, of which he is the head.
 
+[.signed-section-closing]
 I am thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 14th 7 Mo. 1793.
 
+[.salutation]
 Dear Friend J. A.
 
 I hardly had opportunity of acknowledging the receipt
@@ -94,10 +103,13 @@ unless prepared by the renewed operation and work of his spirit upon our minds.
 
 I am, with tenders of true love and esteem, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th 8 Mo. 1793.
 
+[.salutation]
 Dear Cousin,
 
 Thy letter of the 28th 5 Mo. last was very acceptable;
@@ -131,12 +143,16 @@ love of Christ to the love of this present world,
 which is making a sad exchange.
 Great watchfulness is required to keep us from this harm.
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 13th 8 Mo. 1795.
 
+[.salutation]
 Esteemed Friend B. F.
 
 I received thy letter, with the address to masters and mistresses of parish apprentices.
@@ -159,12 +175,16 @@ I would fain have us do what we can in a matter of such importance;
 if we should sometimes be disappointed in our expectation,
 there will be a secret satisfaction, attending as a reward for our labour of love.
 
+[.signed-section-closing]
 I remain thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 9 Mo. 1793.
 
+[.salutation]
 Esteemed Friend,
 
 It gives us pleasure to hear of thy granddaughter`'s recovery;
@@ -193,10 +213,13 @@ we shall seek to promote the happiness and comfort one of another;
 and that it may more and more increase in our minds,
 is the desire of thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 12 Mo. 1793.
 
+[.salutation]
 Dear Friend P. S.
 
 I have frequently thought of thee since I was at thy father`'s house;
@@ -246,10 +269,13 @@ even in things which appear but small.
 
 I am thy truly affectionate and well-wishing friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1st of 1 Mo. 1794.
 
+[.salutation]
 Dear Cousin,
 
 Though I have not informed thee of my receiving thy kind letter of the 9th mo.
@@ -296,10 +322,13 @@ beyond all the exercises and conflicts of time.
 With tenders of dear love to thee and thy husband, in which my wife joins,
 I remain thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 4th 1 Mo. 1794
 
+[.salutation]
 Dear Friend J. P. of Philadelphia.
 
 Thou hast been frequently in my remembrance since we heard of the awful visitation,
@@ -334,12 +363,16 @@ which is, with their lusts and evil inclinations.
 Thus the kingdom of the wicked one would be weakened, and the kingdom of Christ exalted,
 which is the happiness of nations and families!
 
+[.signed-section-closing]
 I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 1 Mo. 1794;
 
+[.salutation]
 Dear Friend,
 
 I have frequently thought of thy proposal to decline the station of an elder,
@@ -371,10 +404,13 @@ and without whose renewed assistance, none can rightly engage in his work.
 
 I am, with true regard, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 14th 1 Mo. 1794.
 
+[.salutation]
 Dear Friend J. G.
 
 Since I heard of the death of thy sister,
@@ -418,10 +454,13 @@ by the wounds we receive we are not destroyed, but healed, if they have a proper
 Having said thus much with a view to alleviate thy grief, I subscribe myself,
 thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd 8 Mo. 1794.
 
+[.salutation]
 Dear Friend L. M.
 
 The love and esteem which hath been raised in our minds towards each other,
@@ -445,10 +484,13 @@ which will remain and increase as we walk in humility and fear before the Lord.
 I am joined by my wife in tenders of kind love to thee and thine,
 from thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 11 Mo. 1794.
 
+[.salutation]
 Dear Friend J. P.
 
 At the time of our last quarterly meeting,
@@ -490,10 +532,13 @@ mourning in secret for want of the more full appearance of the beloved of their 
 In that love, which induced me to tend thee this brotherly salutation,
 I remain thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 16th 12 Mo. 1794.
 
+[.salutation]
 Dear Friend J. V--f.
 
 I received thy letter of the 4th 11 mo.
@@ -530,10 +575,13 @@ in which true religion consists.
 I conclude with saying that thy letters are always acceptable to me, and the more so,
 as I have hardly any other correspondent in the parts where thou residest.
 
+[.signed-section-closing]
 I am thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 Dear Cousin,
 
 Our thus writing to each other helps to make up the want of personal conversation.
@@ -554,12 +602,16 @@ In the remembrance of past favours,
 and belief that he will not forsake us in succeeding exercise,
 let us take courage and trust in the Lord for help.
 
+[.signed-section-closing]
 I am thy affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 1st Mo. 1795.
 
+[.salutation]
 Respected Friend,
 
 Since being at thy house, I have frequently thought of thee and thy family.
@@ -610,10 +662,13 @@ but I would have thee renew thy endeavours to do right,
 and who knows what good effect thy conduct may have on thy wife and children,
 to their everlasting good?
 
+[.signed-section-closing]
 I remain thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.letter-heading]
 Letter to the Prince of Orange.
 
 Upon the late Revolution in Holland, the Prince of Orange, with his wife and children,
@@ -626,6 +681,9 @@ and had some conversation with the Prince and his son, on religious subjects;
 I also presented them with some books in French and Dutch.
 But not being quite satisfied with this opportunity, I wrote a few lines to the Prince,
 expressing my regard to him and his family, as follows:
+
+[.embedded-content-document.letter]
+--
 
 The respect and sympathy I felt in my mind towards the Prince of Orange and his family,
 induced me to make them a visit;
@@ -686,6 +744,10 @@ this small token of love and esteem,
 expressed in much plainness, from one who wishes the welfare of him and his family,
 and subscribes himself their affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-close]
 Colchester, 22nd 1 Mo. 1795.
+
+--
