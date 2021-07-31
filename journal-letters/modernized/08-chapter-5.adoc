@@ -1,7 +1,9 @@
 == Chapter 5
 
+[.signed-section-context-open]
 Colchester 11th of 11 Mo. 1783.
 
+[.salutation]
 Dear Friend,
 
 Though we have had to meet with many buffetings from the enemy of our peace,
@@ -27,10 +29,13 @@ And though we do not experience such good effects of our labour,
 for the help of our friends, as might be wished, let us not be discouraged;
 we shall reap in due time, if we faint not.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 Dear Friend,
 
 It will not be long before all the troubles of this life will be past,
@@ -53,10 +58,13 @@ or from the force of example.
 
 I conclude with the tenders of true love and esteem, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.letter-heading]
 To the Printers of the Chelmsford Chronicle.
 
+[.salutation]
 Respected Friends,
 
 It is not from a desire to busy myself in other people`'s concerns,
@@ -79,10 +87,13 @@ and generally speaking, succeed the best in the things of this world.
 
 Though I use this freedom in speaking my thoughts, I am your real friend and well-wisher,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1st of 1 Mo. 1784.
 
+[.salutation]
 Dear Friend J. V.
 
 We have with us several friends from America upon a religious visit to these parts;
@@ -105,12 +116,16 @@ which will tend to promote our own comfort,
 and we shall not be accessory towards the hurt which comes from
 the unchristian like proceedings of many in the present time.
 
+[.signed-section-closing]
 I am your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 4 Mo. 1784.
 
+[.salutation]
 Esteemed Friend,
 
 We are not always alike qualified to express sentiments
@@ -168,10 +183,13 @@ and will be productive of good to them who love and fear God.
 
 In concluding these few lines, I subscribe myself your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 26th 7 Mo. 1784.
 
+[.salutation]
 Esteemed Friend,
 
 We join with you in acknowledgments to the great author of our being,
@@ -239,10 +257,13 @@ but this requires constant watchfulness, and continual help from above.
 Having said thus much on a serious subject, and increased the length of my letter,
 I shall conclude with tenders of kind love, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 9 Mo. 1784.
 
+[.salutation]
 Dear Friend,
 
 We spent about three weeks in Holland; were two first days at Amsterdam;
@@ -271,10 +292,13 @@ and are not contented with the bare form and ceremonies of religion.
 After giving you this short account of my journey, I have not more to add,
 except kind love, in which I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1st of 11 Mo. 1784.
 
+[.salutation]
 Esteemed Friend,
 
 I fear it will happen to the Dutch, as it has happened,
@@ -290,10 +314,13 @@ when they deviate from rules of temperance and moderation,
 and are not kept in the fear of the Almighty, that a declension comes,
 and finally a fall from that state which they had not made a proper use of.
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 My esteemed Friend S. T.
 
 I have frequently had to remember the comfortable opportunities we had together,
@@ -343,10 +370,13 @@ In the hope of this I remain your true friend, and fellow-labourer,
 and companion in the service of the Truth,
 which is more precious to us than worldly considerations.
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11th of 1 Mo. 1785.
 
+[.salutation]
 Dear Friend G. D.
 
 You have been frequently in my remembrance, with an increasing regard and esteem;
@@ -377,10 +407,13 @@ and an excellent reward received when they shall all be over.
 I am with the tenders of true love,
 your affectionate friend and companion in the labour and fellowship of the gospel,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 20th 1 Mo. 1785.
 
+[.salutation]
 Respected Cousin,
 
 It is pleasant to hear of your cousin being so well recovered of his hurt;
@@ -407,12 +440,16 @@ people are taking undue liberties, to their great hurt,
 and the loss of that strength and stability which
 comes from a humble walking in the fear of the Lord.
 
+[.signed-section-closing]
 I am your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 29th 1 Mo.
 
+[.salutation]
 Much esteemed Friend,
 
 If we may form an idea of God`'s love from what is felt in our minds,
@@ -477,12 +514,16 @@ our life is filled with exercises and trials,
 and that we always stand in need of the Divine assistance
 to be joined with our feeble endeavours.
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 17th 4 Mo. 1785
 
+[.salutation]
 Esteemed Friend,
 
 The long continued cold weather we had in the winter
@@ -555,10 +596,13 @@ Thus I am apt to express my thoughts; if I have said the same in former letters,
 I hope it will be excused.
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 19th 7th Mo. 1785.
 
+[.salutation]
 Esteemed Friend,
 
 What you say concerning the writer of certain poems is remarkable.
@@ -583,10 +627,13 @@ and requires not more of us than he will enable to perform.
 
 I conclude with the tenders of kind love, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th 12 Mo. 1785.
 
+[.salutation]
 Dear Cousin J. M.
 
 When I heard of your being returned from your late journey,
@@ -615,12 +662,16 @@ whether in body or mind.
 And this, I trust, is the motive of my writing at this time to my respected cousin,
 of whose recovery I shall be glad to hear, if consistent with the Divine will.
 
+[.signed-section-closing]
 I am your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester.
 
+[.salutation]
 Respected Friend,
 
 When the meeting`'s conclusion upon any business which may be under consideration,
@@ -648,8 +699,10 @@ if the intention is good (as I hope it is) let us judge favourably of it.
 
 I remain with true regard, your affectionate well-wishing friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 Dear Friend,
 
 I am inclined to send you my cordial salutation in the love of Christ,
@@ -669,12 +722,16 @@ but to live up to that knowledge is a benefit so necessary,
 that without it we may still be as unprofitable servants, who knowing the master`'s will,
 have not prepared ourselves to do it.
 
+[.signed-section-closing]
 From your true friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 3rd 10 Mo. 1785.
 
+[.salutation]
 Esteemed Friend,
 
 It gives us pleasure to be informed of your late journey; whenever we take such journeys,
@@ -696,10 +753,13 @@ and take the cup allotted us without complaint, it will be a happy experience.
 
 I subscribe myself as formerly, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 11 Mo. 1785.
 
+[.salutation]
 Dear Friend J. R.
 
 Though we have to meet with many changes, and are often in afflictions,
@@ -732,10 +792,13 @@ With desires for your welfare and preservation,
 and that true comfort may attend you in times of affliction,
 from the giver of all comfort, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 3 Mo. 1786.
 
+[.salutation]
 Esteemed Friend,
 
 Your reflections often occasion thoughts which are useful,
@@ -759,12 +822,16 @@ If we are not without our troubles, let us remember they are good for us.
 It is to be desired that we may take the cup of affliction, and say with the good man,
 the Lord gave, and he has taken away; blessed be the name of the Lord!
 
+[.signed-section-closing]
 I am your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 10 Mo. 1786.
 
+[.salutation]
 Dear Aunt,
 
 We wish your son comfort in his change of condition; I have no doubt it will be so,
@@ -779,12 +846,16 @@ the discharge of religious duty being their principal concern,
 that blessing will attend which makes truly rich, and adds no sorrow with it,
 which is my desire for them more than for an increase of earthly treasure.
 
+[.signed-section-closing]
 I remain your affectionate kinsman,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 15th of 11 Mo. 1786.
 
+[.salutation]
 Esteemed Friend W. P.
 
 As you observe, health of body is a great blessing,
@@ -858,10 +929,13 @@ it becomes us to be cautious in forming our judgment concerning the state of the
 Having now exceeded the usual bounds of a letter,
 I shall conclude with subscribing myself your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 1 Mo. 19th, 1787.
 
+[.salutation]
 Dear Friend J. V--f.
 
 We see friendship formed with views of outward advantage,
@@ -879,6 +953,8 @@ and by this you will not be rendered unfit to fill up your place in society,
 or discharge your duty in a civil capacity towards your relations and friends,
 but be made more useful to them.
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K
