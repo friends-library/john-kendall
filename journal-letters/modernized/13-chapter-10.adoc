@@ -1,7 +1,9 @@
 == Chapter 10
 
+[.signed-section-context-open]
 Colchester, 30th 7 Mo. 1799.
 
+[.salutation]
 Dear Friend,
 
 I consider it as a favour that I am seldom hindered
@@ -36,12 +38,16 @@ Let us pray for an increase of such,
 and especially that the Divine visitation may be extended to the youth among us,
 for the benefit of this and the next generation.
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd 11 Mo. 1799.
 
+[.salutation]
 Dear Friend,
 
 I expect you are frequently called upon to be assisting to your friends and neighbours,
@@ -53,12 +59,16 @@ We shall not however be discouraged by the little appearance of success,
 nor by ungrateful returns we have to meet with,
 as that love which has been the moving cause of our conduct still prevails.
 
+[.signed-section-closing]
 I rest your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 24th 12 Mo. 1799.
 
+[.salutation]
 Esteemed Friend A. F.
 
 It may afford you some pleasure to receive this small token of love from an old acquaintance,
@@ -90,10 +100,13 @@ by whose permission they come.
 Having thus enlarged my writing beyond what was expected,
 I shall conclude with tenders of kind love from your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 8th 1st Mo. 1800.
 
+[.salutation]
 Dear Friend,
 
 My mind is filled with sympathy in considering your present sad condition;
@@ -169,10 +182,13 @@ as that you might be an instrument of good to your family,
 is the desire of your affectionate friend,
 who is interested in your welfare and restoration,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 5th 4 Mo. 1800.
 
+[.salutation]
 Dear Nephew,
 
 I have often thought that the faith and practice of true Christians,
@@ -227,10 +243,13 @@ which no cross occurrences of this life, or temporal losses are able to dissolve
 
 I remain your affectionate relation and friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 3rd 5 Mo. 1800.
 
+[.salutation]
 Dear friend R. R--ds,
 
 The correspondence between us has been so pleasant,
@@ -258,10 +277,13 @@ as we continue faithful, and hold fast our integrity to the end.
 
 I am your sincere friend, nearly united in the Truth,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 18th 8 Mo. 1800.
 
+[.salutation]
 Dear Friend T. B.
 
 Though some months are passed since the receipt of your letter,
@@ -287,10 +309,13 @@ and more prepared for the enjoyment of an inheritance in the heavenly kingdom,
 whenever it shall please the Lord to remove us from the exercises and troubles of time.`"
 With tenders of kind love, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th 2 Mo. 1801.
 
+[.salutation]
 Dear Friend J. B.
 
 In the love and friendship which subsists between us,
@@ -331,10 +356,13 @@ to be our evening song.
 With desires for your good success and prosperity, through the Lord`'s blessing,
 in this and all your undertakings, I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 2nd 9 Mo. 1801.
 
+[.salutation]
 Dear Friend William Pluym of Haarlem.
 
 I am not easy to suppress an inclination which has attended my mind for some time past,
@@ -393,10 +421,13 @@ We have had many friends from America upon religious visits to this nation,
 who are returned home.
 I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 21st 6 Mo. 1801.
 
+[.salutation]
 Dear Friend,
 
 I conclude you are not without a share; of affliction, with others,
@@ -411,10 +442,13 @@ there will be no room for complaint; he is a rich rewarder of them that serve hi
 I wish to have these lines received, as a token of love and esteem,
 from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 11 Mo. 1801.
 
+[.salutation]
 Dear Friend,
 
 The treatment you have lately met with from the riotous people,
@@ -444,10 +478,13 @@ if but to express the friendship between us, from a similarity of our exercise.
 
 I remain with tenders of kind love, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 29th 11 Mo. 1801.
 
+[.salutation]
 Dear Friend,
 
 Not seeing you, as I had expected, before my return to Colchester,
@@ -490,6 +527,7 @@ who never rejects those who apply to him in faith and repentance.
 With desires for your preservation in the path which leads to peace and happiness,
 in the present life, and in that which is to come, I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
 The good esteem I had for several of your relations, now deceased,
@@ -500,8 +538,10 @@ and been honourable in their day, may walk in the same way,
 that the reputation of our society may be preserved from one generation to another,
 by the religious orderly conduct of its members.
 
+[.signed-section-context-open]
 Colchester, 18th 1 Mo. 1802.
 
+[.salutation]
 Dear Cousin,
 
 The having so much the approbation of your friends in the intended connection,
@@ -520,12 +560,16 @@ who will find with those who have had experience of it,
 that all the ways of piety and holiness, are ways of pleasantness,
 and all her paths are peace.
 
+[.signed-section-closing]
 I remain your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 12th 4 Mo. 1802.
 
+[.salutation]
 Dear Friend,
 
 When trouble attends my friends,
@@ -580,12 +624,16 @@ put your trust in him, and let nothing remove your confidence in him;
 and he that has begun a good work in you,
 will perfect it to his praise and your everlasting salvation.
 
+[.signed-section-closing]
 I am your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 12th 6 Mo. 1802.
 
+[.salutation]
 Dear Friend,
 
 I am pleased in reading the small work which you kindly presented to me;
@@ -617,15 +665,16 @@ known in the favour of him who is the everlasting Father and friend of his peopl
 
 My wife joins in kind respects to you, from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 17th 8 Mo. 1802.
 
-To the Friends Popplein, of Amsterdam,
-with other religiously disposed persons who meet
-together for the purpose of religious worship,
-in the way, wherein they experience edification and comfort to their minds.
+[.blurb]
+=== To the Friends Popplein, of Amsterdam, with other religiously disposed persons who meet together for the purpose of religious worship, in the way, wherein they experience edification and comfort to their minds.
 
+[.salutation]
 Dear Friends,
 
 I have remembered you with much affection, and am inclined to write a few lines,
@@ -678,10 +727,13 @@ in the strength of that love which is not produced by earthly motives.
 
 In much affection, and with desires for your welfare, I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 7 Mo. 1803.
 
+[.salutation]
 Dear Nephew,
 
 I have thought it will be no small favour to us, in these times of commotion,
@@ -727,10 +779,13 @@ and not to the leadings of Christ`'s spirit.
 Having thus increased my letter beyond what I expected,
 shall only add that I am your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 30th 7 Mo. 1803.
 
+[.salutation]
 Dear Friend L. M--y.
 
 I should think myself lacking in gratitude if I omitted
@@ -776,10 +831,13 @@ in this sacred office to the further help of the church.
 
 I subscribe myself, with tenders of kind love, your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 18th 11 Mo. 1803.
 
+[.salutation]
 Dear Friend,
 
 Yours of the 29th 7 mo.
@@ -811,12 +869,16 @@ it may fill our minds with wonder; also with thankfulness,
 in that it has pleased the Almighty thus to give us an opportunity of improvement,
 by the exercise of those good qualities which tend to fit us for our last change.
 
+[.signed-section-closing]
 From your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 7th 2 Mo. 1805.
 
+[.salutation]
 Dear Friend R. C--r,
 
 I have received your kind letter, with the account of subscriptions,
@@ -851,12 +913,16 @@ like them of this life, can reach us!
 
 My cousin A. D. joins in kind love to you, from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.offset]
 The following short character of my dear wife is
 taken from the Ipswich Journal of January 19th,
 1805.
 
+[quote]
+____
 On the 5th Inst, died in Colchester, after a short illness, Ann Kendall,
 the wife of John Kendall, aged about seventy, one of the people called Quakers,
 sincerely lamented by the poor and a numerous acquaintance.
@@ -871,9 +937,12 @@ as the apostle said of Phebe, "`She has been a succourer of many, and of me also
 The benevolence of her mind appeared on every proper occasion; and, more especially,
 in that well-known charity in the town of Colchester,
 an alms-house for the benefit of poor widows, which she was the means of establishing.
+____
 
+[.signed-section-context-open]
 Colchester, 11th 10 Mo. 1804.
 
+[.salutation]
 Dear Friend,
 
 I have nothing in particular to inform you of, concerning your late publications,
@@ -904,8 +973,10 @@ In the same love which has prevailed in our minds towards each other,
 and likeness of disposition, for promoting the welfare of our friends,
 and mankind in general, as ability was given, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.salutation]
 Dear Nephew,
 
 My engagements are not such as to make me forget my old friends;
@@ -935,7 +1006,11 @@ for whose sake the judgments, which been threatened, may be averted.
 
 I remain, with tenders of kind love, in which my wife joins, your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
+
+[.postscript]
+====
 
 It may give you pleasure to hear that our charity
 for poor widows has succeeded beyond expectation.
@@ -944,3 +1019,5 @@ the widows of poor men who died in the charity of Arthur Winsley.
 A neighbour has left to it, by will, upwards of five hundred pounds,
 and another neighbour two hundred pounds;
 these bequests have enabled us to enlarge the weekly allowance to the widows.
+
+====
