@@ -1,12 +1,13 @@
 [short="Remarks on Attending Stage Entertainments"]
 == Remarks on the Prevailing Custom of Attending Stage Entertainments; also on the Present Taste for Reading Romances and Novels; and on some other Customs
 
-Submitted, with a heart overflowing with good-will,
-to the notice and consideration of the Professors of the Christian name,
-in the different religious Societies.
+[.blurb]
+=== Submitted, with a heart overflowing with good-will, to the notice and consideration of the Professors of the Christian name, in the different religious Societies.
 
-Vitarc peccatum, est vitare occasioncs peccati.
+[.centered]
+_Vitarc peccatum, est vitare occasioncs peccati._
 
+[.offset]
 Reprinted from the Third Edition.
 
 === Remarks, etc.
@@ -175,14 +176,18 @@ I am inclined to add the sentiments of some excellent
 persons in times past on this subject,
 in hopes their judgment may tend to check these indigences.
 
+[.offset]
 Archbishop Tillotson says of plays;
 
+[quote]
+____
 They are not fit to be admitted in a civilized, much less a Christian, nation.
 They do most notoriously minister to vice and infidelity.
 By their profaneness, they are apt to instil bad principles into the minds of men,
 and to lessen that awe and reverence which all men ought to have of God and religion:
 and by their lewdness, they teach vice, and are apt to infect the minds of men,
 and dispose them to lewd and dissolute practices.
+____
 
 Another writer remarks, "`Those who think that plays make no ill impression on them,
 because they do not find them excite any formed evil desire, deceive themselves greatly.
@@ -212,7 +217,7 @@ the bolder they are to imitate you in this--You are accessory then to their sin;
 and if plays give you no wounds of themselves,
 you wound yourselves by those which others receive from your example;
 and thus you are the most guilty.
-Let it be considered.`'
+Let it be considered."`
 
 Nothing better shows the danger of plays, and how much they are forbidden to Christians,
 than their opposition to the state of mind in which
@@ -230,16 +235,23 @@ who are called by the same name,
 and profess to be reformed from the superstition
 and other gross practices of a degenerated church.
 
+[.offset]
 One of the early writers thus expresses himself:
 
+[quote]
+____
 Many imagine it is not certain there is any sin in going to the play; but,
 whatever they may think of it, plays do certainly cause abundance of evil:
 for the pleasure that is taken in them produces all sorts of debauchery.
 We are not only obliged to avoid sin,
 but we ought also to shun those things which do insensibly lead to it.
+____
 
+[.offset]
 He adds,
 
+[quote]
+____
 It is not fit for us to pass our time in diversions and entertainments,
 which are only fit for players.
 This is by no means the spirit of those who are called to an eternal kingdom;
@@ -251,9 +263,12 @@ For this end he hath caused theatres to be erected in public places;
 and makes use of them to infect, as with a plague, the whole city.
 St. Paul hath forbid foolish jesting, and whatever tends to vain diversion;
 but Satan persuades us to love both the one and the other.
+____
 
 A writer of great note, and general esteem, of later times, says,
 
+[quote]
+____
 The hearts of men are so perverse and blind,
 that they imagine the world to be in full felicity,
 when the inhabitants of it think of nothing but adorning and embellishing their houses,
@@ -265,6 +280,7 @@ If God permits those disorders to prevail, and leaves these crimes unpunished,
 `'tis then he may be said to punish them most severely;
 but when by poverty he prevents the increase and excess of voluptuousness and dissipation,
 however contrary to our desires, it is an effect of his mercy.
+____
 
 Having made these remarks on the stage entertainments,
 which are so much attended to in the present time,
@@ -367,8 +383,11 @@ and rulers in the land, that they would come forward by their example,
 to stop the increasing dissipation and undue liberties, which are taken in many respects,
 to the great dishonour of the Christian name!
 
+[.offset]
 A certain writer says,
 
+[quote]
+____
 It is a sad consideration that the interest of the revenue
 should be suffered to prevail over the good of the nation:
 and the conduct of those servants of the public deserves severe animadversion,
@@ -378,6 +397,7 @@ and are witnesses to their fatal consequences to the health and morals of the pe
 
 This is indeed reversing the order of civil government,
 and elevating inferior interests to the most important principles.
+____
 
 In speaking of the propriety and usefulness of having one day in the week,
 most especially, appropriated to religious purposes,
@@ -387,7 +407,11 @@ footnote:[Sir Matthew Hale.]
 who says, in the instruction to his children,
 concerning their observation of the day called Sunday,
 
-Opus Diei, in Die suo.
+[.embedded-content-document]
+--
+
+[.centered]
+_Opus Diei, in Die suo._
 
 I have found, by long experience, that the due observance of this day,
 and the duties of it, have been of singular comfort and advantage to me;
@@ -402,6 +426,8 @@ and on the contrary, when I have been negligent of the concerns of this day,
 the rest of the week hath been unsuccessful to my own secular employments;
 and this I do not mention inconsiderately, but upon long observation and experience.
 
+--
+
 It is said of this good man, in the account of his life,
 that he was constant in his attendance on public worship, with very little intermission,
 for near forty years.
@@ -414,8 +440,11 @@ and so to conduct himself in the fear of Almighty God,
 as to be fit for a removal from this state of trial,
 whenever the summons might come to him from the great Ruler of the world!
 
+[.offset]
 Another writer on the subject, which I have met with, says,
 
+[quote]
+____
 The fourth commandment, which enjoins a certain day to be observed as a sabbath,
 cannot be called moral in the first and highest sense;
 for from the nature of things no reason can be assigned, why the seventh day,
@@ -438,6 +467,7 @@ and also may give opportunity for meditations and discourses on those subjects.
 are not under such strictness as the Jews were, still the law stands,
 for separating a day from the common business of life,
 and applying it to a religious rest.
+____
 
 I may mention, however, with sorrow,
 that in opposition to the general consent of the nation and laws of the land,
@@ -507,6 +537,9 @@ as containing matters of great importance to all who desire
 to pass the time of their continuance in this life,
 so as to have a well-grounded hope and happiness hereafter.
 
+[.embedded-content-document]
+--
+
 There is nothing I ought to wish for so much,
 as to have my heart clean in the sight of God, so that after I die,
 my soul may be happy forever.
@@ -536,3 +569,5 @@ If I sincerely apply my heart to these duties,
 I may humbly hope that the Almighty will continue unto me the assistance of his grace,
 and, will thereby enable me to perform them: and then I shall be made happy in this life,
 and eternally happy hereafter.
+
+--

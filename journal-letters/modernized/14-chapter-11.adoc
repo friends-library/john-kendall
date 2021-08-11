@@ -1,7 +1,9 @@
 == Chapter 11
 
+[.signed-section-context-open]
 Colchester, 1st 11 Mo. 1804.
 
+[.salutation]
 Dear Cousin,
 
 It is a cause of comfort to receive tokens of each other`'s love by a correspondence;
@@ -61,12 +63,16 @@ I have thus enlarged my writing beyond what I had expected, and shall not add an
 that I am joined by my wife and cousin A. D. in kind love to you,
 and our mutual friend with whom you reside.
 
+[.signed-section-closing]
 From your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 13th 2 Mo. 1805.
 
+[.salutation]
 Dear Nephew,
 
 The loss I have met with in the decease of my dear wife, is indeed great;
@@ -117,7 +123,11 @@ is a principal cause of comfort to my mind.
 Nothing further occurring to mention but my kind love to you and your wife and children,
 I subscribe myself your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
+
+[.postscript]
+====
 
 The removal of my dear wife was very sudden, being affected with a palsy,
 by which she soon lost her speech.
@@ -132,8 +142,12 @@ and intend to preserve as a sweet memorial of one whom I greatly loved and estee
 as a disciple of her Lord and Master,
 and for her good understanding both in a natural and religious sense.
 
+====
+
+[.signed-section-context-open]
 Colchester, 27th 8 Mo. 1805.
 
+[.salutation]
 Dear --,
 
 Since I received your letter,
@@ -176,10 +190,11 @@ and fresh crosses and disappointments.
 
 Having thus given you my thoughts on the subject mentioned, I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
-To my dear Friends of the Quarterly Meeting of Ministers and Elders,
-to be held at Chelmsford.
+[.blurb]
+=== To my dear Friends of the Quarterly Meeting of Ministers and Elders, to be held at Chelmsford.
 
 Being prevented by weakness and bodily infirmity from attending the meeting as usual,
 I am inclined to express, by a few lines,
@@ -196,10 +211,13 @@ to promote his cause.
 
 I send this as a salutation of true love from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 11 Mo. 1805.
 
+[.salutation]
 Dear Friends J. and A. H.
 
 You have been frequently in my remembrance, both before and since I was at your house,
@@ -227,8 +245,10 @@ it will compensate for the lack of numbers.
 
 These are as a token of true regard and esteem from your affectionate friend, J. K.
 
+[.signed-section-context-open]
 Colchester, 23rd 11 Mo. 1805
 
+[.salutation]
 Dear Cousin J. B.
 
 I would not have it thought I slight your correspondence
@@ -254,12 +274,16 @@ Thus I am apt to write concerning one I so much loved; not to exalt her characte
 but that we may be excited to follow her example,
 till the days of our pilgrimage here are ended.
 
+[.signed-section-closing]
 I remain your affectionate cousin,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 28th 1st Mo. 1806.
 
+[.salutation]
 Dear Friend D. B.
 
 I received your letter of the 9th mo.
@@ -288,12 +312,16 @@ us in the management of our domestic affairs,
 as well as to advise with occasionally in matters which require our notice.
 It will be pleasant to hear from you when convenient.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 25th 3rd Mo. 1806.
 
+[.salutation]
 Dear Friends,
 
 In the same love which first united us,
@@ -395,12 +423,15 @@ had a considerable influence on the minds of several of her near relations;
 which is in some degree confirmed by what her niece`'s husband says to me,
 in a letter as follows.
 
+[quote]
+____
 My wife is much affected with the loss of her dear aunt,
 a tender and affectionate relation,
 to whom she was much attached from a very early period of her life; and from whom,
 as she tells me this evening,
 she might probably be indebted for the first serious thoughts
 she had ever entertained on the subject of religion.
+____
 
 After having thus enlarged my letter, I shall only mention concerning myself,
 that my health is favourably continued, so that I can at times visit my friends,
@@ -414,10 +445,13 @@ I may submit to his will without complaining or discontent.
 
 In much affection, and with true regard, I remain your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 19th 6 Mo. 1806.
 
+[.salutation]
 Dear Nephew,
 
 The love and regard expressed in your letter is acceptable to me;
@@ -447,12 +481,16 @@ I am pleased to find that what our friends have done in America,
 towards civilizing the native Indians, meets with your approbation;
 friends in England are about to raise a sum of money to assist in this undertaking.
 
+[.signed-section-closing]
 I remain your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 3rd 10 Mo. 1806
 
+[.salutation]
 Dear Cousin,
 
 Several circumstances have occurred,--among them is the decease of my brother William,
@@ -468,10 +506,13 @@ and made a means of preparing him for his great change.
 He more than once expressed to me his desire that I would pray for him, saying,
 "`Dear brother, pray for me.`"
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 27th 11 Mo. 1806.
 
+[.salutation]
 Dear Nephew,
 
 I have now before me your kind letter of 4th 8 mo.
@@ -512,10 +553,13 @@ which was produced in times of our first acquaintance.
 
 With tenders of kind love, I remain your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 29th 12 Mo. 1806.
 
+[.salutation]
 Dear Relation,
 
 I received your letter,
@@ -547,12 +591,16 @@ they are friends for whom I have a true regard and esteem:
 I wish you to cultivate their acquaintance,
 and with other sober reputable friends among whom you reside.
 
+[.signed-section-closing]
 I am your affectionate relation,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 22nd 1 Mo. 1807.
 
+[.salutation]
 Dear Friend,
 
 You have been often in my remembrance since I made you a visit;
@@ -597,12 +645,16 @@ I am thinking it will be likely to help you, if you were to take some gentle exe
 in the air, at least once in the day, when the weather admits;
 and I would advise you not to let the expense which it may be attended with prevent.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 10th 4 Mo. 1807.
 
+[.salutation]
 Dear Nephew,
 
 Though I have thus long deferred to acknowledge the receipt of your kind letter,
@@ -634,12 +686,16 @@ and had it not been for a religious disposition taking place in my mind,
 and the good example and care of a near relation,
 there is room to think great harm to me would have ensued.
 
+[.signed-section-closing]
 I remain your affectionate uncle,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 5th 5 Mo. 1807.
 
+[.salutation]
 Dear Friend,
 
 I doubt not it will afford you pleasure to be informed
@@ -666,10 +722,13 @@ it is best, therefore, to be contented in all the dispensations of Providence to
 These are thoughts which occur to me, in writing to a friend whom I much esteem.
 In the same love, which has long subsisted between us, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 5th 6th Mo. 1807.
 
+[.salutation]
 Dear Friend,
 
 You have had a large share of affliction,
@@ -701,10 +760,13 @@ will be rightly supported.
 
 I am, with tenders of kind love to you and your children, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 20th 8 Mo. 1807.
 
+[.salutation]
 Dear Friend,
 
 Your letter of the 14th 7 mo.
@@ -732,10 +794,13 @@ that it may be imprinted on their memory.
 
 With tenders of kind love to you and your dear wife, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 4th 6 Mo. 1811.
 
+[.salutation]
 Dear Friend W. S.
 
 Yesterday, upon my return from making a few visits to my friends in the town,
@@ -780,10 +845,13 @@ I consider we are interested in the welfare one of another.
 
 With tenders of true love, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Colchester, 9th 7 Mo. 1814.
 
+[.salutation]
 My Dear Friend J. G. B.
 
 In the love and true friendship which took place
@@ -818,10 +886,13 @@ as a monument of mercy, being now in the 89th year of his life.
 If these few lines should come to your hands, consider them as an effort of true love,
 in which I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ K.
 
+[.signed-section-context-open]
 Stoke Newington, 7th Mo. 11, 1814.
 
+[.salutation]
 My Dear Friend John Kendall,
 
 Your letter of 9th is very pleasant to me,
@@ -856,8 +927,10 @@ are witnessing the blessed effects of a long life of faith in the Redeemer of me
 Farewell, my dear ancient friend; continue to believe me to be,
 with all the ability with which my feeble mind is invented, yours affectionately,
 
+[.signed-section-signature]
 J+++.+++ G. Bevan
 
+[.the-end]
 The End
 
 [.asterism]
