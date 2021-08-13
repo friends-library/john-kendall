@@ -1,13 +1,18 @@
 [short="Remarks on Attending Stage Entertainments"]
-== Remarks on the Prevailing Custom of Attending Stage Entertainments; also on the Present Taste for Reading Romances and Novels; and on some other Customs
+== Remarks on the Prevailing Custom of Attending Stage Entertainments
 
-[.blurb]
-=== Submitted, with a heart overflowing with good-will, to the notice and consideration of the Professors of the Christian name, in the different religious Societies.
+[.heading-continuation-blurb]
+Also on the Present Taste for Reading Romances and Novels; and on some other Customs
+
+[.heading-continuation-blurb]
+Submitted, with a heart overflowing with good-will,
+to the notice and consideration of the Professors of the Christian name,
+in the different religious Societies.
 
 [.centered]
 _Vitarc peccatum, est vitare occasioncs peccati._
 
-[.offset]
+[.section-author-context]
 Reprinted from the Third Edition.
 
 === Remarks, etc.

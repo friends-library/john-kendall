@@ -1,20 +1,20 @@
 [short="Considerations on the Value of Time"]
 == A Friendly Address to My Neighbors of the Town of Colchester, and Others Whom It May Concern. Occasioned by Considerations of the Value of Time, and the Advantage of a Right Improvement of It.
 
-[quote.scripture, , ]
+[quote.section-epigraph]
 ____
-For you know perfectly, that the day of the Lord so cometh as a theif in the night.
+For you know perfectly, that the day of the Lord so comes as a theif in the night.
 ____
 
-[quote.scripture, , ]
+[quote.section-epigraph]
 ____
 Therefore let us watch, and be sober.
 ____
 
-[quote.scripture, , 1 Thess 5.]
+[quote.section-epigraph]
 ____
 Let us who are of the day, be sober, putting on the breast-plate of Faith and Love,
-and for an helmet, the Hope of Salvation.
+and for a helmet, the Hope of Salvation. --1 Thess. 5.
 ____
 
 [.offset]
