@@ -3,7 +3,7 @@
 
 [quote.section-epigraph]
 ____
-For you know perfectly, that the day of the Lord so comes as a theif in the night.
+For you know perfectly, that the day of the Lord so cometh as a thief in the night.
 ____
 
 [quote.section-epigraph]
@@ -11,10 +11,10 @@ ____
 Therefore let us watch, and be sober.
 ____
 
-[quote.section-epigraph]
+[quote.section-epigraph, , 1 Thess. 5.]
 ____
 Let us who are of the day, be sober, putting on the breast-plate of Faith and Love,
-and for a helmet, the Hope of Salvation. --1 Thess. 5.
+and for an helmet, the Hope of Salvation.
 ____
 
 [.offset]
