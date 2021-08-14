@@ -71,9 +71,11 @@ and fitness to meet my dear Saviour.`"
 And then repeated several texts of scripture, and two or three verses,
 which was his frequent practice, particularly the following:
 
+[verse]
+____
 My fears and cares and doubts are known, O Lord, to you;
-
 If I am helped to do your will, it is enough for me.
+____
 
 Desiring his love to all his friends, he repeated these words of our Saviour,
 "`Let not your heart be troubled, you believe in God, believe also in me.`"
@@ -154,16 +156,20 @@ His remains were interred in Friends`' burial ground
 at Colchester the 3rd of the 2nd month,
 attended by a large number of Friends and others.
 
+[.signed-section-context-close]
 Signed in Colchester Monthly Meeting, held by adjournment the 1st of the 3rd Mo. 1815.
 
+[.signed-section-signature]
 Thomas Thorby, Clerk, Thomas Catchpool, John Gripper, Edw.
 Upcher Brockway, John Dehorne, Joseph Catchpool, Isaac Kendall, Jonathan Powell,
 Edward Gripper, Isaac Barrett, William Cross, Robert Dell, James Candler,
 Thomas Catchpool, Jr., Peter Potter, James Barritt, Isaac Young, John W. Cross,
 Charles Hicks, Robert Knight, John Barrett Young
 
+[.signed-section-context-close]
 Signed in the Women`'s Meeting held at same time, by
 
+[.signed-section-signature]
 A+++.+++ E. Brockway, Clerk, Jane Catchpool, Elizabeth Gridley, Sarah Garritt, K. Catchpool,
 Sr., Elizabeth Davison, Elizabeth Kendall, Emma E. Woodward, Mary Catchpool,
 Mary Powell, Susanna Barrett, Mary Candler, Hannah Bass, Elizabeth Coe,
@@ -171,11 +177,15 @@ Katherine Catchpool, Eliza Kendall, Elizabeth Catchpool, Mary Kendall, Rebecca B
 Elizabeth Powell, Emma Woodward, Matilda Brockway, Ann Cross, Eliza Thorby,
 Rebecca Candler, Hannah Sewell, Hannah Cross, Elizabeth Wood
 
+[.signed-section-context-close]
 Read and approved in Essex Quarterly Meeting, held at Coggeshall 14th of 3rd Mo. 1815,
 and signed in and on behalf thereof by
 
+[.signed-section-signature]
 John Gripper, Clerk.
 
+[.signed-section-context-close]
 Read and signed in and on behalf of the Women`'s Quarterly Meeting by
 
+[.signed-section-signature]
 Hannah Marriage, Clerk.
